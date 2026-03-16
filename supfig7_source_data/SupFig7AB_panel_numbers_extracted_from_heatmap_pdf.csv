@@ -1,0 +1,11 @@
+panel,meaning,shared_count,subtype,subtype_specific_count,pdf_specific_order,panel_x_order,numbers_raw
+A,Upregulated in OA,361,ECs,266,5,1,"361,203,379,406,334,266"
+A,Upregulated in OA,361,LCs,334,4,2,"361,203,379,406,334,266"
+A,Upregulated in OA,361,Lym,406,3,3,"361,203,379,406,334,266"
+A,Upregulated in OA,361,Myoids,379,2,4,"361,203,379,406,334,266"
+A,Upregulated in OA,361,STs,203,1,5,"361,203,379,406,334,266"
+B,Downregulated in OA,224,ECs,216,5,1,"224,167,62,308,299,216"
+B,Downregulated in OA,224,LCs,299,4,2,"224,167,62,308,299,216"
+B,Downregulated in OA,224,Lym,308,3,3,"224,167,62,308,299,216"
+B,Downregulated in OA,224,Myoids,62,2,4,"224,167,62,308,299,216"
+B,Downregulated in OA,224,STs,167,1,5,"224,167,62,308,299,216"

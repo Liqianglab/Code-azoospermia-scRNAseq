@@ -1,0 +1,2 @@
+panel,metric_definition
+E,"pct_expressed = mean(raw_expr > 0) * 100; mean_log1p = mean(log1p(raw_expr)); group order follows Ctrl, OA, AZFc_Del, iNOA_B, iNOA_S, KS when present."

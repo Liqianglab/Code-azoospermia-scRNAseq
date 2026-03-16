@@ -1,0 +1,11 @@
+group,panel_cluster,count
+Ctrl,Immune cells,245
+Ctrl,Sertoli cells,616
+Ctrl,Myoid cells,252
+Ctrl,Leydig cells,130
+Ctrl,Endothelial cells,178
+OA,Immune cells,11
+OA,Sertoli cells,670
+OA,Myoid cells,38
+OA,Leydig cells,66
+OA,Endothelial cells,26

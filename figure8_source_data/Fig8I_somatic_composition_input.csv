@@ -1,0 +1,15 @@
+cluster,group,count
+ECs,Ctrl,178
+LCs,Ctrl,130
+Macrophages,Ctrl,205
+Myoids,Ctrl,252
+STs,Ctrl,616
+TCells,Ctrl,5
+cDCs,Ctrl,35
+ECs,OA,26
+LCs,OA,66
+Macrophages,OA,7
+Myoids,OA,38
+STs,OA,670
+TCells,OA,2
+cDCs,OA,2

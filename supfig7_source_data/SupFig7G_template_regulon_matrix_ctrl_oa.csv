@@ -1,0 +1,17 @@
+regulon,group,average_expression_value,value_source
+XBP1,Ctrl,,to_fill_if_raw_matrix_available
+XBP1,OA,,to_fill_if_raw_matrix_available
+SREBF2,Ctrl,,to_fill_if_raw_matrix_available
+SREBF2,OA,,to_fill_if_raw_matrix_available
+ZBTB11,Ctrl,,to_fill_if_raw_matrix_available
+ZBTB11,OA,,to_fill_if_raw_matrix_available
+ILF2,Ctrl,,to_fill_if_raw_matrix_available
+ILF2,OA,,to_fill_if_raw_matrix_available
+EP300,Ctrl,,to_fill_if_raw_matrix_available
+EP300,OA,,to_fill_if_raw_matrix_available
+E2F6,Ctrl,,to_fill_if_raw_matrix_available
+E2F6,OA,,to_fill_if_raw_matrix_available
+TCF7L2,Ctrl,,to_fill_if_raw_matrix_available
+TCF7L2,OA,,to_fill_if_raw_matrix_available
+ZNF770,Ctrl,,to_fill_if_raw_matrix_available
+ZNF770,OA,,to_fill_if_raw_matrix_available

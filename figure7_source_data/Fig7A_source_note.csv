@@ -1,0 +1,2 @@
+panel,note
+A,"Panel A uses exported scMetabolism featureplot PDFs. In this workspace, no direct per-cell score table for these three UMAPs was found; group-level scMeta diff matrices are provided as numeric support."

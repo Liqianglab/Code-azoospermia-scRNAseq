@@ -1,0 +1,6 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Downregulated in OA,1,Chromosome segregation,chromosome segregation,exact,True,5.68535613189905e-22,21.245242325826847,82,82/1372,346/18723
+Downregulated in OA,2,RNA splicing,RNA splicing,exact,True,2.91609979074167e-19,18.535197618273504,89,89/1372,434/18723
+Downregulated in OA,3,Aerobic respiration,aerobic respiration,exact,True,4.12239397695197e-12,11.384850505075033,44,44/1372,189/18723
+Downregulated in OA,4,Oxidative phosphorylation,oxidative phosphorylation,exact,True,4.76967254819875e-12,11.321511435507443,37,37/1372,141/18723
+Downregulated in OA,5,ATP metabolic process,ATP metabolic process,exact,True,2.72610000811927e-11,10.56445821593434,54,54/1372,277/18723

@@ -1,0 +1,4 @@
+symbol,rule
+*,q < 0.05 (Benjamini-Hochberg FDR)
+**,q < 0.01 (Benjamini-Hochberg FDR)
+***,q < 0.001 (Benjamini-Hochberg FDR)

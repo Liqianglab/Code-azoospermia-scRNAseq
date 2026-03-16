@@ -1,0 +1,6971 @@
+Group,Value,Metric
+Control,31.0,age
+Control,29.0,age
+Control,29.0,age
+Control,32.0,age
+Control,27.0,age
+Control,36.0,age
+Control,38.0,age
+Control,23.0,age
+Control,27.0,age
+Control,42.0,age
+Control,33.0,age
+Control,26.0,age
+Control,24.0,age
+Control,29.0,age
+Control,37.0,age
+Control,32.0,age
+Control,33.0,age
+Control,37.0,age
+Control,30.0,age
+Control,36.0,age
+Control,42.0,age
+Control,33.0,age
+Control,28.0,age
+Control,29.0,age
+Control,32.0,age
+Control,41.0,age
+Control,31.0,age
+Control,28.0,age
+Control,30.0,age
+Control,30.0,age
+Control,29.0,age
+Control,30.0,age
+Control,37.0,age
+Control,34.0,age
+Control,34.0,age
+Control,32.0,age
+Control,32.0,age
+Control,27.0,age
+Control,46.0,age
+Control,40.0,age
+Control,43.0,age
+Control,27.0,age
+Control,33.0,age
+Control,31.0,age
+Control,26.0,age
+Control,46.0,age
+Control,32.0,age
+Control,35.0,age
+Control,30.0,age
+Control,32.0,age
+Control,37.0,age
+Control,40.0,age
+Control,23.0,age
+Control,31.0,age
+Control,39.0,age
+Control,25.0,age
+Control,33.0,age
+Control,38.0,age
+Control,32.0,age
+Control,37.0,age
+Control,40.0,age
+Control,29.0,age
+Control,33.0,age
+Control,29.0,age
+Control,33.0,age
+Control,22.0,age
+Control,41.0,age
+Control,29.0,age
+Control,35.0,age
+Control,26.0,age
+Control,41.0,age
+Control,45.0,age
+Control,37.0,age
+Control,39.0,age
+Control,39.0,age
+Control,31.0,age
+Control,32.0,age
+Control,31.0,age
+Control,31.0,age
+Control,35.0,age
+Control,32.0,age
+Control,33.0,age
+Control,31.0,age
+Control,29.0,age
+Control,27.0,age
+Control,44.0,age
+Control,25.0,age
+Control,32.0,age
+Control,35.0,age
+Control,48.0,age
+Control,43.0,age
+Control,49.0,age
+Control,27.0,age
+Control,30.0,age
+Control,30.0,age
+Control,36.0,age
+Control,34.0,age
+Control,48.0,age
+Control,30.0,age
+Control,33.0,age
+Control,34.0,age
+Control,46.0,age
+Control,40.0,age
+Control,33.0,age
+Control,36.0,age
+Control,31.0,age
+Control,45.0,age
+Control,42.0,age
+Control,30.0,age
+Control,36.0,age
+Control,40.0,age
+Control,41.0,age
+Control,34.0,age
+Control,34.0,age
+Control,35.0,age
+Control,33.0,age
+Control,53.0,age
+Control,29.0,age
+Control,26.0,age
+Control,30.0,age
+Control,42.0,age
+Control,44.0,age
+Control,38.0,age
+Control,24.0,age
+Control,26.0,age
+Control,34.0,age
+Control,22.0,age
+Control,31.0,age
+Control,27.0,age
+Control,31.0,age
+Control,30.0,age
+Control,31.0,age
+Control,34.0,age
+Control,41.0,age
+Control,39.0,age
+Control,33.0,age
+Control,29.0,age
+Control,37.0,age
+Control,36.0,age
+Control,36.0,age
+Control,33.0,age
+Control,34.0,age
+Control,32.0,age
+Control,27.0,age
+Control,25.0,age
+Control,35.0,age
+Control,35.0,age
+Control,38.0,age
+Control,33.0,age
+Control,31.0,age
+Control,29.0,age
+Control,43.0,age
+Control,35.0,age
+Control,31.0,age
+Control,27.0,age
+Control,41.0,age
+Control,24.0,age
+Control,39.0,age
+Control,32.0,age
+Control,41.0,age
+Control,37.0,age
+Control,33.0,age
+Control,49.0,age
+Control,33.0,age
+Control,39.0,age
+Control,25.0,age
+Control,28.0,age
+Control,29.0,age
+Control,37.0,age
+Control,32.0,age
+Control,24.0,age
+Control,51.0,age
+Control,32.0,age
+Control,32.0,age
+Control,25.0,age
+Control,36.0,age
+Control,24.0,age
+Control,37.0,age
+Control,33.0,age
+Control,30.0,age
+Control,33.0,age
+Control,39.0,age
+Control,36.0,age
+Control,31.0,age
+Control,32.0,age
+Control,31.0,age
+Control,41.0,age
+Control,35.0,age
+Control,36.0,age
+Control,34.0,age
+Control,25.0,age
+Control,23.0,age
+Control,35.0,age
+Control,43.0,age
+Control,29.0,age
+Control,30.0,age
+Control,41.0,age
+Control,41.0,age
+Control,32.0,age
+Control,36.0,age
+Control,29.0,age
+Control,30.0,age
+Control,33.0,age
+Control,30.0,age
+Control,35.0,age
+Control,43.0,age
+Control,37.0,age
+Control,34.0,age
+Control,49.0,age
+Control,25.0,age
+Control,32.0,age
+Control,32.0,age
+Control,30.0,age
+Control,38.0,age
+Control,29.0,age
+Control,28.0,age
+Control,29.0,age
+Control,34.0,age
+Control,35.0,age
+Control,33.0,age
+Control,25.0,age
+Control,25.0,age
+Control,38.0,age
+Control,29.0,age
+Control,33.0,age
+Control,28.0,age
+Control,28.0,age
+Control,30.0,age
+Control,38.0,age
+Control,41.0,age
+Control,29.0,age
+Control,30.0,age
+Control,36.0,age
+Control,31.0,age
+Control,24.0,age
+Control,34.0,age
+Control,31.0,age
+Control,35.0,age
+Control,26.0,age
+Control,30.0,age
+Control,24.0,age
+Control,32.0,age
+Control,32.0,age
+Control,33.0,age
+Control,31.0,age
+Control,25.0,age
+Control,39.0,age
+Control,33.0,age
+Control,33.0,age
+Control,31.0,age
+Control,30.0,age
+Control,32.0,age
+Control,28.0,age
+Control,38.0,age
+Control,30.0,age
+Control,35.0,age
+Control,36.0,age
+Control,34.0,age
+Control,28.0,age
+Control,41.0,age
+Control,31.0,age
+Control,24.0,age
+Control,30.0,age
+Control,36.0,age
+Control,29.0,age
+Control,37.0,age
+Control,35.0,age
+Control,31.0,age
+Control,31.0,age
+Control,30.0,age
+Control,25.0,age
+Control,53.0,age
+Control,30.0,age
+Control,33.0,age
+Control,39.0,age
+Control,28.0,age
+Control,45.0,age
+Control,31.0,age
+Control,33.0,age
+Control,28.0,age
+Control,25.0,age
+Control,43.0,age
+Control,32.0,age
+Control,31.0,age
+Control,34.0,age
+Control,37.0,age
+Control,34.0,age
+Control,33.0,age
+Control,31.0,age
+Control,38.0,age
+Control,31.0,age
+Control,29.0,age
+Control,37.0,age
+Control,35.0,age
+Control,31.0,age
+Control,29.0,age
+Control,32.0,age
+Control,34.0,age
+Control,37.0,age
+Control,45.0,age
+Control,32.0,age
+Control,46.0,age
+Control,39.0,age
+Control,31.0,age
+Control,42.0,age
+Control,27.0,age
+Control,34.0,age
+Control,31.0,age
+Control,32.0,age
+Control,30.0,age
+Control,24.0,age
+Control,33.0,age
+Control,33.0,age
+Control,35.0,age
+Control,40.0,age
+Control,36.0,age
+Control,35.0,age
+Control,34.0,age
+Control,33.0,age
+Control,29.0,age
+Control,43.0,age
+Control,37.0,age
+Control,30.0,age
+Control,33.0,age
+Control,39.0,age
+Control,26.0,age
+Control,36.0,age
+Control,44.0,age
+Control,29.0,age
+Control,30.0,age
+Control,49.0,age
+Control,37.0,age
+Control,38.0,age
+Control,22.0,age
+Control,32.0,age
+Control,30.0,age
+Control,38.0,age
+Control,30.0,age
+Control,36.0,age
+Control,35.0,age
+Control,32.0,age
+Control,30.0,age
+Control,35.0,age
+Control,26.0,age
+Control,36.0,age
+Control,28.0,age
+Control,38.0,age
+Control,23.0,age
+Control,32.0,age
+Control,31.0,age
+Control,31.0,age
+Control,27.0,age
+Control,37.0,age
+Control,30.0,age
+Control,39.0,age
+Control,36.0,age
+Control,27.0,age
+Control,29.0,age
+Control,23.0,age
+Control,31.0,age
+Control,39.0,age
+Control,30.0,age
+Control,27.0,age
+Control,37.0,age
+Control,40.0,age
+Control,33.0,age
+Control,36.0,age
+Control,32.0,age
+Control,38.0,age
+Control,27.0,age
+Control,22.0,age
+Control,31.0,age
+Control,33.0,age
+Control,32.0,age
+Control,45.0,age
+Control,33.0,age
+Control,31.0,age
+Control,35.0,age
+Control,36.0,age
+Control,33.0,age
+Control,33.0,age
+Control,37.0,age
+Control,33.0,age
+Control,30.0,age
+Control,30.0,age
+Control,30.0,age
+Control,33.0,age
+Control,26.0,age
+Control,22.0,age
+Control,31.0,age
+Control,35.0,age
+Control,35.0,age
+Control,34.0,age
+Control,35.0,age
+Control,31.0,age
+Control,32.0,age
+Control,32.0,age
+Control,29.0,age
+Control,37.0,age
+Control,30.0,age
+Control,27.0,age
+Control,30.0,age
+Control,36.0,age
+Control,36.0,age
+Control,32.0,age
+Control,32.0,age
+Control,30.0,age
+Control,36.0,age
+Control,33.0,age
+Control,35.0,age
+Control,32.0,age
+Control,30.0,age
+Control,42.0,age
+Control,37.0,age
+Control,25.0,age
+Control,31.0,age
+Control,35.0,age
+Control,29.0,age
+Control,32.0,age
+Control,40.0,age
+Control,31.0,age
+Control,35.0,age
+Control,37.0,age
+Control,33.0,age
+Control,29.0,age
+Control,37.0,age
+Control,40.0,age
+Control,31.0,age
+Control,32.0,age
+Control,34.0,age
+Control,28.0,age
+Control,32.0,age
+Control,35.0,age
+Control,31.0,age
+Control,45.0,age
+Control,30.0,age
+Control,29.0,age
+Control,34.0,age
+Control,27.0,age
+Control,22.0,age
+Control,30.0,age
+Control,29.0,age
+Control,35.0,age
+Control,34.0,age
+Control,34.0,age
+Control,32.0,age
+Control,30.0,age
+Control,30.0,age
+Control,35.0,age
+Control,37.0,age
+Control,33.0,age
+Control,41.0,age
+Control,41.0,age
+Control,30.0,age
+Control,32.0,age
+Control,36.0,age
+NOA,32.0,age
+NOA,28.0,age
+NOA,32.0,age
+NOA,29.0,age
+NOA,32.0,age
+NOA,36.0,age
+NOA,29.0,age
+NOA,28.0,age
+NOA,35.0,age
+NOA,30.0,age
+NOA,29.0,age
+NOA,36.0,age
+NOA,37.0,age
+NOA,44.0,age
+NOA,34.0,age
+NOA,36.0,age
+NOA,43.0,age
+NOA,34.0,age
+NOA,26.0,age
+NOA,33.0,age
+NOA,36.0,age
+NOA,37.0,age
+NOA,32.0,age
+NOA,30.0,age
+NOA,23.0,age
+NOA,35.0,age
+NOA,30.0,age
+NOA,28.0,age
+NOA,28.0,age
+NOA,27.0,age
+NOA,25.0,age
+NOA,31.0,age
+NOA,32.0,age
+NOA,26.0,age
+NOA,33.0,age
+NOA,31.0,age
+NOA,30.0,age
+NOA,54.0,age
+NOA,28.0,age
+NOA,35.0,age
+NOA,33.0,age
+NOA,41.0,age
+NOA,36.0,age
+NOA,49.0,age
+NOA,33.0,age
+NOA,35.0,age
+NOA,34.0,age
+NOA,36.0,age
+NOA,42.0,age
+NOA,29.0,age
+NOA,26.0,age
+NOA,29.0,age
+NOA,27.0,age
+NOA,32.0,age
+NOA,43.0,age
+NOA,41.0,age
+NOA,27.0,age
+NOA,33.0,age
+NOA,33.0,age
+NOA,34.0,age
+NOA,33.0,age
+NOA,30.0,age
+NOA,30.0,age
+NOA,39.0,age
+NOA,34.0,age
+NOA,32.0,age
+NOA,31.0,age
+NOA,47.0,age
+NOA,39.0,age
+NOA,39.0,age
+NOA,29.0,age
+NOA,37.0,age
+NOA,32.0,age
+NOA,36.0,age
+NOA,36.0,age
+NOA,35.0,age
+NOA,36.0,age
+NOA,24.0,age
+NOA,30.0,age
+NOA,31.0,age
+NOA,31.0,age
+NOA,31.0,age
+NOA,37.0,age
+NOA,32.0,age
+NOA,29.0,age
+NOA,22.0,age
+NOA,33.0,age
+NOA,26.0,age
+NOA,31.0,age
+NOA,30.0,age
+NOA,41.0,age
+NOA,34.0,age
+NOA,42.0,age
+NOA,33.0,age
+NOA,49.0,age
+NOA,33.0,age
+NOA,30.0,age
+NOA,25.0,age
+NOA,31.0,age
+NOA,34.0,age
+NOA,32.0,age
+NOA,35.0,age
+NOA,35.0,age
+NOA,32.0,age
+NOA,39.0,age
+NOA,23.0,age
+NOA,27.0,age
+NOA,34.0,age
+NOA,30.0,age
+NOA,36.0,age
+NOA,25.0,age
+NOA,32.0,age
+NOA,37.0,age
+NOA,45.0,age
+NOA,28.0,age
+NOA,32.0,age
+NOA,34.0,age
+NOA,39.0,age
+NOA,36.0,age
+NOA,36.0,age
+NOA,32.0,age
+NOA,31.0,age
+NOA,33.0,age
+NOA,34.0,age
+NOA,37.0,age
+NOA,34.0,age
+NOA,30.0,age
+NOA,34.0,age
+NOA,30.0,age
+NOA,39.0,age
+NOA,28.0,age
+NOA,29.0,age
+NOA,32.0,age
+NOA,36.0,age
+NOA,33.0,age
+NOA,28.0,age
+NOA,26.0,age
+NOA,31.0,age
+NOA,44.0,age
+NOA,34.0,age
+NOA,32.0,age
+NOA,32.0,age
+OA,33.0,age
+OA,33.0,age
+OA,26.0,age
+OA,30.0,age
+OA,36.0,age
+OA,31.0,age
+OA,25.0,age
+OA,36.0,age
+OA,22.0,age
+OA,29.0,age
+OA,29.0,age
+OA,25.0,age
+OA,22.0,age
+OA,28.0,age
+OA,35.0,age
+OA,22.0,age
+OA,24.0,age
+OA,34.0,age
+OA,29.0,age
+OA,30.0,age
+OA,41.0,age
+OA,24.0,age
+OA,33.0,age
+OA,26.0,age
+OA,28.0,age
+OA,23.0,age
+OA,32.0,age
+OA,27.0,age
+OA,32.0,age
+OA,28.0,age
+OA,25.0,age
+OA,33.0,age
+OA,29.0,age
+OA,34.0,age
+OA,30.0,age
+OA,26.0,age
+OA,34.0,age
+OA,29.0,age
+OA,30.0,age
+OA,34.0,age
+OA,31.0,age
+OA,32.0,age
+OA,27.0,age
+OA,34.0,age
+OA,26.0,age
+OA,30.0,age
+OA,22.0,age
+OA,63.0,age
+OA,26.0,age
+OA,30.0,age
+OA,30.0,age
+OA,30.0,age
+OA,33.0,age
+OA,28.0,age
+OA,48.0,age
+OA,30.0,age
+OA,34.0,age
+OA,39.0,age
+OA,48.0,age
+OA,31.0,age
+OA,39.0,age
+OA,30.0,age
+OA,24.0,age
+OA,24.0,age
+OA,33.0,age
+OA,26.0,age
+OA,26.0,age
+OA,25.0,age
+OA,29.0,age
+OA,22.0,age
+OA,25.0,age
+OA,38.0,age
+OA,22.0,age
+OA,29.0,age
+OA,61.0,age
+OA,35.0,age
+OA,32.0,age
+OA,24.0,age
+OA,33.0,age
+OA,23.0,age
+OA,27.0,age
+OA,25.0,age
+OA,36.0,age
+OA,30.0,age
+OA,25.0,age
+OA,26.0,age
+OA,32.0,age
+OA,32.0,age
+OA,23.0,age
+OA,29.0,age
+OA,36.0,age
+OA,27.0,age
+OA,23.0,age
+OA,27.0,age
+OA,34.0,age
+OA,27.0,age
+OA,42.0,age
+OA,26.0,age
+OA,31.0,age
+OA,35.0,age
+OA,37.0,age
+OA,30.0,age
+OA,34.0,age
+OA,27.0,age
+OA,31.0,age
+OA,34.0,age
+OA,28.0,age
+OA,33.0,age
+OA,37.0,age
+OA,30.0,age
+OA,27.0,age
+OA,31.0,age
+OA,27.0,age
+OA,23.0,age
+OA,47.0,age
+OA,48.0,age
+OA,36.0,age
+OA,32.0,age
+OA,41.0,age
+OA,29.0,age
+OA,29.0,age
+OA,30.0,age
+OA,29.0,age
+OA,29.0,age
+OA,30.0,age
+OA,25.0,age
+OA,32.0,age
+OA,33.0,age
+OA,29.0,age
+OA,32.0,age
+OA,31.0,age
+OA,33.0,age
+OA,28.0,age
+OA,35.0,age
+OA,26.0,age
+OA,30.0,age
+OA,33.0,age
+OA,29.0,age
+OA,54.0,age
+OA,24.0,age
+OA,25.0,age
+OA,30.0,age
+OA,26.0,age
+OA,31.0,age
+OA,39.0,age
+OA,25.0,age
+OA,27.0,age
+OA,30.0,age
+OA,36.0,age
+OA,35.0,age
+OA,27.0,age
+OA,26.0,age
+OA,29.0,age
+OA,38.0,age
+OA,33.0,age
+OA,30.0,age
+OA,30.0,age
+OA,37.0,age
+OA,35.0,age
+OA,58.0,age
+OA,40.0,age
+OA,26.0,age
+OA,31.0,age
+OA,24.0,age
+OA,30.0,age
+OA,25.0,age
+OA,33.0,age
+OA,22.0,age
+OA,36.0,age
+OA,28.0,age
+OA,26.0,age
+OA,41.0,age
+OA,30.0,age
+OA,29.0,age
+OA,30.0,age
+OA,25.0,age
+OA,30.0,age
+OA,40.0,age
+OA,25.0,age
+OA,27.0,age
+OA,30.0,age
+OA,25.0,age
+OA,31.0,age
+OA,31.0,age
+OA,28.0,age
+OA,35.0,age
+OA,38.0,age
+OA,36.0,age
+OA,35.0,age
+OA,24.0,age
+OA,30.0,age
+OA,29.0,age
+OA,45.0,age
+OA,31.0,age
+OA,23.0,age
+OA,44.0,age
+OA,29.0,age
+OA,32.0,age
+OA,29.0,age
+OA,26.0,age
+OA,35.0,age
+OA,33.0,age
+OA,41.0,age
+OA,27.0,age
+OA,29.0,age
+OA,36.0,age
+OA,32.0,age
+OA,26.0,age
+OA,28.0,age
+OA,31.0,age
+OA,24.0,age
+OA,38.0,age
+OA,38.0,age
+OA,32.0,age
+OA,31.0,age
+OA,25.0,age
+OA,41.0,age
+OA,29.0,age
+OA,30.0,age
+OA,22.0,age
+OA,24.0,age
+OA,38.0,age
+OA,38.0,age
+OA,30.0,age
+OA,39.0,age
+OA,25.0,age
+OA,29.0,age
+OA,32.0,age
+OA,29.0,age
+OA,22.0,age
+OA,28.0,age
+OA,34.0,age
+OA,30.0,age
+OA,31.0,age
+OA,34.0,age
+OA,25.0,age
+OA,49.0,age
+OA,27.0,age
+OA,28.0,age
+OA,25.0,age
+OA,26.0,age
+OA,28.0,age
+OA,47.0,age
+OA,24.0,age
+OA,27.0,age
+OA,25.0,age
+OA,28.0,age
+OA,22.0,age
+OA,41.0,age
+OA,36.0,age
+OA,30.0,age
+OA,33.0,age
+OA,43.0,age
+OA,32.0,age
+OA,31.0,age
+OA,33.0,age
+OA,47.0,age
+OA,37.0,age
+OA,31.0,age
+OA,28.0,age
+OA,28.0,age
+OA,30.0,age
+OA,35.0,age
+OA,37.0,age
+OA,30.0,age
+OA,32.0,age
+OA,27.0,age
+OA,44.0,age
+OA,31.0,age
+OA,30.0,age
+OA,36.0,age
+OA,27.0,age
+OA,26.0,age
+OA,27.0,age
+OA,41.0,age
+OA,24.0,age
+OA,32.0,age
+OA,27.0,age
+OA,28.0,age
+OA,55.0,age
+OA,37.0,age
+OA,55.0,age
+OA,40.0,age
+OA,33.0,age
+OA,32.0,age
+OA,28.0,age
+OA,30.0,age
+OA,37.0,age
+OA,29.0,age
+OA,34.0,age
+OA,35.0,age
+OA,27.0,age
+OA,32.0,age
+OA,37.0,age
+OA,32.0,age
+OA,32.0,age
+OA,39.0,age
+OA,52.0,age
+OA,31.0,age
+OA,27.0,age
+OA,32.0,age
+OA,24.0,age
+OA,35.0,age
+OA,33.0,age
+OA,25.0,age
+OA,29.0,age
+OA,26.0,age
+OA,30.0,age
+OA,30.0,age
+OA,29.0,age
+OA,30.0,age
+OA,23.0,age
+OA,32.0,age
+OA,29.0,age
+OA,28.0,age
+OA,36.0,age
+OA,30.0,age
+OA,36.0,age
+OA,24.0,age
+OA,34.0,age
+OA,37.0,age
+OA,32.0,age
+OA,37.0,age
+OA,27.0,age
+OA,37.0,age
+OA,31.0,age
+OA,32.0,age
+OA,30.0,age
+OA,39.0,age
+OA,34.0,age
+OA,28.0,age
+OA,32.0,age
+OA,35.0,age
+OA,36.0,age
+OA,28.0,age
+OA,28.0,age
+OA,34.0,age
+OA,31.0,age
+OA,25.0,age
+OA,23.0,age
+OA,42.0,age
+OA,27.0,age
+OA,27.0,age
+OA,25.0,age
+OA,26.0,age
+OA,52.0,age
+OA,29.0,age
+OA,43.0,age
+OA,30.0,age
+OA,29.0,age
+OA,39.0,age
+OA,32.0,age
+OA,33.0,age
+OA,32.0,age
+OA,28.0,age
+OA,37.0,age
+OA,40.0,age
+OA,49.0,age
+OA,27.0,age
+OA,34.0,age
+OA,27.0,age
+OA,27.0,age
+OA,28.0,age
+OA,32.0,age
+OA,31.0,age
+OA,39.0,age
+OA,29.0,age
+OA,24.0,age
+OA,33.0,age
+OA,34.0,age
+OA,27.0,age
+OA,27.0,age
+OA,28.0,age
+OA,48.0,age
+OA,33.0,age
+OA,37.0,age
+OA,33.0,age
+OA,22.0,age
+OA,25.0,age
+OA,34.0,age
+OA,34.0,age
+OA,29.0,age
+OA,34.0,age
+OA,50.0,age
+OA,40.0,age
+OA,36.0,age
+OA,38.0,age
+OA,38.0,age
+OA,37.0,age
+OA,37.0,age
+OA,27.0,age
+OA,26.0,age
+OA,30.0,age
+OA,31.0,age
+OA,41.0,age
+OA,46.0,age
+OA,36.0,age
+OA,43.0,age
+Control,461.0,Testosterone
+Control,663.0,Testosterone
+Control,331.0,Testosterone
+Control,1030.0,Testosterone
+Control,559.0,Testosterone
+Control,329.0,Testosterone
+Control,510.0,Testosterone
+Control,424.7,Testosterone
+Control,150.0,Testosterone
+Control,626.0,Testosterone
+Control,325.0,Testosterone
+Control,321.0,Testosterone
+Control,765.4,Testosterone
+Control,141.0,Testosterone
+Control,225.94,Testosterone
+Control,302.0,Testosterone
+Control,672.5,Testosterone
+Control,196.1,Testosterone
+Control,302.0,Testosterone
+Control,562.7,Testosterone
+Control,405.0,Testosterone
+Control,360.0,Testosterone
+Control,192.1,Testosterone
+Control,216.0,Testosterone
+Control,468.0,Testosterone
+Control,385.3,Testosterone
+Control,255.0,Testosterone
+Control,449.0,Testosterone
+Control,755.0,Testosterone
+Control,260.0,Testosterone
+Control,331.0,Testosterone
+Control,348.0,Testosterone
+Control,507.0,Testosterone
+Control,454.2,Testosterone
+Control,241.0,Testosterone
+Control,510.0,Testosterone
+Control,496.0,Testosterone
+Control,521.0,Testosterone
+Control,405.5,Testosterone
+Control,416.3,Testosterone
+Control,279.0,Testosterone
+Control,307.0,Testosterone
+Control,374.1,Testosterone
+Control,463.3,Testosterone
+Control,428.0,Testosterone
+Control,433.0,Testosterone
+Control,463.0,Testosterone
+Control,288.0,Testosterone
+Control,305.0,Testosterone
+Control,350.0,Testosterone
+Control,351.0,Testosterone
+Control,409.6,Testosterone
+Control,498.0,Testosterone
+Control,663.0,Testosterone
+Control,406.0,Testosterone
+Control,387.0,Testosterone
+Control,345.0,Testosterone
+Control,238.0,Testosterone
+Control,449.0,Testosterone
+Control,251.0,Testosterone
+Control,469.7,Testosterone
+Control,219.0,Testosterone
+Control,285.0,Testosterone
+Control,10.1,Testosterone
+Control,500.6,Testosterone
+Control,220.4,Testosterone
+Control,272.0,Testosterone
+Control,335.8,Testosterone
+Control,252.0,Testosterone
+Control,676.0,Testosterone
+Control,576.0,Testosterone
+Control,771.5,Testosterone
+Control,486.0,Testosterone
+Control,390.0,Testosterone
+Control,378.0,Testosterone
+Control,518.0,Testosterone
+Control,350.0,Testosterone
+Control,211.0,Testosterone
+Control,277.2,Testosterone
+Control,527.0,Testosterone
+Control,398.0,Testosterone
+Control,326.2,Testosterone
+Control,413.0,Testosterone
+Control,355.0,Testosterone
+Control,200.0,Testosterone
+Control,468.6,Testosterone
+Control,236.0,Testosterone
+Control,476.0,Testosterone
+Control,459.0,Testosterone
+Control,397.8,Testosterone
+Control,340.0,Testosterone
+Control,351.0,Testosterone
+Control,275.0,Testosterone
+Control,328.0,Testosterone
+Control,491.4,Testosterone
+Control,289.0,Testosterone
+Control,372.0,Testosterone
+Control,769.0,Testosterone
+Control,376.0,Testosterone
+Control,373.0,Testosterone
+Control,456.0,Testosterone
+Control,434.0,Testosterone
+Control,366.0,Testosterone
+Control,145.0,Testosterone
+Control,459.0,Testosterone
+Control,546.0,Testosterone
+Control,217.0,Testosterone
+Control,330.0,Testosterone
+Control,675.0,Testosterone
+Control,532.0,Testosterone
+Control,651.0,Testosterone
+Control,797.0,Testosterone
+Control,554.0,Testosterone
+Control,303.7,Testosterone
+Control,337.0,Testosterone
+Control,234.9,Testosterone
+Control,636.0,Testosterone
+Control,454.0,Testosterone
+Control,575.0,Testosterone
+Control,311.24,Testosterone
+Control,448.5,Testosterone
+Control,700.7,Testosterone
+Control,333.0,Testosterone
+Control,541.0,Testosterone
+Control,286.0,Testosterone
+Control,506.0,Testosterone
+Control,276.7,Testosterone
+Control,607.0,Testosterone
+Control,363.0,Testosterone
+Control,493.0,Testosterone
+Control,423.0,Testosterone
+Control,229.0,Testosterone
+Control,151.0,Testosterone
+Control,313.0,Testosterone
+Control,439.0,Testosterone
+Control,404.0,Testosterone
+Control,197.0,Testosterone
+Control,375.0,Testosterone
+Control,243.0,Testosterone
+Control,218.0,Testosterone
+Control,330.0,Testosterone
+Control,700.0,Testosterone
+Control,329.0,Testosterone
+Control,439.0,Testosterone
+Control,386.0,Testosterone
+Control,349.0,Testosterone
+Control,321.0,Testosterone
+Control,721.0,Testosterone
+Control,315.0,Testosterone
+Control,270.9,Testosterone
+Control,410.0,Testosterone
+Control,279.25,Testosterone
+Control,522.9,Testosterone
+Control,252.0,Testosterone
+Control,342.0,Testosterone
+Control,330.0,Testosterone
+Control,894.0,Testosterone
+Control,366.0,Testosterone
+Control,417.0,Testosterone
+Control,245.0,Testosterone
+Control,328.0,Testosterone
+Control,184.0,Testosterone
+Control,392.0,Testosterone
+Control,347.0,Testosterone
+Control,842.0,Testosterone
+Control,244.0,Testosterone
+Control,591.64,Testosterone
+Control,204.0,Testosterone
+Control,622.0,Testosterone
+Control,641.3,Testosterone
+Control,330.0,Testosterone
+Control,299.4,Testosterone
+Control,272.0,Testosterone
+Control,265.0,Testosterone
+Control,560.0,Testosterone
+Control,374.93,Testosterone
+Control,844.0,Testosterone
+Control,300.4,Testosterone
+Control,438.0,Testosterone
+Control,519.8,Testosterone
+Control,583.9,Testosterone
+Control,200.0,Testosterone
+Control,183.0,Testosterone
+Control,508.0,Testosterone
+Control,400.0,Testosterone
+Control,383.0,Testosterone
+Control,377.0,Testosterone
+Control,606.2,Testosterone
+Control,655.0,Testosterone
+Control,428.0,Testosterone
+Control,538.0,Testosterone
+Control,272.0,Testosterone
+Control,546.0,Testosterone
+Control,330.0,Testosterone
+Control,277.0,Testosterone
+Control,266.9,Testosterone
+Control,464.3,Testosterone
+Control,329.0,Testosterone
+Control,251.5,Testosterone
+Control,379.0,Testosterone
+Control,500.0,Testosterone
+Control,356.0,Testosterone
+Control,507.0,Testosterone
+Control,300.0,Testosterone
+Control,369.0,Testosterone
+Control,519.0,Testosterone
+Control,244.0,Testosterone
+Control,201.0,Testosterone
+Control,282.0,Testosterone
+Control,371.1,Testosterone
+Control,319.8,Testosterone
+Control,449.0,Testosterone
+Control,459.7,Testosterone
+Control,389.0,Testosterone
+Control,688.0,Testosterone
+Control,414.7,Testosterone
+Control,446.0,Testosterone
+Control,477.0,Testosterone
+Control,330.0,Testosterone
+Control,294.0,Testosterone
+Control,464.0,Testosterone
+Control,244.0,Testosterone
+Control,349.0,Testosterone
+Control,728.0,Testosterone
+Control,237.0,Testosterone
+Control,253.0,Testosterone
+Control,356.0,Testosterone
+Control,240.0,Testosterone
+Control,457.0,Testosterone
+Control,606.0,Testosterone
+Control,405.0,Testosterone
+Control,544.0,Testosterone
+Control,458.0,Testosterone
+Control,234.0,Testosterone
+Control,317.1,Testosterone
+Control,340.0,Testosterone
+Control,430.0,Testosterone
+Control,399.7,Testosterone
+Control,464.0,Testosterone
+Control,337.0,Testosterone
+Control,472.7,Testosterone
+Control,518.0,Testosterone
+Control,253.0,Testosterone
+Control,467.0,Testosterone
+Control,407.0,Testosterone
+Control,570.0,Testosterone
+Control,334.0,Testosterone
+Control,363.2,Testosterone
+Control,718.0,Testosterone
+Control,185.0,Testosterone
+Control,457.4,Testosterone
+Control,471.6,Testosterone
+Control,299.0,Testosterone
+Control,355.0,Testosterone
+Control,350.0,Testosterone
+Control,288.0,Testosterone
+Control,704.0,Testosterone
+Control,163.69,Testosterone
+Control,207.0,Testosterone
+Control,703.0,Testosterone
+Control,296.0,Testosterone
+Control,428.0,Testosterone
+Control,593.0,Testosterone
+Control,519.0,Testosterone
+Control,376.0,Testosterone
+Control,336.0,Testosterone
+Control,285.0,Testosterone
+Control,512.0,Testosterone
+Control,477.0,Testosterone
+Control,297.1,Testosterone
+Control,377.7,Testosterone
+Control,329.0,Testosterone
+Control,175.0,Testosterone
+Control,524.0,Testosterone
+Control,561.0,Testosterone
+Control,324.0,Testosterone
+Control,571.0,Testosterone
+Control,444.0,Testosterone
+Control,545.5,Testosterone
+Control,292.0,Testosterone
+Control,393.6,Testosterone
+Control,762.6,Testosterone
+Control,452.0,Testosterone
+Control,339.7,Testosterone
+Control,479.0,Testosterone
+Control,334.0,Testosterone
+Control,605.7,Testosterone
+Control,676.95,Testosterone
+Control,307.0,Testosterone
+Control,288.0,Testosterone
+Control,360.0,Testosterone
+Control,225.0,Testosterone
+Control,464.0,Testosterone
+Control,355.0,Testosterone
+Control,339.0,Testosterone
+Control,356.5,Testosterone
+Control,238.0,Testosterone
+Control,126.0,Testosterone
+Control,629.0,Testosterone
+Control,525.0,Testosterone
+Control,273.0,Testosterone
+Control,365.0,Testosterone
+Control,303.0,Testosterone
+Control,346.0,Testosterone
+Control,373.3,Testosterone
+Control,442.5,Testosterone
+Control,399.6,Testosterone
+Control,147.0,Testosterone
+Control,556.9,Testosterone
+Control,368.0,Testosterone
+Control,272.0,Testosterone
+Control,404.0,Testosterone
+Control,221.3,Testosterone
+Control,619.0,Testosterone
+Control,308.0,Testosterone
+Control,410.0,Testosterone
+Control,381.0,Testosterone
+Control,261.0,Testosterone
+Control,738.0,Testosterone
+Control,469.0,Testosterone
+Control,298.0,Testosterone
+Control,328.0,Testosterone
+Control,467.0,Testosterone
+Control,436.0,Testosterone
+Control,297.0,Testosterone
+Control,372.9,Testosterone
+Control,212.0,Testosterone
+Control,297.0,Testosterone
+Control,200.0,Testosterone
+Control,350.1,Testosterone
+Control,458.0,Testosterone
+Control,586.0,Testosterone
+Control,292.0,Testosterone
+Control,300.0,Testosterone
+Control,441.0,Testosterone
+Control,220.0,Testosterone
+Control,459.0,Testosterone
+Control,472.0,Testosterone
+Control,204.0,Testosterone
+Control,773.0,Testosterone
+Control,404.0,Testosterone
+Control,357.93,Testosterone
+Control,215.0,Testosterone
+Control,444.0,Testosterone
+Control,515.9,Testosterone
+Control,352.0,Testosterone
+Control,336.0,Testosterone
+Control,404.0,Testosterone
+Control,405.0,Testosterone
+Control,304.0,Testosterone
+Control,376.0,Testosterone
+Control,206.0,Testosterone
+Control,416.0,Testosterone
+Control,387.0,Testosterone
+Control,404.4,Testosterone
+Control,269.0,Testosterone
+Control,368.88,Testosterone
+Control,483.9,Testosterone
+Control,402.4,Testosterone
+Control,283.0,Testosterone
+Control,629.0,Testosterone
+Control,686.0,Testosterone
+Control,408.0,Testosterone
+Control,478.0,Testosterone
+Control,452.0,Testosterone
+Control,443.0,Testosterone
+Control,419.0,Testosterone
+Control,420.0,Testosterone
+Control,265.0,Testosterone
+Control,517.0,Testosterone
+Control,375.0,Testosterone
+Control,385.0,Testosterone
+Control,426.0,Testosterone
+Control,543.0,Testosterone
+Control,308.5,Testosterone
+Control,169.0,Testosterone
+Control,429.0,Testosterone
+Control,174.0,Testosterone
+Control,347.0,Testosterone
+Control,510.0,Testosterone
+Control,472.0,Testosterone
+Control,314.0,Testosterone
+Control,729.0,Testosterone
+Control,384.0,Testosterone
+Control,364.0,Testosterone
+Control,270.0,Testosterone
+Control,531.0,Testosterone
+Control,390.0,Testosterone
+Control,221.0,Testosterone
+Control,299.0,Testosterone
+Control,273.0,Testosterone
+Control,274.0,Testosterone
+Control,678.0,Testosterone
+Control,331.0,Testosterone
+Control,434.0,Testosterone
+Control,408.0,Testosterone
+Control,370.0,Testosterone
+Control,517.0,Testosterone
+Control,303.0,Testosterone
+Control,428.82,Testosterone
+Control,548.0,Testosterone
+Control,573.0,Testosterone
+Control,379.0,Testosterone
+Control,236.0,Testosterone
+Control,290.0,Testosterone
+Control,406.4,Testosterone
+Control,483.0,Testosterone
+Control,200.0,Testosterone
+Control,239.0,Testosterone
+Control,445.0,Testosterone
+Control,325.36,Testosterone
+Control,211.0,Testosterone
+Control,739.0,Testosterone
+Control,467.0,Testosterone
+Control,283.0,Testosterone
+Control,336.0,Testosterone
+Control,238.5,Testosterone
+Control,831.0,Testosterone
+Control,337.0,Testosterone
+Control,487.0,Testosterone
+Control,282.0,Testosterone
+Control,366.0,Testosterone
+Control,379.0,Testosterone
+Control,411.0,Testosterone
+Control,396.0,Testosterone
+Control,141.4,Testosterone
+Control,385.9,Testosterone
+Control,555.7,Testosterone
+Control,297.0,Testosterone
+Control,449.0,Testosterone
+Control,573.0,Testosterone
+Control,269.0,Testosterone
+Control,339.0,Testosterone
+Control,332.9,Testosterone
+Control,253.0,Testosterone
+Control,384.0,Testosterone
+Control,457.5,Testosterone
+Control,184.0,Testosterone
+Control,541.4,Testosterone
+Control,234.9,Testosterone
+Control,471.7,Testosterone
+Control,413.0,Testosterone
+Control,308.0,Testosterone
+Control,495.0,Testosterone
+Control,205.0,Testosterone
+Control,300.0,Testosterone
+Control,210.1,Testosterone
+Control,386.1,Testosterone
+Control,396.0,Testosterone
+Control,330.0,Testosterone
+Control,310.0,Testosterone
+Control,287.0,Testosterone
+Control,280.0,Testosterone
+Control,357.3,Testosterone
+NOA,181.0,Testosterone
+NOA,223.0,Testosterone
+NOA,870.0,Testosterone
+NOA,448.0,Testosterone
+NOA,453.3,Testosterone
+NOA,101.0,Testosterone
+NOA,241.0,Testosterone
+NOA,724.0,Testosterone
+NOA,375.0,Testosterone
+NOA,221.61,Testosterone
+NOA,9.14,Testosterone
+NOA,393.0,Testosterone
+NOA,109.0,Testosterone
+NOA,536.0,Testosterone
+NOA,414.2,Testosterone
+NOA,244.0,Testosterone
+NOA,417.3,Testosterone
+NOA,392.0,Testosterone
+NOA,306.5,Testosterone
+NOA,211.0,Testosterone
+NOA,323.0,Testosterone
+NOA,228.8,Testosterone
+NOA,415.0,Testosterone
+NOA,741.0,Testosterone
+NOA,247.0,Testosterone
+NOA,346.0,Testosterone
+NOA,407.0,Testosterone
+NOA,51.2,Testosterone
+NOA,976.0,Testosterone
+NOA,80.4,Testosterone
+NOA,320.0,Testosterone
+NOA,256.8,Testosterone
+NOA,248.0,Testosterone
+NOA,41.4,Testosterone
+NOA,314.0,Testosterone
+NOA,402.0,Testosterone
+NOA,123.0,Testosterone
+NOA,366.0,Testosterone
+NOA,370.0,Testosterone
+NOA,342.0,Testosterone
+NOA,325.0,Testosterone
+NOA,153.6,Testosterone
+NOA,326.5,Testosterone
+NOA,293.07,Testosterone
+NOA,249.0,Testosterone
+NOA,370.61,Testosterone
+NOA,346.0,Testosterone
+NOA,67.6,Testosterone
+NOA,21.1,Testosterone
+NOA,602.0,Testosterone
+NOA,479.0,Testosterone
+NOA,591.0,Testosterone
+NOA,207.0,Testosterone
+NOA,53.1,Testosterone
+NOA,409.0,Testosterone
+NOA,1049.0,Testosterone
+NOA,564.0,Testosterone
+NOA,130.0,Testosterone
+NOA,114.0,Testosterone
+NOA,477.4,Testosterone
+NOA,178.0,Testosterone
+NOA,511.0,Testosterone
+NOA,104.0,Testosterone
+NOA,281.0,Testosterone
+NOA,896.0,Testosterone
+NOA,978.0,Testosterone
+NOA,350.0,Testosterone
+NOA,432.0,Testosterone
+NOA,573.0,Testosterone
+NOA,242.0,Testosterone
+NOA,391.0,Testosterone
+NOA,205.0,Testosterone
+NOA,294.0,Testosterone
+NOA,251.0,Testosterone
+NOA,116.0,Testosterone
+NOA,235.0,Testosterone
+NOA,313.0,Testosterone
+NOA,356.0,Testosterone
+NOA,136.8,Testosterone
+NOA,149.9,Testosterone
+NOA,582.8,Testosterone
+NOA,219.9,Testosterone
+NOA,452.0,Testosterone
+NOA,310.2,Testosterone
+NOA,433.2,Testosterone
+NOA,235.0,Testosterone
+NOA,70.3,Testosterone
+NOA,309.0,Testosterone
+NOA,229.0,Testosterone
+NOA,311.82,Testosterone
+NOA,377.0,Testosterone
+NOA,407.0,Testosterone
+NOA,202.0,Testosterone
+NOA,213.0,Testosterone
+NOA,372.4,Testosterone
+NOA,434.0,Testosterone
+NOA,235.0,Testosterone
+NOA,295.0,Testosterone
+NOA,271.0,Testosterone
+NOA,447.7,Testosterone
+NOA,783.0,Testosterone
+NOA,256.0,Testosterone
+NOA,260.52,Testosterone
+NOA,268.15,Testosterone
+NOA,202.0,Testosterone
+NOA,451.0,Testosterone
+NOA,235.0,Testosterone
+NOA,871.0,Testosterone
+NOA,476.0,Testosterone
+NOA,556.0,Testosterone
+NOA,158.0,Testosterone
+NOA,486.0,Testosterone
+NOA,134.0,Testosterone
+NOA,251.0,Testosterone
+NOA,585.0,Testosterone
+NOA,309.0,Testosterone
+NOA,264.0,Testosterone
+NOA,85.8,Testosterone
+NOA,168.2,Testosterone
+NOA,426.0,Testosterone
+NOA,459.0,Testosterone
+NOA,603.0,Testosterone
+NOA,228.82,Testosterone
+NOA,420.6,Testosterone
+NOA,899.0,Testosterone
+NOA,258.0,Testosterone
+NOA,349.0,Testosterone
+NOA,111.9,Testosterone
+NOA,800.0,Testosterone
+NOA,313.0,Testosterone
+NOA,505.0,Testosterone
+NOA,411.0,Testosterone
+NOA,502.0,Testosterone
+NOA,772.0,Testosterone
+NOA,176.0,Testosterone
+NOA,261.89,Testosterone
+NOA,633.0,Testosterone
+NOA,431.4,Testosterone
+NOA,152.0,Testosterone
+NOA,356.0,Testosterone
+NOA,320.0,Testosterone
+NOA,520.0,Testosterone
+OA,282.0,Testosterone
+OA,217.0,Testosterone
+OA,675.8,Testosterone
+OA,464.2,Testosterone
+OA,299.0,Testosterone
+OA,484.9,Testosterone
+OA,425.0,Testosterone
+OA,687.4,Testosterone
+OA,527.95,Testosterone
+OA,405.0,Testosterone
+OA,653.2,Testosterone
+OA,290.0,Testosterone
+OA,720.0,Testosterone
+OA,688.0,Testosterone
+OA,474.5,Testosterone
+OA,677.0,Testosterone
+OA,388.11,Testosterone
+OA,257.0,Testosterone
+OA,441.0,Testosterone
+OA,413.0,Testosterone
+OA,151.0,Testosterone
+OA,210.0,Testosterone
+OA,153.6,Testosterone
+OA,361.0,Testosterone
+OA,420.1,Testosterone
+OA,843.0,Testosterone
+OA,255.0,Testosterone
+OA,315.0,Testosterone
+OA,171.0,Testosterone
+OA,256.0,Testosterone
+OA,409.0,Testosterone
+OA,367.0,Testosterone
+OA,514.0,Testosterone
+OA,369.0,Testosterone
+OA,352.9,Testosterone
+OA,430.26,Testosterone
+OA,406.0,Testosterone
+OA,318.0,Testosterone
+OA,699.0,Testosterone
+OA,186.74,Testosterone
+OA,386.0,Testosterone
+OA,319.0,Testosterone
+OA,351.0,Testosterone
+OA,338.0,Testosterone
+OA,357.0,Testosterone
+OA,299.0,Testosterone
+OA,277.0,Testosterone
+OA,268.0,Testosterone
+OA,378.0,Testosterone
+OA,419.0,Testosterone
+OA,511.0,Testosterone
+OA,638.0,Testosterone
+OA,333.0,Testosterone
+OA,343.0,Testosterone
+OA,585.0,Testosterone
+OA,184.0,Testosterone
+OA,109.0,Testosterone
+OA,289.4,Testosterone
+OA,262.6,Testosterone
+OA,388.0,Testosterone
+OA,225.0,Testosterone
+OA,271.0,Testosterone
+OA,366.0,Testosterone
+OA,89.02,Testosterone
+OA,604.0,Testosterone
+OA,521.0,Testosterone
+OA,391.0,Testosterone
+OA,572.0,Testosterone
+OA,310.0,Testosterone
+OA,180.0,Testosterone
+OA,804.3,Testosterone
+OA,399.0,Testosterone
+OA,265.4,Testosterone
+OA,143.0,Testosterone
+OA,205.0,Testosterone
+OA,306.5,Testosterone
+OA,480.0,Testosterone
+OA,583.0,Testosterone
+OA,337.0,Testosterone
+OA,276.0,Testosterone
+OA,265.0,Testosterone
+OA,444.0,Testosterone
+OA,270.0,Testosterone
+OA,239.0,Testosterone
+OA,295.0,Testosterone
+OA,366.0,Testosterone
+OA,514.0,Testosterone
+OA,732.0,Testosterone
+OA,500.0,Testosterone
+OA,323.0,Testosterone
+OA,256.0,Testosterone
+OA,301.3,Testosterone
+OA,446.0,Testosterone
+OA,176.0,Testosterone
+OA,181.0,Testosterone
+OA,442.71,Testosterone
+OA,193.0,Testosterone
+OA,258.0,Testosterone
+OA,431.0,Testosterone
+OA,229.0,Testosterone
+OA,477.0,Testosterone
+OA,408.24,Testosterone
+OA,267.0,Testosterone
+OA,565.42,Testosterone
+OA,382.0,Testosterone
+OA,259.0,Testosterone
+OA,538.0,Testosterone
+OA,427.0,Testosterone
+OA,500.0,Testosterone
+OA,305.0,Testosterone
+OA,146.0,Testosterone
+OA,294.0,Testosterone
+OA,360.0,Testosterone
+OA,420.0,Testosterone
+OA,562.0,Testosterone
+OA,355.0,Testosterone
+OA,337.0,Testosterone
+OA,574.0,Testosterone
+OA,199.0,Testosterone
+OA,474.35,Testosterone
+OA,157.0,Testosterone
+OA,618.0,Testosterone
+OA,248.13,Testosterone
+OA,138.0,Testosterone
+OA,526.0,Testosterone
+OA,334.39,Testosterone
+OA,583.9,Testosterone
+OA,727.1,Testosterone
+OA,541.0,Testosterone
+OA,317.29,Testosterone
+OA,939.0,Testosterone
+OA,428.0,Testosterone
+OA,404.5,Testosterone
+OA,398.0,Testosterone
+OA,237.0,Testosterone
+OA,356.0,Testosterone
+OA,521.0,Testosterone
+OA,281.0,Testosterone
+OA,395.8,Testosterone
+OA,691.0,Testosterone
+OA,467.0,Testosterone
+OA,530.0,Testosterone
+OA,663.0,Testosterone
+OA,592.0,Testosterone
+OA,928.0,Testosterone
+OA,354.47,Testosterone
+OA,359.0,Testosterone
+OA,350.0,Testosterone
+OA,366.0,Testosterone
+OA,247.0,Testosterone
+OA,528.0,Testosterone
+OA,262.0,Testosterone
+OA,881.0,Testosterone
+OA,467.0,Testosterone
+OA,381.0,Testosterone
+OA,421.2,Testosterone
+OA,321.0,Testosterone
+OA,399.0,Testosterone
+OA,240.92,Testosterone
+OA,555.7,Testosterone
+OA,514.0,Testosterone
+OA,314.0,Testosterone
+OA,491.07,Testosterone
+OA,334.01,Testosterone
+OA,553.0,Testosterone
+OA,261.0,Testosterone
+OA,233.4,Testosterone
+OA,397.0,Testosterone
+OA,320.0,Testosterone
+OA,264.0,Testosterone
+OA,533.0,Testosterone
+OA,389.11,Testosterone
+OA,766.0,Testosterone
+OA,282.0,Testosterone
+OA,690.0,Testosterone
+OA,621.0,Testosterone
+OA,414.99,Testosterone
+OA,276.0,Testosterone
+OA,482.0,Testosterone
+OA,490.5,Testosterone
+OA,574.0,Testosterone
+OA,408.0,Testosterone
+OA,462.0,Testosterone
+OA,387.0,Testosterone
+OA,406.0,Testosterone
+OA,449.0,Testosterone
+OA,444.0,Testosterone
+OA,467.0,Testosterone
+OA,179.0,Testosterone
+OA,515.4,Testosterone
+OA,394.52,Testosterone
+OA,517.1,Testosterone
+OA,435.0,Testosterone
+OA,726.0,Testosterone
+OA,361.0,Testosterone
+OA,578.0,Testosterone
+OA,593.0,Testosterone
+OA,274.0,Testosterone
+OA,185.3,Testosterone
+OA,416.43,Testosterone
+OA,367.0,Testosterone
+OA,290.49,Testosterone
+OA,449.0,Testosterone
+OA,595.0,Testosterone
+OA,193.56,Testosterone
+OA,276.0,Testosterone
+OA,634.0,Testosterone
+OA,437.0,Testosterone
+OA,264.0,Testosterone
+OA,234.0,Testosterone
+OA,291.64,Testosterone
+OA,531.7,Testosterone
+OA,520.75,Testosterone
+OA,427.0,Testosterone
+OA,394.0,Testosterone
+OA,254.0,Testosterone
+OA,384.0,Testosterone
+OA,204.0,Testosterone
+OA,464.27,Testosterone
+OA,275.0,Testosterone
+OA,669.0,Testosterone
+OA,380.0,Testosterone
+OA,560.0,Testosterone
+OA,179.1,Testosterone
+OA,671.0,Testosterone
+OA,553.6,Testosterone
+OA,314.0,Testosterone
+OA,596.0,Testosterone
+OA,431.0,Testosterone
+OA,388.0,Testosterone
+OA,414.0,Testosterone
+OA,554.0,Testosterone
+OA,1124.0,Testosterone
+OA,303.75,Testosterone
+OA,160.0,Testosterone
+OA,354.0,Testosterone
+OA,763.0,Testosterone
+OA,429.0,Testosterone
+OA,459.0,Testosterone
+OA,247.0,Testosterone
+OA,586.71,Testosterone
+OA,529.0,Testosterone
+OA,471.0,Testosterone
+OA,499.0,Testosterone
+OA,266.0,Testosterone
+OA,460.0,Testosterone
+OA,353.0,Testosterone
+OA,423.0,Testosterone
+OA,194.24,Testosterone
+OA,324.0,Testosterone
+OA,329.0,Testosterone
+OA,653.0,Testosterone
+OA,322.0,Testosterone
+OA,183.0,Testosterone
+OA,427.0,Testosterone
+OA,569.0,Testosterone
+OA,257.0,Testosterone
+OA,139.0,Testosterone
+OA,438.04,Testosterone
+OA,354.67,Testosterone
+OA,434.0,Testosterone
+OA,349.0,Testosterone
+OA,356.5,Testosterone
+OA,239.0,Testosterone
+OA,388.0,Testosterone
+OA,638.0,Testosterone
+OA,374.0,Testosterone
+OA,217.0,Testosterone
+OA,242.0,Testosterone
+OA,308.0,Testosterone
+OA,279.0,Testosterone
+OA,364.23,Testosterone
+OA,321.0,Testosterone
+OA,371.76,Testosterone
+OA,213.8,Testosterone
+OA,232.0,Testosterone
+OA,316.0,Testosterone
+OA,697.0,Testosterone
+OA,268.0,Testosterone
+OA,570.61,Testosterone
+OA,464.0,Testosterone
+OA,683.8,Testosterone
+OA,199.4,Testosterone
+OA,371.0,Testosterone
+OA,299.0,Testosterone
+OA,321.0,Testosterone
+OA,716.0,Testosterone
+OA,326.0,Testosterone
+OA,330.0,Testosterone
+OA,314.0,Testosterone
+OA,424.78,Testosterone
+OA,532.0,Testosterone
+OA,560.0,Testosterone
+OA,432.0,Testosterone
+OA,275.0,Testosterone
+OA,235.0,Testosterone
+OA,426.0,Testosterone
+OA,394.0,Testosterone
+OA,325.0,Testosterone
+OA,340.0,Testosterone
+OA,447.84,Testosterone
+OA,514.0,Testosterone
+OA,446.0,Testosterone
+OA,596.0,Testosterone
+OA,237.0,Testosterone
+OA,297.0,Testosterone
+OA,354.8,Testosterone
+OA,305.0,Testosterone
+OA,219.0,Testosterone
+OA,367.88,Testosterone
+OA,381.0,Testosterone
+OA,744.2,Testosterone
+OA,383.0,Testosterone
+OA,256.0,Testosterone
+OA,482.0,Testosterone
+OA,702.89,Testosterone
+OA,393.0,Testosterone
+OA,625.0,Testosterone
+OA,708.79,Testosterone
+OA,387.4,Testosterone
+OA,591.64,Testosterone
+OA,525.0,Testosterone
+OA,312.7,Testosterone
+OA,586.0,Testosterone
+OA,228.0,Testosterone
+OA,485.0,Testosterone
+OA,310.0,Testosterone
+OA,450.0,Testosterone
+OA,275.9,Testosterone
+OA,359.0,Testosterone
+OA,455.0,Testosterone
+OA,367.0,Testosterone
+OA,320.0,Testosterone
+OA,536.89,Testosterone
+OA,312.0,Testosterone
+OA,534.0,Testosterone
+OA,298.0,Testosterone
+OA,415.0,Testosterone
+OA,336.0,Testosterone
+OA,437.0,Testosterone
+OA,412.5,Testosterone
+OA,291.0,Testosterone
+OA,598.4,Testosterone
+OA,305.0,Testosterone
+OA,413.0,Testosterone
+OA,199.0,Testosterone
+OA,385.0,Testosterone
+OA,377.0,Testosterone
+OA,384.63,Testosterone
+OA,396.0,Testosterone
+OA,433.0,Testosterone
+OA,290.49,Testosterone
+OA,229.0,Testosterone
+OA,160.8,Testosterone
+OA,269.0,Testosterone
+OA,524.0,Testosterone
+OA,339.0,Testosterone
+OA,663.0,Testosterone
+OA,530.0,Testosterone
+OA,219.0,Testosterone
+OA,90.0,Testosterone
+OA,776.0,Testosterone
+OA,322.0,Testosterone
+OA,446.0,Testosterone
+OA,546.0,Testosterone
+OA,315.0,Testosterone
+OA,407.0,Testosterone
+OA,478.39,Testosterone
+OA,384.0,Testosterone
+OA,510.09,Testosterone
+OA,251.0,Testosterone
+OA,444.0,Testosterone
+OA,596.4,Testosterone
+OA,544.0,Testosterone
+OA,229.0,Testosterone
+OA,500.0,Testosterone
+OA,637.0,Testosterone
+OA,283.0,Testosterone
+OA,460.0,Testosterone
+OA,869.0,Testosterone
+OA,529.0,Testosterone
+OA,60.0,Testosterone
+OA,600.0,Testosterone
+OA,199.8,Testosterone
+OA,727.0,Testosterone
+OA,699.6,Testosterone
+OA,438.0,Testosterone
+OA,494.0,Testosterone
+OA,465.0,Testosterone
+OA,336.0,Testosterone
+OA,414.0,Testosterone
+OA,436.0,Testosterone
+OA,364.0,Testosterone
+OA,349.0,Testosterone
+OA,333.0,Testosterone
+OA,189.0,Testosterone
+OA,455.0,Testosterone
+OA,426.0,Testosterone
+Control,26.4,Estradiol
+Control,43.9,Estradiol
+Control,22.7,Estradiol
+Control,38.8,Estradiol
+Control,37.0,Estradiol
+Control,14.9,Estradiol
+Control,29.4,Estradiol
+Control,44.3,Estradiol
+Control,20.9,Estradiol
+Control,53.7,Estradiol
+Control,32.3,Estradiol
+Control,27.3,Estradiol
+Control,31.8,Estradiol
+Control,23.84,Estradiol
+Control,38.6,Estradiol
+Control,30.6,Estradiol
+Control,37.8,Estradiol
+Control,31.3,Estradiol
+Control,29.3,Estradiol
+Control,42.1,Estradiol
+Control,15.1,Estradiol
+Control,30.7,Estradiol
+Control,22.1,Estradiol
+Control,26.1,Estradiol
+Control,30.3,Estradiol
+Control,29.5,Estradiol
+Control,22.7,Estradiol
+Control,26.8,Estradiol
+Control,31.8,Estradiol
+Control,25.2,Estradiol
+Control,21.0,Estradiol
+Control,55.3,Estradiol
+Control,33.7,Estradiol
+Control,31.9,Estradiol
+Control,10.7,Estradiol
+Control,17.6,Estradiol
+Control,19.0,Estradiol
+Control,17.9,Estradiol
+Control,6.1,Estradiol
+Control,34.1,Estradiol
+Control,24.22,Estradiol
+Control,23.3,Estradiol
+Control,27.8,Estradiol
+Control,22.3,Estradiol
+Control,31.7,Estradiol
+Control,28.2,Estradiol
+Control,41.1,Estradiol
+Control,31.5,Estradiol
+Control,12.5,Estradiol
+Control,21.7,Estradiol
+Control,32.4,Estradiol
+Control,35.7,Estradiol
+Control,36.0,Estradiol
+Control,24.5,Estradiol
+Control,24.6,Estradiol
+Control,26.6,Estradiol
+Control,33.2,Estradiol
+Control,18.71,Estradiol
+Control,24.3,Estradiol
+Control,19.7,Estradiol
+Control,26.7,Estradiol
+Control,15.9,Estradiol
+Control,42.1,Estradiol
+Control,44.0,Estradiol
+Control,20.9,Estradiol
+Control,17.6,Estradiol
+Control,31.5,Estradiol
+Control,38.4,Estradiol
+Control,35.3,Estradiol
+Control,29.1,Estradiol
+Control,20.1,Estradiol
+Control,48.51,Estradiol
+Control,29.4,Estradiol
+Control,22.3,Estradiol
+Control,16.8,Estradiol
+Control,24.9,Estradiol
+Control,46.0,Estradiol
+Control,19.2,Estradiol
+Control,30.76,Estradiol
+Control,37.1,Estradiol
+Control,18.2,Estradiol
+Control,31.1,Estradiol
+Control,38.6,Estradiol
+Control,31.4,Estradiol
+Control,34.0,Estradiol
+Control,33.5,Estradiol
+Control,27.7,Estradiol
+Control,20.5,Estradiol
+Control,37.2,Estradiol
+Control,25.0,Estradiol
+Control,9.6,Estradiol
+Control,21.9,Estradiol
+Control,31.6,Estradiol
+Control,13.5,Estradiol
+Control,35.4,Estradiol
+Control,27.4,Estradiol
+Control,24.0,Estradiol
+Control,40.0,Estradiol
+Control,39.4,Estradiol
+Control,23.3,Estradiol
+Control,21.0,Estradiol
+Control,49.3,Estradiol
+Control,25.7,Estradiol
+Control,31.5,Estradiol
+Control,25.3,Estradiol
+Control,17.5,Estradiol
+Control,26.1,Estradiol
+Control,18.1,Estradiol
+Control,23.9,Estradiol
+Control,54.0,Estradiol
+Control,17.7,Estradiol
+Control,31.2,Estradiol
+Control,35.2,Estradiol
+Control,25.6,Estradiol
+Control,25.1,Estradiol
+Control,15.7,Estradiol
+Control,20.2,Estradiol
+Control,25.15,Estradiol
+Control,59.44,Estradiol
+Control,25.7,Estradiol
+Control,37.41,Estradiol
+Control,22.8,Estradiol
+Control,27.4,Estradiol
+Control,24.8,Estradiol
+Control,14.5,Estradiol
+Control,20.2,Estradiol
+Control,34.06,Estradiol
+Control,24.9,Estradiol
+Control,40.4,Estradiol
+Control,25.6,Estradiol
+Control,43.2,Estradiol
+Control,25.8,Estradiol
+Control,22.6,Estradiol
+Control,23.0,Estradiol
+Control,25.0,Estradiol
+Control,31.1,Estradiol
+Control,34.04,Estradiol
+Control,30.1,Estradiol
+Control,47.4,Estradiol
+Control,24.5,Estradiol
+Control,33.4,Estradiol
+Control,29.6,Estradiol
+Control,23.25,Estradiol
+Control,17.1,Estradiol
+Control,42.6,Estradiol
+Control,25.5,Estradiol
+Control,52.6,Estradiol
+Control,20.6,Estradiol
+Control,49.4,Estradiol
+Control,39.5,Estradiol
+Control,37.5,Estradiol
+Control,24.6,Estradiol
+Control,38.0,Estradiol
+Control,42.6,Estradiol
+Control,20.0,Estradiol
+Control,26.2,Estradiol
+Control,27.0,Estradiol
+Control,39.0,Estradiol
+Control,41.0,Estradiol
+Control,21.9,Estradiol
+Control,11.8,Estradiol
+Control,35.5,Estradiol
+Control,18.0,Estradiol
+Control,26.4,Estradiol
+Control,30.8,Estradiol
+Control,56.1,Estradiol
+Control,24.4,Estradiol
+Control,35.26,Estradiol
+Control,18.1,Estradiol
+Control,15.5,Estradiol
+Control,19.0,Estradiol
+Control,27.4,Estradiol
+Control,30.0,Estradiol
+Control,35.9,Estradiol
+Control,21.7,Estradiol
+Control,48.7,Estradiol
+Control,26.1,Estradiol
+Control,25.3,Estradiol
+Control,31.0,Estradiol
+Control,22.1,Estradiol
+Control,28.7,Estradiol
+Control,25.5,Estradiol
+Control,20.2,Estradiol
+Control,45.4,Estradiol
+Control,24.8,Estradiol
+Control,21.6,Estradiol
+Control,33.1,Estradiol
+Control,28.6,Estradiol
+Control,32.6,Estradiol
+Control,72.3,Estradiol
+Control,35.9,Estradiol
+Control,24.9,Estradiol
+Control,40.5,Estradiol
+Control,20.7,Estradiol
+Control,25.3,Estradiol
+Control,25.7,Estradiol
+Control,35.0,Estradiol
+Control,38.6,Estradiol
+Control,34.3,Estradiol
+Control,30.7,Estradiol
+Control,39.0,Estradiol
+Control,37.9,Estradiol
+Control,33.8,Estradiol
+Control,23.2,Estradiol
+Control,22.8,Estradiol
+Control,34.0,Estradiol
+Control,30.4,Estradiol
+Control,19.5,Estradiol
+Control,23.1,Estradiol
+Control,30.2,Estradiol
+Control,39.0,Estradiol
+Control,33.9,Estradiol
+Control,32.6,Estradiol
+Control,32.7,Estradiol
+Control,28.5,Estradiol
+Control,38.9,Estradiol
+Control,32.0,Estradiol
+Control,30.3,Estradiol
+Control,18.3,Estradiol
+Control,34.3,Estradiol
+Control,26.8,Estradiol
+Control,34.6,Estradiol
+Control,18.5,Estradiol
+Control,35.3,Estradiol
+Control,14.44,Estradiol
+Control,21.5,Estradiol
+Control,21.6,Estradiol
+Control,22.2,Estradiol
+Control,18.3,Estradiol
+Control,28.4,Estradiol
+Control,27.6,Estradiol
+Control,28.0,Estradiol
+Control,27.4,Estradiol
+Control,38.3,Estradiol
+Control,22.2,Estradiol
+Control,38.1,Estradiol
+Control,23.1,Estradiol
+Control,14.5,Estradiol
+Control,26.6,Estradiol
+Control,32.2,Estradiol
+Control,25.3,Estradiol
+Control,39.5,Estradiol
+Control,18.0,Estradiol
+Control,24.9,Estradiol
+Control,17.1,Estradiol
+Control,30.2,Estradiol
+Control,28.9,Estradiol
+Control,22.5,Estradiol
+Control,35.8,Estradiol
+Control,34.2,Estradiol
+Control,31.0,Estradiol
+Control,29.2,Estradiol
+Control,24.1,Estradiol
+Control,20.5,Estradiol
+Control,17.4,Estradiol
+Control,35.0,Estradiol
+Control,39.2,Estradiol
+Control,40.0,Estradiol
+Control,50.15,Estradiol
+Control,19.7,Estradiol
+Control,32.8,Estradiol
+Control,23.2,Estradiol
+Control,33.7,Estradiol
+Control,29.7,Estradiol
+Control,36.6,Estradiol
+Control,24.8,Estradiol
+Control,35.6,Estradiol
+Control,31.0,Estradiol
+Control,39.1,Estradiol
+Control,19.0,Estradiol
+Control,22.4,Estradiol
+Control,15.2,Estradiol
+Control,33.4,Estradiol
+Control,20.84,Estradiol
+Control,38.9,Estradiol
+Control,64.9,Estradiol
+Control,13.6,Estradiol
+Control,24.5,Estradiol
+Control,25.0,Estradiol
+Control,22.4,Estradiol
+Control,19.0,Estradiol
+Control,17.8,Estradiol
+Control,42.4,Estradiol
+Control,30.5,Estradiol
+Control,32.0,Estradiol
+Control,20.4,Estradiol
+Control,23.8,Estradiol
+Control,32.0,Estradiol
+Control,45.35,Estradiol
+Control,19.3,Estradiol
+Control,17.4,Estradiol
+Control,42.7,Estradiol
+Control,23.5,Estradiol
+Control,35.3,Estradiol
+Control,20.7,Estradiol
+Control,23.5,Estradiol
+Control,11.4,Estradiol
+Control,24.0,Estradiol
+Control,20.0,Estradiol
+Control,23.4,Estradiol
+Control,20.7,Estradiol
+Control,14.3,Estradiol
+Control,22.3,Estradiol
+Control,30.4,Estradiol
+Control,23.6,Estradiol
+Control,23.2,Estradiol
+Control,33.6,Estradiol
+Control,20.0,Estradiol
+Control,16.8,Estradiol
+Control,19.6,Estradiol
+Control,18.4,Estradiol
+Control,17.89,Estradiol
+Control,29.6,Estradiol
+Control,29.4,Estradiol
+Control,22.3,Estradiol
+Control,19.1,Estradiol
+Control,15.8,Estradiol
+Control,40.8,Estradiol
+Control,30.4,Estradiol
+Control,40.9,Estradiol
+Control,25.8,Estradiol
+Control,17.3,Estradiol
+Control,30.1,Estradiol
+Control,25.3,Estradiol
+Control,31.2,Estradiol
+Control,56.7,Estradiol
+Control,35.0,Estradiol
+Control,26.6,Estradiol
+Control,27.5,Estradiol
+Control,39.9,Estradiol
+Control,38.6,Estradiol
+Control,27.3,Estradiol
+Control,40.1,Estradiol
+Control,28.6,Estradiol
+Control,29.6,Estradiol
+Control,20.7,Estradiol
+Control,22.7,Estradiol
+Control,36.9,Estradiol
+Control,35.7,Estradiol
+Control,23.9,Estradiol
+Control,38.0,Estradiol
+Control,29.6,Estradiol
+Control,60.0,Estradiol
+Control,34.1,Estradiol
+Control,39.1,Estradiol
+Control,25.1,Estradiol
+Control,24.5,Estradiol
+Control,27.0,Estradiol
+Control,30.5,Estradiol
+Control,33.0,Estradiol
+Control,23.9,Estradiol
+Control,23.4,Estradiol
+Control,30.5,Estradiol
+Control,24.3,Estradiol
+Control,21.7,Estradiol
+Control,25.7,Estradiol
+Control,25.4,Estradiol
+Control,34.09,Estradiol
+Control,29.1,Estradiol
+Control,27.9,Estradiol
+Control,37.9,Estradiol
+Control,25.6,Estradiol
+Control,40.6,Estradiol
+Control,45.8,Estradiol
+Control,50.5,Estradiol
+Control,23.2,Estradiol
+Control,40.1,Estradiol
+Control,25.7,Estradiol
+Control,34.8,Estradiol
+Control,28.8,Estradiol
+Control,24.1,Estradiol
+Control,22.7,Estradiol
+Control,27.1,Estradiol
+Control,29.5,Estradiol
+Control,32.4,Estradiol
+Control,18.2,Estradiol
+Control,27.1,Estradiol
+Control,25.6,Estradiol
+Control,27.5,Estradiol
+Control,18.8,Estradiol
+Control,16.4,Estradiol
+Control,50.99,Estradiol
+Control,33.0,Estradiol
+Control,27.7,Estradiol
+Control,37.5,Estradiol
+Control,36.8,Estradiol
+Control,28.9,Estradiol
+Control,52.92,Estradiol
+Control,32.8,Estradiol
+Control,43.8,Estradiol
+Control,23.4,Estradiol
+Control,24.9,Estradiol
+Control,18.2,Estradiol
+Control,27.1,Estradiol
+Control,39.7,Estradiol
+Control,45.3,Estradiol
+Control,33.8,Estradiol
+Control,23.8,Estradiol
+Control,17.8,Estradiol
+Control,18.7,Estradiol
+Control,30.6,Estradiol
+Control,18.3,Estradiol
+Control,23.1,Estradiol
+Control,26.3,Estradiol
+Control,15.9,Estradiol
+Control,34.45,Estradiol
+Control,44.65,Estradiol
+Control,22.3,Estradiol
+Control,36.8,Estradiol
+Control,20.4,Estradiol
+Control,30.3,Estradiol
+Control,31.4,Estradiol
+Control,22.83,Estradiol
+Control,27.1,Estradiol
+Control,67.5,Estradiol
+Control,27.1,Estradiol
+Control,25.3,Estradiol
+Control,26.0,Estradiol
+Control,24.7,Estradiol
+Control,5.9,Estradiol
+Control,24.4,Estradiol
+Control,27.3,Estradiol
+Control,21.1,Estradiol
+Control,32.2,Estradiol
+Control,15.6,Estradiol
+Control,21.6,Estradiol
+Control,34.7,Estradiol
+Control,18.8,Estradiol
+Control,51.0,Estradiol
+Control,37.6,Estradiol
+Control,35.6,Estradiol
+Control,31.9,Estradiol
+Control,24.4,Estradiol
+Control,26.3,Estradiol
+Control,20.2,Estradiol
+Control,23.2,Estradiol
+Control,14.2,Estradiol
+Control,25.2,Estradiol
+Control,25.9,Estradiol
+Control,26.0,Estradiol
+Control,14.9,Estradiol
+Control,36.1,Estradiol
+Control,18.9,Estradiol
+Control,26.3,Estradiol
+Control,21.8,Estradiol
+Control,32.2,Estradiol
+Control,32.4,Estradiol
+Control,15.2,Estradiol
+Control,32.3,Estradiol
+Control,34.0,Estradiol
+Control,19.8,Estradiol
+Control,38.4,Estradiol
+Control,29.7,Estradiol
+Control,21.6,Estradiol
+Control,15.8,Estradiol
+Control,22.7,Estradiol
+NOA,10.0,Estradiol
+NOA,21.6,Estradiol
+NOA,23.4,Estradiol
+NOA,34.0,Estradiol
+NOA,36.2,Estradiol
+NOA,24.1,Estradiol
+NOA,29.4,Estradiol
+NOA,64.3,Estradiol
+NOA,25.7,Estradiol
+NOA,29.18,Estradiol
+NOA,10.7,Estradiol
+NOA,34.4,Estradiol
+NOA,22.0,Estradiol
+NOA,33.2,Estradiol
+NOA,17.4,Estradiol
+NOA,13.3,Estradiol
+NOA,17.3,Estradiol
+NOA,29.2,Estradiol
+NOA,11.7,Estradiol
+NOA,19.6,Estradiol
+NOA,26.0,Estradiol
+NOA,29.0,Estradiol
+NOA,29.3,Estradiol
+NOA,57.7,Estradiol
+NOA,21.9,Estradiol
+NOA,24.7,Estradiol
+NOA,32.2,Estradiol
+NOA,17.2,Estradiol
+NOA,35.5,Estradiol
+NOA,22.67,Estradiol
+NOA,14.12,Estradiol
+NOA,18.8,Estradiol
+NOA,31.0,Estradiol
+NOA,7.7,Estradiol
+NOA,12.76,Estradiol
+NOA,28.3,Estradiol
+NOA,15.9,Estradiol
+NOA,40.0,Estradiol
+NOA,35.9,Estradiol
+NOA,17.2,Estradiol
+NOA,22.71,Estradiol
+NOA,30.6,Estradiol
+NOA,33.3,Estradiol
+NOA,30.0,Estradiol
+NOA,30.6,Estradiol
+NOA,47.98,Estradiol
+NOA,30.4,Estradiol
+NOA,26.5,Estradiol
+NOA,6.0,Estradiol
+NOA,36.0,Estradiol
+NOA,24.1,Estradiol
+NOA,27.3,Estradiol
+NOA,35.37,Estradiol
+NOA,12.1,Estradiol
+NOA,40.5,Estradiol
+NOA,16.3,Estradiol
+NOA,38.84,Estradiol
+NOA,26.2,Estradiol
+NOA,29.7,Estradiol
+NOA,26.2,Estradiol
+NOA,22.6,Estradiol
+NOA,15.4,Estradiol
+NOA,19.1,Estradiol
+NOA,5.4,Estradiol
+NOA,17.8,Estradiol
+NOA,37.4,Estradiol
+NOA,24.0,Estradiol
+NOA,25.9,Estradiol
+NOA,19.0,Estradiol
+NOA,22.7,Estradiol
+NOA,28.24,Estradiol
+NOA,17.3,Estradiol
+NOA,13.2,Estradiol
+NOA,36.0,Estradiol
+NOA,18.7,Estradiol
+NOA,29.7,Estradiol
+NOA,19.8,Estradiol
+NOA,30.5,Estradiol
+NOA,11.4,Estradiol
+NOA,31.0,Estradiol
+NOA,35.8,Estradiol
+NOA,67.3,Estradiol
+NOA,35.5,Estradiol
+NOA,34.2,Estradiol
+NOA,28.9,Estradiol
+NOA,22.0,Estradiol
+NOA,36.5,Estradiol
+NOA,26.0,Estradiol
+NOA,30.9,Estradiol
+NOA,6.64,Estradiol
+NOA,15.0,Estradiol
+NOA,25.0,Estradiol
+NOA,24.1,Estradiol
+NOA,33.9,Estradiol
+NOA,16.4,Estradiol
+NOA,22.5,Estradiol
+NOA,14.7,Estradiol
+NOA,27.3,Estradiol
+NOA,39.7,Estradiol
+NOA,40.6,Estradiol
+NOA,61.9,Estradiol
+NOA,16.5,Estradiol
+NOA,20.15,Estradiol
+NOA,30.0,Estradiol
+NOA,9.5,Estradiol
+NOA,36.3,Estradiol
+NOA,19.5,Estradiol
+NOA,74.5,Estradiol
+NOA,36.0,Estradiol
+NOA,29.9,Estradiol
+NOA,9.5,Estradiol
+NOA,51.66,Estradiol
+NOA,13.1,Estradiol
+NOA,23.9,Estradiol
+NOA,36.0,Estradiol
+NOA,19.4,Estradiol
+NOA,17.1,Estradiol
+NOA,12.0,Estradiol
+NOA,18.1,Estradiol
+NOA,19.0,Estradiol
+NOA,47.5,Estradiol
+NOA,25.4,Estradiol
+NOA,15.48,Estradiol
+NOA,15.6,Estradiol
+NOA,49.73,Estradiol
+NOA,18.3,Estradiol
+NOA,16.1,Estradiol
+NOA,23.0,Estradiol
+NOA,6.5,Estradiol
+NOA,12.9,Estradiol
+NOA,7.2,Estradiol
+NOA,23.0,Estradiol
+NOA,18.6,Estradiol
+NOA,20.8,Estradiol
+NOA,9.2,Estradiol
+NOA,17.14,Estradiol
+NOA,69.9,Estradiol
+NOA,19.1,Estradiol
+NOA,27.1,Estradiol
+NOA,39.6,Estradiol
+NOA,21.9,Estradiol
+NOA,27.95,Estradiol
+OA,27.8,Estradiol
+OA,35.0,Estradiol
+OA,34.11,Estradiol
+OA,38.0,Estradiol
+OA,36.7,Estradiol
+OA,33.8,Estradiol
+OA,29.2,Estradiol
+OA,22.1,Estradiol
+OA,42.0,Estradiol
+OA,26.6,Estradiol
+OA,32.4,Estradiol
+OA,15.0,Estradiol
+OA,33.5,Estradiol
+OA,22.9,Estradiol
+OA,36.7,Estradiol
+OA,34.0,Estradiol
+OA,31.01,Estradiol
+OA,18.35,Estradiol
+OA,44.12,Estradiol
+OA,41.2,Estradiol
+OA,14.7,Estradiol
+OA,15.4,Estradiol
+OA,11.812,Estradiol
+OA,31.69,Estradiol
+OA,28.8,Estradiol
+OA,33.71,Estradiol
+OA,11.4,Estradiol
+OA,19.9,Estradiol
+OA,10.5,Estradiol
+OA,34.8,Estradiol
+OA,25.8,Estradiol
+OA,17.9,Estradiol
+OA,33.7,Estradiol
+OA,29.7,Estradiol
+OA,33.4,Estradiol
+OA,14.0,Estradiol
+OA,28.0,Estradiol
+OA,24.55,Estradiol
+OA,35.8,Estradiol
+OA,46.4,Estradiol
+OA,18.5,Estradiol
+OA,20.9,Estradiol
+OA,13.5,Estradiol
+OA,40.5,Estradiol
+OA,33.9,Estradiol
+OA,43.7,Estradiol
+OA,21.9,Estradiol
+OA,19.5,Estradiol
+OA,22.8,Estradiol
+OA,21.3,Estradiol
+OA,20.6,Estradiol
+OA,36.5,Estradiol
+OA,27.25,Estradiol
+OA,17.5,Estradiol
+OA,24.2,Estradiol
+OA,26.3,Estradiol
+OA,167.0,Estradiol
+OA,18.6,Estradiol
+OA,22.1,Estradiol
+OA,46.5,Estradiol
+OA,22.4,Estradiol
+OA,23.0,Estradiol
+OA,22.1,Estradiol
+OA,16.5,Estradiol
+OA,37.2,Estradiol
+OA,50.5,Estradiol
+OA,30.2,Estradiol
+OA,32.8,Estradiol
+OA,33.4,Estradiol
+OA,12.0,Estradiol
+OA,37.8,Estradiol
+OA,27.0,Estradiol
+OA,34.5,Estradiol
+OA,20.95,Estradiol
+OA,21.5,Estradiol
+OA,44.0,Estradiol
+OA,34.96,Estradiol
+OA,79.3,Estradiol
+OA,17.1,Estradiol
+OA,26.26,Estradiol
+OA,17.3,Estradiol
+OA,26.1,Estradiol
+OA,14.0,Estradiol
+OA,22.1,Estradiol
+OA,23.63,Estradiol
+OA,41.3,Estradiol
+OA,31.0,Estradiol
+OA,31.4,Estradiol
+OA,22.0,Estradiol
+OA,38.3,Estradiol
+OA,17.6,Estradiol
+OA,22.9,Estradiol
+OA,27.3,Estradiol
+OA,31.4,Estradiol
+OA,16.4,Estradiol
+OA,24.94,Estradiol
+OA,14.1,Estradiol
+OA,28.0,Estradiol
+OA,33.3,Estradiol
+OA,34.7,Estradiol
+OA,45.2,Estradiol
+OA,30.2,Estradiol
+OA,20.1,Estradiol
+OA,21.0,Estradiol
+OA,35.9,Estradiol
+OA,28.6,Estradiol
+OA,33.33,Estradiol
+OA,21.8,Estradiol
+OA,19.5,Estradiol
+OA,17.76,Estradiol
+OA,36.6,Estradiol
+OA,22.7,Estradiol
+OA,24.5,Estradiol
+OA,19.4,Estradiol
+OA,43.3,Estradiol
+OA,15.0,Estradiol
+OA,24.02,Estradiol
+OA,64.7,Estradiol
+OA,22.0,Estradiol
+OA,31.81,Estradiol
+OA,29.0,Estradiol
+OA,24.9,Estradiol
+OA,24.68,Estradiol
+OA,12.87,Estradiol
+OA,20.6,Estradiol
+OA,23.66,Estradiol
+OA,32.1,Estradiol
+OA,92.5,Estradiol
+OA,28.8,Estradiol
+OA,22.06,Estradiol
+OA,29.93,Estradiol
+OA,42.2,Estradiol
+OA,39.2,Estradiol
+OA,28.9,Estradiol
+OA,22.45,Estradiol
+OA,44.47,Estradiol
+OA,29.0,Estradiol
+OA,46.0,Estradiol
+OA,36.2,Estradiol
+OA,43.3,Estradiol
+OA,50.3,Estradiol
+OA,35.23,Estradiol
+OA,23.95,Estradiol
+OA,36.7,Estradiol
+OA,53.66,Estradiol
+OA,24.0,Estradiol
+OA,22.4,Estradiol
+OA,28.7,Estradiol
+OA,27.0,Estradiol
+OA,21.5,Estradiol
+OA,40.25,Estradiol
+OA,20.7,Estradiol
+OA,18.54,Estradiol
+OA,30.6,Estradiol
+OA,6.1,Estradiol
+OA,29.5,Estradiol
+OA,26.13,Estradiol
+OA,28.5,Estradiol
+OA,29.13,Estradiol
+OA,48.9,Estradiol
+OA,49.5,Estradiol
+OA,26.87,Estradiol
+OA,27.99,Estradiol
+OA,31.19,Estradiol
+OA,29.2,Estradiol
+OA,39.3,Estradiol
+OA,25.4,Estradiol
+OA,31.8,Estradiol
+OA,28.6,Estradiol
+OA,40.0,Estradiol
+OA,22.4,Estradiol
+OA,127.51,Estradiol
+OA,30.7,Estradiol
+OA,24.1,Estradiol
+OA,22.6,Estradiol
+OA,42.62,Estradiol
+OA,22.15,Estradiol
+OA,26.3,Estradiol
+OA,29.49,Estradiol
+OA,31.5,Estradiol
+OA,54.7,Estradiol
+OA,48.8,Estradiol
+OA,30.6,Estradiol
+OA,41.89,Estradiol
+OA,17.9,Estradiol
+OA,19.7,Estradiol
+OA,61.2,Estradiol
+OA,16.86,Estradiol
+OA,20.0,Estradiol
+OA,26.0,Estradiol
+OA,27.0,Estradiol
+OA,24.3,Estradiol
+OA,20.0,Estradiol
+OA,17.8,Estradiol
+OA,23.93,Estradiol
+OA,30.95,Estradiol
+OA,36.5,Estradiol
+OA,14.1,Estradiol
+OA,25.61,Estradiol
+OA,21.0,Estradiol
+OA,28.4,Estradiol
+OA,34.0,Estradiol
+OA,33.3,Estradiol
+OA,25.9,Estradiol
+OA,26.94,Estradiol
+OA,33.2,Estradiol
+OA,20.95,Estradiol
+OA,34.3,Estradiol
+OA,27.7,Estradiol
+OA,15.1,Estradiol
+OA,28.5,Estradiol
+OA,50.96,Estradiol
+OA,40.21,Estradiol
+OA,44.1,Estradiol
+OA,23.2,Estradiol
+OA,26.1,Estradiol
+OA,26.6,Estradiol
+OA,24.4,Estradiol
+OA,38.15,Estradiol
+OA,25.6,Estradiol
+OA,43.6,Estradiol
+OA,31.0,Estradiol
+OA,39.9,Estradiol
+OA,15.9,Estradiol
+OA,31.4,Estradiol
+OA,23.3,Estradiol
+OA,33.0,Estradiol
+OA,25.0,Estradiol
+OA,17.9,Estradiol
+OA,23.3,Estradiol
+OA,23.7,Estradiol
+OA,24.5,Estradiol
+OA,63.9,Estradiol
+OA,31.98,Estradiol
+OA,29.6,Estradiol
+OA,43.82,Estradiol
+OA,23.9,Estradiol
+OA,35.4,Estradiol
+OA,28.35,Estradiol
+OA,15.06,Estradiol
+OA,37.88,Estradiol
+OA,32.5,Estradiol
+OA,27.3,Estradiol
+OA,21.7,Estradiol
+OA,20.5,Estradiol
+OA,29.07,Estradiol
+OA,34.0,Estradiol
+OA,30.3,Estradiol
+OA,35.9,Estradiol
+OA,25.4,Estradiol
+OA,22.7,Estradiol
+OA,35.3,Estradiol
+OA,22.0,Estradiol
+OA,29.6,Estradiol
+OA,42.9,Estradiol
+OA,37.49,Estradiol
+OA,25.9,Estradiol
+OA,33.0,Estradiol
+OA,37.06,Estradiol
+OA,28.0,Estradiol
+OA,43.6,Estradiol
+OA,30.2,Estradiol
+OA,23.5,Estradiol
+OA,60.0,Estradiol
+OA,32.37,Estradiol
+OA,38.4,Estradiol
+OA,8.1,Estradiol
+OA,16.5,Estradiol
+OA,25.4,Estradiol
+OA,15.4,Estradiol
+OA,20.94,Estradiol
+OA,21.56,Estradiol
+OA,25.7,Estradiol
+OA,91.23,Estradiol
+OA,35.5,Estradiol
+OA,32.7,Estradiol
+OA,29.4,Estradiol
+OA,34.6,Estradiol
+OA,24.12,Estradiol
+OA,35.8,Estradiol
+OA,25.5,Estradiol
+OA,52.2,Estradiol
+OA,36.4,Estradiol
+OA,21.24,Estradiol
+OA,42.2,Estradiol
+OA,34.8,Estradiol
+OA,8.8,Estradiol
+OA,21.8,Estradiol
+OA,34.64,Estradiol
+OA,19.4,Estradiol
+OA,34.33,Estradiol
+OA,39.56,Estradiol
+OA,15.4,Estradiol
+OA,21.1,Estradiol
+OA,34.5,Estradiol
+OA,8.8,Estradiol
+OA,15.1,Estradiol
+OA,34.9,Estradiol
+OA,26.7,Estradiol
+OA,24.0,Estradiol
+OA,32.53,Estradiol
+OA,26.5,Estradiol
+OA,20.06,Estradiol
+OA,42.11,Estradiol
+OA,35.4,Estradiol
+OA,20.96,Estradiol
+OA,19.2,Estradiol
+OA,36.1,Estradiol
+OA,29.9,Estradiol
+OA,27.0,Estradiol
+OA,29.2,Estradiol
+OA,37.8,Estradiol
+OA,29.3,Estradiol
+OA,22.8,Estradiol
+OA,17.8,Estradiol
+OA,37.7,Estradiol
+OA,26.8,Estradiol
+OA,37.8,Estradiol
+OA,21.96,Estradiol
+OA,7.3,Estradiol
+OA,31.66,Estradiol
+OA,25.1,Estradiol
+OA,7.7,Estradiol
+OA,25.4,Estradiol
+OA,28.2,Estradiol
+OA,47.4,Estradiol
+OA,30.38,Estradiol
+OA,20.9,Estradiol
+OA,30.2,Estradiol
+OA,20.4,Estradiol
+OA,25.2,Estradiol
+OA,21.8,Estradiol
+OA,14.0,Estradiol
+OA,26.05,Estradiol
+OA,43.8,Estradiol
+OA,34.6,Estradiol
+OA,13.7,Estradiol
+OA,24.6,Estradiol
+OA,23.9,Estradiol
+OA,24.09,Estradiol
+OA,34.4,Estradiol
+OA,47.9,Estradiol
+OA,46.5,Estradiol
+OA,16.0,Estradiol
+OA,27.8,Estradiol
+OA,14.4,Estradiol
+OA,30.2,Estradiol
+OA,24.0,Estradiol
+OA,19.0,Estradiol
+OA,16.6,Estradiol
+OA,32.15,Estradiol
+OA,28.88,Estradiol
+OA,21.4,Estradiol
+OA,16.3,Estradiol
+OA,21.4,Estradiol
+OA,27.0,Estradiol
+OA,25.3,Estradiol
+OA,38.58,Estradiol
+OA,20.7,Estradiol
+OA,22.2,Estradiol
+OA,39.76,Estradiol
+OA,19.9,Estradiol
+OA,40.9,Estradiol
+OA,18.3,Estradiol
+OA,22.44,Estradiol
+OA,23.6,Estradiol
+OA,25.0,Estradiol
+OA,30.0,Estradiol
+OA,17.5,Estradiol
+OA,30.0,Estradiol
+OA,25.0,Estradiol
+OA,54.7,Estradiol
+OA,31.3,Estradiol
+OA,36.9,Estradiol
+OA,39.1,Estradiol
+OA,31.2,Estradiol
+OA,21.6,Estradiol
+OA,32.11,Estradiol
+OA,13.6,Estradiol
+OA,29.7,Estradiol
+OA,34.2,Estradiol
+OA,42.0,Estradiol
+OA,21.9,Estradiol
+OA,26.7,Estradiol
+OA,27.3,Estradiol
+OA,39.2,Estradiol
+OA,27.6,Estradiol
+OA,33.0,Estradiol
+OA,23.8,Estradiol
+OA,26.43,Estradiol
+OA,27.0,Estradiol
+OA,36.3,Estradiol
+OA,23.3,Estradiol
+OA,23.4,Estradiol
+OA,21.5,Estradiol
+OA,28.5,Estradiol
+OA,38.18,Estradiol
+OA,25.8,Estradiol
+Control,6.32,Follicle-Stimulating Hormone
+Control,3.75,Follicle-Stimulating Hormone
+Control,3.96,Follicle-Stimulating Hormone
+Control,3.18,Follicle-Stimulating Hormone
+Control,4.83,Follicle-Stimulating Hormone
+Control,4.58,Follicle-Stimulating Hormone
+Control,7.16,Follicle-Stimulating Hormone
+Control,2.86,Follicle-Stimulating Hormone
+Control,2.82,Follicle-Stimulating Hormone
+Control,4.69,Follicle-Stimulating Hormone
+Control,6.94,Follicle-Stimulating Hormone
+Control,4.37,Follicle-Stimulating Hormone
+Control,2.54,Follicle-Stimulating Hormone
+Control,2.45,Follicle-Stimulating Hormone
+Control,3.2,Follicle-Stimulating Hormone
+Control,3.57,Follicle-Stimulating Hormone
+Control,5.46,Follicle-Stimulating Hormone
+Control,4.12,Follicle-Stimulating Hormone
+Control,2.8,Follicle-Stimulating Hormone
+Control,2.64,Follicle-Stimulating Hormone
+Control,9.58,Follicle-Stimulating Hormone
+Control,4.32,Follicle-Stimulating Hormone
+Control,3.62,Follicle-Stimulating Hormone
+Control,4.21,Follicle-Stimulating Hormone
+Control,2.67,Follicle-Stimulating Hormone
+Control,3.7,Follicle-Stimulating Hormone
+Control,4.96,Follicle-Stimulating Hormone
+Control,2.95,Follicle-Stimulating Hormone
+Control,8.37,Follicle-Stimulating Hormone
+Control,1.76,Follicle-Stimulating Hormone
+Control,3.48,Follicle-Stimulating Hormone
+Control,4.11,Follicle-Stimulating Hormone
+Control,12.0,Follicle-Stimulating Hormone
+Control,2.76,Follicle-Stimulating Hormone
+Control,3.03,Follicle-Stimulating Hormone
+Control,3.18,Follicle-Stimulating Hormone
+Control,7.14,Follicle-Stimulating Hormone
+Control,21.83,Follicle-Stimulating Hormone
+Control,3.83,Follicle-Stimulating Hormone
+Control,4.81,Follicle-Stimulating Hormone
+Control,4.65,Follicle-Stimulating Hormone
+Control,2.55,Follicle-Stimulating Hormone
+Control,3.45,Follicle-Stimulating Hormone
+Control,4.58,Follicle-Stimulating Hormone
+Control,2.74,Follicle-Stimulating Hormone
+Control,7.36,Follicle-Stimulating Hormone
+Control,3.58,Follicle-Stimulating Hormone
+Control,3.52,Follicle-Stimulating Hormone
+Control,7.67,Follicle-Stimulating Hormone
+Control,1.91,Follicle-Stimulating Hormone
+Control,6.59,Follicle-Stimulating Hormone
+Control,3.27,Follicle-Stimulating Hormone
+Control,4.3,Follicle-Stimulating Hormone
+Control,3.32,Follicle-Stimulating Hormone
+Control,4.49,Follicle-Stimulating Hormone
+Control,4.09,Follicle-Stimulating Hormone
+Control,5.0,Follicle-Stimulating Hormone
+Control,3.94,Follicle-Stimulating Hormone
+Control,3.04,Follicle-Stimulating Hormone
+Control,3.63,Follicle-Stimulating Hormone
+Control,5.58,Follicle-Stimulating Hormone
+Control,4.43,Follicle-Stimulating Hormone
+Control,2.88,Follicle-Stimulating Hormone
+Control,3.39,Follicle-Stimulating Hormone
+Control,4.83,Follicle-Stimulating Hormone
+Control,13.35,Follicle-Stimulating Hormone
+Control,5.46,Follicle-Stimulating Hormone
+Control,2.91,Follicle-Stimulating Hormone
+Control,4.09,Follicle-Stimulating Hormone
+Control,3.88,Follicle-Stimulating Hormone
+Control,10.1,Follicle-Stimulating Hormone
+Control,4.9,Follicle-Stimulating Hormone
+Control,7.05,Follicle-Stimulating Hormone
+Control,5.17,Follicle-Stimulating Hormone
+Control,8.93,Follicle-Stimulating Hormone
+Control,3.12,Follicle-Stimulating Hormone
+Control,6.04,Follicle-Stimulating Hormone
+Control,6.14,Follicle-Stimulating Hormone
+Control,3.4,Follicle-Stimulating Hormone
+Control,2.92,Follicle-Stimulating Hormone
+Control,7.19,Follicle-Stimulating Hormone
+Control,8.26,Follicle-Stimulating Hormone
+Control,2.33,Follicle-Stimulating Hormone
+Control,3.4,Follicle-Stimulating Hormone
+Control,1.94,Follicle-Stimulating Hormone
+Control,2.79,Follicle-Stimulating Hormone
+Control,4.24,Follicle-Stimulating Hormone
+Control,3.87,Follicle-Stimulating Hormone
+Control,8.25,Follicle-Stimulating Hormone
+Control,4.41,Follicle-Stimulating Hormone
+Control,7.12,Follicle-Stimulating Hormone
+Control,2.25,Follicle-Stimulating Hormone
+Control,3.8,Follicle-Stimulating Hormone
+Control,4.47,Follicle-Stimulating Hormone
+Control,3.28,Follicle-Stimulating Hormone
+Control,7.2,Follicle-Stimulating Hormone
+Control,3.45,Follicle-Stimulating Hormone
+Control,2.99,Follicle-Stimulating Hormone
+Control,1.6,Follicle-Stimulating Hormone
+Control,5.94,Follicle-Stimulating Hormone
+Control,2.65,Follicle-Stimulating Hormone
+Control,5.62,Follicle-Stimulating Hormone
+Control,4.36,Follicle-Stimulating Hormone
+Control,3.45,Follicle-Stimulating Hormone
+Control,6.79,Follicle-Stimulating Hormone
+Control,3.48,Follicle-Stimulating Hormone
+Control,6.32,Follicle-Stimulating Hormone
+Control,6.04,Follicle-Stimulating Hormone
+Control,3.07,Follicle-Stimulating Hormone
+Control,5.26,Follicle-Stimulating Hormone
+Control,5.47,Follicle-Stimulating Hormone
+Control,3.53,Follicle-Stimulating Hormone
+Control,2.75,Follicle-Stimulating Hormone
+Control,3.93,Follicle-Stimulating Hormone
+Control,3.22,Follicle-Stimulating Hormone
+Control,3.79,Follicle-Stimulating Hormone
+Control,4.4,Follicle-Stimulating Hormone
+Control,5.82,Follicle-Stimulating Hormone
+Control,5.76,Follicle-Stimulating Hormone
+Control,3.28,Follicle-Stimulating Hormone
+Control,4.97,Follicle-Stimulating Hormone
+Control,8.87,Follicle-Stimulating Hormone
+Control,6.61,Follicle-Stimulating Hormone
+Control,6.64,Follicle-Stimulating Hormone
+Control,10.3,Follicle-Stimulating Hormone
+Control,5.43,Follicle-Stimulating Hormone
+Control,2.01,Follicle-Stimulating Hormone
+Control,3.51,Follicle-Stimulating Hormone
+Control,3.18,Follicle-Stimulating Hormone
+Control,3.52,Follicle-Stimulating Hormone
+Control,2.83,Follicle-Stimulating Hormone
+Control,3.84,Follicle-Stimulating Hormone
+Control,3.15,Follicle-Stimulating Hormone
+Control,1.51,Follicle-Stimulating Hormone
+Control,8.91,Follicle-Stimulating Hormone
+Control,4.66,Follicle-Stimulating Hormone
+Control,4.05,Follicle-Stimulating Hormone
+Control,2.19,Follicle-Stimulating Hormone
+Control,5.32,Follicle-Stimulating Hormone
+Control,3.43,Follicle-Stimulating Hormone
+Control,4.67,Follicle-Stimulating Hormone
+Control,4.42,Follicle-Stimulating Hormone
+Control,2.58,Follicle-Stimulating Hormone
+Control,6.75,Follicle-Stimulating Hormone
+Control,3.45,Follicle-Stimulating Hormone
+Control,5.34,Follicle-Stimulating Hormone
+Control,1.65,Follicle-Stimulating Hormone
+Control,3.49,Follicle-Stimulating Hormone
+Control,3.34,Follicle-Stimulating Hormone
+Control,6.34,Follicle-Stimulating Hormone
+Control,4.27,Follicle-Stimulating Hormone
+Control,13.0,Follicle-Stimulating Hormone
+Control,5.8,Follicle-Stimulating Hormone
+Control,3.67,Follicle-Stimulating Hormone
+Control,2.71,Follicle-Stimulating Hormone
+Control,6.12,Follicle-Stimulating Hormone
+Control,3.22,Follicle-Stimulating Hormone
+Control,4.57,Follicle-Stimulating Hormone
+Control,4.87,Follicle-Stimulating Hormone
+Control,6.97,Follicle-Stimulating Hormone
+Control,12.4,Follicle-Stimulating Hormone
+Control,2.08,Follicle-Stimulating Hormone
+Control,5.63,Follicle-Stimulating Hormone
+Control,4.69,Follicle-Stimulating Hormone
+Control,4.53,Follicle-Stimulating Hormone
+Control,9.05,Follicle-Stimulating Hormone
+Control,2.3,Follicle-Stimulating Hormone
+Control,7.61,Follicle-Stimulating Hormone
+Control,5.78,Follicle-Stimulating Hormone
+Control,5.39,Follicle-Stimulating Hormone
+Control,4.18,Follicle-Stimulating Hormone
+Control,11.5,Follicle-Stimulating Hormone
+Control,7.68,Follicle-Stimulating Hormone
+Control,2.34,Follicle-Stimulating Hormone
+Control,4.67,Follicle-Stimulating Hormone
+Control,4.54,Follicle-Stimulating Hormone
+Control,4.8,Follicle-Stimulating Hormone
+Control,3.15,Follicle-Stimulating Hormone
+Control,2.66,Follicle-Stimulating Hormone
+Control,2.22,Follicle-Stimulating Hormone
+Control,4.03,Follicle-Stimulating Hormone
+Control,8.55,Follicle-Stimulating Hormone
+Control,19.6,Follicle-Stimulating Hormone
+Control,3.3,Follicle-Stimulating Hormone
+Control,10.9,Follicle-Stimulating Hormone
+Control,11.1,Follicle-Stimulating Hormone
+Control,4.38,Follicle-Stimulating Hormone
+Control,3.1,Follicle-Stimulating Hormone
+Control,6.9,Follicle-Stimulating Hormone
+Control,1.71,Follicle-Stimulating Hormone
+Control,2.68,Follicle-Stimulating Hormone
+Control,3.84,Follicle-Stimulating Hormone
+Control,7.19,Follicle-Stimulating Hormone
+Control,6.89,Follicle-Stimulating Hormone
+Control,3.89,Follicle-Stimulating Hormone
+Control,5.95,Follicle-Stimulating Hormone
+Control,3.65,Follicle-Stimulating Hormone
+Control,2.78,Follicle-Stimulating Hormone
+Control,4.6,Follicle-Stimulating Hormone
+Control,5.16,Follicle-Stimulating Hormone
+Control,3.85,Follicle-Stimulating Hormone
+Control,3.56,Follicle-Stimulating Hormone
+Control,4.24,Follicle-Stimulating Hormone
+Control,8.42,Follicle-Stimulating Hormone
+Control,6.72,Follicle-Stimulating Hormone
+Control,8.14,Follicle-Stimulating Hormone
+Control,2.98,Follicle-Stimulating Hormone
+Control,5.66,Follicle-Stimulating Hormone
+Control,8.24,Follicle-Stimulating Hormone
+Control,3.77,Follicle-Stimulating Hormone
+Control,4.56,Follicle-Stimulating Hormone
+Control,2.47,Follicle-Stimulating Hormone
+Control,3.96,Follicle-Stimulating Hormone
+Control,2.31,Follicle-Stimulating Hormone
+Control,3.89,Follicle-Stimulating Hormone
+Control,2.28,Follicle-Stimulating Hormone
+Control,1.61,Follicle-Stimulating Hormone
+Control,6.26,Follicle-Stimulating Hormone
+Control,3.35,Follicle-Stimulating Hormone
+Control,2.93,Follicle-Stimulating Hormone
+Control,1.54,Follicle-Stimulating Hormone
+Control,2.65,Follicle-Stimulating Hormone
+Control,9.63,Follicle-Stimulating Hormone
+Control,1.9,Follicle-Stimulating Hormone
+Control,7.42,Follicle-Stimulating Hormone
+Control,4.8,Follicle-Stimulating Hormone
+Control,1.12,Follicle-Stimulating Hormone
+Control,2.17,Follicle-Stimulating Hormone
+Control,6.51,Follicle-Stimulating Hormone
+Control,5.08,Follicle-Stimulating Hormone
+Control,7.86,Follicle-Stimulating Hormone
+Control,5.41,Follicle-Stimulating Hormone
+Control,3.52,Follicle-Stimulating Hormone
+Control,6.24,Follicle-Stimulating Hormone
+Control,4.2,Follicle-Stimulating Hormone
+Control,3.63,Follicle-Stimulating Hormone
+Control,6.52,Follicle-Stimulating Hormone
+Control,2.77,Follicle-Stimulating Hormone
+Control,3.49,Follicle-Stimulating Hormone
+Control,3.6,Follicle-Stimulating Hormone
+Control,3.72,Follicle-Stimulating Hormone
+Control,7.33,Follicle-Stimulating Hormone
+Control,4.92,Follicle-Stimulating Hormone
+Control,6.43,Follicle-Stimulating Hormone
+Control,9.59,Follicle-Stimulating Hormone
+Control,1.89,Follicle-Stimulating Hormone
+Control,11.0,Follicle-Stimulating Hormone
+Control,4.95,Follicle-Stimulating Hormone
+Control,6.22,Follicle-Stimulating Hormone
+Control,4.7,Follicle-Stimulating Hormone
+Control,4.08,Follicle-Stimulating Hormone
+Control,5.86,Follicle-Stimulating Hormone
+Control,6.19,Follicle-Stimulating Hormone
+Control,3.88,Follicle-Stimulating Hormone
+Control,4.74,Follicle-Stimulating Hormone
+Control,4.22,Follicle-Stimulating Hormone
+Control,2.2,Follicle-Stimulating Hormone
+Control,5.39,Follicle-Stimulating Hormone
+Control,1.55,Follicle-Stimulating Hormone
+Control,5.27,Follicle-Stimulating Hormone
+Control,5.1,Follicle-Stimulating Hormone
+Control,5.25,Follicle-Stimulating Hormone
+Control,7.75,Follicle-Stimulating Hormone
+Control,8.36,Follicle-Stimulating Hormone
+Control,7.92,Follicle-Stimulating Hormone
+Control,3.51,Follicle-Stimulating Hormone
+Control,4.42,Follicle-Stimulating Hormone
+Control,5.06,Follicle-Stimulating Hormone
+Control,5.42,Follicle-Stimulating Hormone
+Control,6.39,Follicle-Stimulating Hormone
+Control,5.1,Follicle-Stimulating Hormone
+Control,11.01,Follicle-Stimulating Hormone
+Control,7.56,Follicle-Stimulating Hormone
+Control,4.07,Follicle-Stimulating Hormone
+Control,6.05,Follicle-Stimulating Hormone
+Control,2.51,Follicle-Stimulating Hormone
+Control,7.95,Follicle-Stimulating Hormone
+Control,5.63,Follicle-Stimulating Hormone
+Control,7.05,Follicle-Stimulating Hormone
+Control,4.1,Follicle-Stimulating Hormone
+Control,3.0,Follicle-Stimulating Hormone
+Control,7.91,Follicle-Stimulating Hormone
+Control,3.83,Follicle-Stimulating Hormone
+Control,6.62,Follicle-Stimulating Hormone
+Control,2.52,Follicle-Stimulating Hormone
+Control,3.19,Follicle-Stimulating Hormone
+Control,5.82,Follicle-Stimulating Hormone
+Control,5.38,Follicle-Stimulating Hormone
+Control,3.91,Follicle-Stimulating Hormone
+Control,5.4,Follicle-Stimulating Hormone
+Control,3.44,Follicle-Stimulating Hormone
+Control,2.76,Follicle-Stimulating Hormone
+Control,3.1,Follicle-Stimulating Hormone
+Control,4.22,Follicle-Stimulating Hormone
+Control,3.54,Follicle-Stimulating Hormone
+Control,6.41,Follicle-Stimulating Hormone
+Control,2.55,Follicle-Stimulating Hormone
+Control,3.66,Follicle-Stimulating Hormone
+Control,8.88,Follicle-Stimulating Hormone
+Control,3.06,Follicle-Stimulating Hormone
+Control,9.55,Follicle-Stimulating Hormone
+Control,8.46,Follicle-Stimulating Hormone
+Control,3.41,Follicle-Stimulating Hormone
+Control,3.09,Follicle-Stimulating Hormone
+Control,3.07,Follicle-Stimulating Hormone
+Control,4.98,Follicle-Stimulating Hormone
+Control,2.44,Follicle-Stimulating Hormone
+Control,2.35,Follicle-Stimulating Hormone
+Control,2.72,Follicle-Stimulating Hormone
+Control,4.51,Follicle-Stimulating Hormone
+Control,7.76,Follicle-Stimulating Hormone
+Control,7.22,Follicle-Stimulating Hormone
+Control,5.98,Follicle-Stimulating Hormone
+Control,7.06,Follicle-Stimulating Hormone
+Control,8.16,Follicle-Stimulating Hormone
+Control,7.8,Follicle-Stimulating Hormone
+Control,1.87,Follicle-Stimulating Hormone
+Control,4.24,Follicle-Stimulating Hormone
+Control,2.41,Follicle-Stimulating Hormone
+Control,2.61,Follicle-Stimulating Hormone
+Control,7.09,Follicle-Stimulating Hormone
+Control,5.0,Follicle-Stimulating Hormone
+Control,5.6,Follicle-Stimulating Hormone
+Control,4.04,Follicle-Stimulating Hormone
+Control,3.17,Follicle-Stimulating Hormone
+Control,3.09,Follicle-Stimulating Hormone
+Control,5.78,Follicle-Stimulating Hormone
+Control,5.2,Follicle-Stimulating Hormone
+Control,3.77,Follicle-Stimulating Hormone
+Control,2.41,Follicle-Stimulating Hormone
+Control,4.42,Follicle-Stimulating Hormone
+Control,5.65,Follicle-Stimulating Hormone
+Control,4.57,Follicle-Stimulating Hormone
+Control,4.67,Follicle-Stimulating Hormone
+Control,8.07,Follicle-Stimulating Hormone
+Control,3.34,Follicle-Stimulating Hormone
+Control,2.69,Follicle-Stimulating Hormone
+Control,4.66,Follicle-Stimulating Hormone
+Control,4.35,Follicle-Stimulating Hormone
+Control,4.72,Follicle-Stimulating Hormone
+Control,11.0,Follicle-Stimulating Hormone
+Control,5.41,Follicle-Stimulating Hormone
+Control,5.11,Follicle-Stimulating Hormone
+Control,3.49,Follicle-Stimulating Hormone
+Control,4.1,Follicle-Stimulating Hormone
+Control,4.01,Follicle-Stimulating Hormone
+Control,6.07,Follicle-Stimulating Hormone
+Control,3.67,Follicle-Stimulating Hormone
+Control,3.37,Follicle-Stimulating Hormone
+Control,3.92,Follicle-Stimulating Hormone
+Control,3.88,Follicle-Stimulating Hormone
+Control,5.49,Follicle-Stimulating Hormone
+Control,4.71,Follicle-Stimulating Hormone
+Control,6.99,Follicle-Stimulating Hormone
+Control,2.86,Follicle-Stimulating Hormone
+Control,2.99,Follicle-Stimulating Hormone
+Control,2.33,Follicle-Stimulating Hormone
+Control,6.82,Follicle-Stimulating Hormone
+Control,1.36,Follicle-Stimulating Hormone
+Control,2.59,Follicle-Stimulating Hormone
+Control,4.19,Follicle-Stimulating Hormone
+Control,2.38,Follicle-Stimulating Hormone
+Control,3.02,Follicle-Stimulating Hormone
+Control,3.36,Follicle-Stimulating Hormone
+Control,2.69,Follicle-Stimulating Hormone
+Control,4.08,Follicle-Stimulating Hormone
+Control,3.65,Follicle-Stimulating Hormone
+Control,9.57,Follicle-Stimulating Hormone
+Control,3.75,Follicle-Stimulating Hormone
+Control,3.2,Follicle-Stimulating Hormone
+Control,4.2,Follicle-Stimulating Hormone
+Control,3.29,Follicle-Stimulating Hormone
+Control,6.02,Follicle-Stimulating Hormone
+Control,6.68,Follicle-Stimulating Hormone
+Control,8.21,Follicle-Stimulating Hormone
+Control,3.14,Follicle-Stimulating Hormone
+Control,3.25,Follicle-Stimulating Hormone
+Control,5.64,Follicle-Stimulating Hormone
+Control,5.05,Follicle-Stimulating Hormone
+Control,3.5,Follicle-Stimulating Hormone
+Control,5.18,Follicle-Stimulating Hormone
+Control,2.8,Follicle-Stimulating Hormone
+Control,2.97,Follicle-Stimulating Hormone
+Control,9.34,Follicle-Stimulating Hormone
+Control,2.27,Follicle-Stimulating Hormone
+Control,4.98,Follicle-Stimulating Hormone
+Control,4.88,Follicle-Stimulating Hormone
+Control,0.6,Follicle-Stimulating Hormone
+Control,4.55,Follicle-Stimulating Hormone
+Control,3.54,Follicle-Stimulating Hormone
+Control,3.02,Follicle-Stimulating Hormone
+Control,3.01,Follicle-Stimulating Hormone
+Control,7.3,Follicle-Stimulating Hormone
+Control,4.8,Follicle-Stimulating Hormone
+Control,1.63,Follicle-Stimulating Hormone
+Control,2.24,Follicle-Stimulating Hormone
+Control,4.27,Follicle-Stimulating Hormone
+Control,4.2,Follicle-Stimulating Hormone
+Control,3.86,Follicle-Stimulating Hormone
+Control,5.92,Follicle-Stimulating Hormone
+Control,7.78,Follicle-Stimulating Hormone
+Control,1.58,Follicle-Stimulating Hormone
+Control,4.6,Follicle-Stimulating Hormone
+Control,2.14,Follicle-Stimulating Hormone
+Control,5.45,Follicle-Stimulating Hormone
+Control,3.5,Follicle-Stimulating Hormone
+Control,3.05,Follicle-Stimulating Hormone
+Control,3.04,Follicle-Stimulating Hormone
+Control,2.83,Follicle-Stimulating Hormone
+Control,5.03,Follicle-Stimulating Hormone
+Control,3.19,Follicle-Stimulating Hormone
+Control,2.15,Follicle-Stimulating Hormone
+Control,5.43,Follicle-Stimulating Hormone
+Control,3.75,Follicle-Stimulating Hormone
+Control,1.73,Follicle-Stimulating Hormone
+Control,4.03,Follicle-Stimulating Hormone
+Control,5.71,Follicle-Stimulating Hormone
+Control,4.51,Follicle-Stimulating Hormone
+Control,1.9,Follicle-Stimulating Hormone
+Control,67.12,Follicle-Stimulating Hormone
+Control,2.61,Follicle-Stimulating Hormone
+Control,5.64,Follicle-Stimulating Hormone
+Control,3.08,Follicle-Stimulating Hormone
+Control,2.86,Follicle-Stimulating Hormone
+Control,3.99,Follicle-Stimulating Hormone
+Control,5.56,Follicle-Stimulating Hormone
+Control,3.29,Follicle-Stimulating Hormone
+Control,3.93,Follicle-Stimulating Hormone
+Control,1.49,Follicle-Stimulating Hormone
+Control,4.76,Follicle-Stimulating Hormone
+Control,1.8,Follicle-Stimulating Hormone
+Control,3.34,Follicle-Stimulating Hormone
+Control,21.9,Follicle-Stimulating Hormone
+Control,6.32,Follicle-Stimulating Hormone
+Control,4.97,Follicle-Stimulating Hormone
+Control,2.06,Follicle-Stimulating Hormone
+Control,3.5,Follicle-Stimulating Hormone
+Control,5.33,Follicle-Stimulating Hormone
+Control,2.7,Follicle-Stimulating Hormone
+Control,15.0,Follicle-Stimulating Hormone
+Control,4.06,Follicle-Stimulating Hormone
+Control,4.29,Follicle-Stimulating Hormone
+Control,8.0,Follicle-Stimulating Hormone
+Control,2.45,Follicle-Stimulating Hormone
+Control,5.56,Follicle-Stimulating Hormone
+Control,6.88,Follicle-Stimulating Hormone
+Control,3.38,Follicle-Stimulating Hormone
+Control,3.88,Follicle-Stimulating Hormone
+Control,2.76,Follicle-Stimulating Hormone
+Control,2.84,Follicle-Stimulating Hormone
+Control,8.07,Follicle-Stimulating Hormone
+Control,10.2,Follicle-Stimulating Hormone
+Control,5.59,Follicle-Stimulating Hormone
+Control,2.0,Follicle-Stimulating Hormone
+Control,2.29,Follicle-Stimulating Hormone
+Control,4.78,Follicle-Stimulating Hormone
+NOA,34.8,Follicle-Stimulating Hormone
+NOA,23.1,Follicle-Stimulating Hormone
+NOA,16.5,Follicle-Stimulating Hormone
+NOA,4.5,Follicle-Stimulating Hormone
+NOA,26.74,Follicle-Stimulating Hormone
+NOA,45.3,Follicle-Stimulating Hormone
+NOA,25.9,Follicle-Stimulating Hormone
+NOA,3.96,Follicle-Stimulating Hormone
+NOA,55.6,Follicle-Stimulating Hormone
+NOA,19.3,Follicle-Stimulating Hormone
+NOA,32.2,Follicle-Stimulating Hormone
+NOA,22.8,Follicle-Stimulating Hormone
+NOA,30.5,Follicle-Stimulating Hormone
+NOA,30.3,Follicle-Stimulating Hormone
+NOA,33.95,Follicle-Stimulating Hormone
+NOA,14.0,Follicle-Stimulating Hormone
+NOA,12.24,Follicle-Stimulating Hormone
+NOA,22.4,Follicle-Stimulating Hormone
+NOA,13.55,Follicle-Stimulating Hormone
+NOA,48.7,Follicle-Stimulating Hormone
+NOA,27.4,Follicle-Stimulating Hormone
+NOA,4.05,Follicle-Stimulating Hormone
+NOA,14.06,Follicle-Stimulating Hormone
+NOA,4.76,Follicle-Stimulating Hormone
+NOA,22.4,Follicle-Stimulating Hormone
+NOA,29.9,Follicle-Stimulating Hormone
+NOA,13.7,Follicle-Stimulating Hormone
+NOA,32.3,Follicle-Stimulating Hormone
+NOA,46.9,Follicle-Stimulating Hormone
+NOA,15.02,Follicle-Stimulating Hormone
+NOA,40.12,Follicle-Stimulating Hormone
+NOA,19.78,Follicle-Stimulating Hormone
+NOA,17.0,Follicle-Stimulating Hormone
+NOA,25.5,Follicle-Stimulating Hormone
+NOA,22.03,Follicle-Stimulating Hormone
+NOA,25.7,Follicle-Stimulating Hormone
+NOA,25.9,Follicle-Stimulating Hormone
+NOA,15.8,Follicle-Stimulating Hormone
+NOA,11.5,Follicle-Stimulating Hormone
+NOA,25.9,Follicle-Stimulating Hormone
+NOA,21.15,Follicle-Stimulating Hormone
+NOA,13.69,Follicle-Stimulating Hormone
+NOA,11.77,Follicle-Stimulating Hormone
+NOA,20.53,Follicle-Stimulating Hormone
+NOA,13.3,Follicle-Stimulating Hormone
+NOA,22.12,Follicle-Stimulating Hormone
+NOA,49.02,Follicle-Stimulating Hormone
+NOA,13.3,Follicle-Stimulating Hormone
+NOA,24.3,Follicle-Stimulating Hormone
+NOA,1.94,Follicle-Stimulating Hormone
+NOA,13.0,Follicle-Stimulating Hormone
+NOA,13.8,Follicle-Stimulating Hormone
+NOA,12.73,Follicle-Stimulating Hormone
+NOA,24.5,Follicle-Stimulating Hormone
+NOA,20.7,Follicle-Stimulating Hormone
+NOA,37.5,Follicle-Stimulating Hormone
+NOA,16.41,Follicle-Stimulating Hormone
+NOA,20.2,Follicle-Stimulating Hormone
+NOA,23.3,Follicle-Stimulating Hormone
+NOA,9.6,Follicle-Stimulating Hormone
+NOA,33.5,Follicle-Stimulating Hormone
+NOA,29.7,Follicle-Stimulating Hormone
+NOA,33.0,Follicle-Stimulating Hormone
+NOA,23.89,Follicle-Stimulating Hormone
+NOA,42.4,Follicle-Stimulating Hormone
+NOA,37.0,Follicle-Stimulating Hormone
+NOA,37.6,Follicle-Stimulating Hormone
+NOA,15.5,Follicle-Stimulating Hormone
+NOA,25.6,Follicle-Stimulating Hormone
+NOA,21.5,Follicle-Stimulating Hormone
+NOA,82.84,Follicle-Stimulating Hormone
+NOA,23.5,Follicle-Stimulating Hormone
+NOA,36.7,Follicle-Stimulating Hormone
+NOA,12.7,Follicle-Stimulating Hormone
+NOA,12.5,Follicle-Stimulating Hormone
+NOA,17.6,Follicle-Stimulating Hormone
+NOA,20.0,Follicle-Stimulating Hormone
+NOA,22.8,Follicle-Stimulating Hormone
+NOA,20.68,Follicle-Stimulating Hormone
+NOA,22.9,Follicle-Stimulating Hormone
+NOA,35.19,Follicle-Stimulating Hormone
+NOA,11.54,Follicle-Stimulating Hormone
+NOA,21.6,Follicle-Stimulating Hormone
+NOA,23.34,Follicle-Stimulating Hormone
+NOA,18.89,Follicle-Stimulating Hormone
+NOA,5.48,Follicle-Stimulating Hormone
+NOA,26.16,Follicle-Stimulating Hormone
+NOA,25.1,Follicle-Stimulating Hormone
+NOA,15.2,Follicle-Stimulating Hormone
+NOA,66.04,Follicle-Stimulating Hormone
+NOA,7.44,Follicle-Stimulating Hormone
+NOA,8.93,Follicle-Stimulating Hormone
+NOA,58.9,Follicle-Stimulating Hormone
+NOA,28.46,Follicle-Stimulating Hormone
+NOA,36.92,Follicle-Stimulating Hormone
+NOA,18.2,Follicle-Stimulating Hormone
+NOA,13.0,Follicle-Stimulating Hormone
+NOA,19.2,Follicle-Stimulating Hormone
+NOA,19.0,Follicle-Stimulating Hormone
+NOA,22.34,Follicle-Stimulating Hormone
+NOA,3.6,Follicle-Stimulating Hormone
+NOA,20.6,Follicle-Stimulating Hormone
+NOA,22.79,Follicle-Stimulating Hormone
+NOA,15.62,Follicle-Stimulating Hormone
+NOA,25.6,Follicle-Stimulating Hormone
+NOA,16.4,Follicle-Stimulating Hormone
+NOA,8.27,Follicle-Stimulating Hormone
+NOA,3.03,Follicle-Stimulating Hormone
+NOA,19.1,Follicle-Stimulating Hormone
+NOA,13.7,Follicle-Stimulating Hormone
+NOA,6.1,Follicle-Stimulating Hormone
+NOA,24.44,Follicle-Stimulating Hormone
+NOA,16.6,Follicle-Stimulating Hormone
+NOA,12.5,Follicle-Stimulating Hormone
+NOA,38.9,Follicle-Stimulating Hormone
+NOA,22.02,Follicle-Stimulating Hormone
+NOA,15.9,Follicle-Stimulating Hormone
+NOA,22.11,Follicle-Stimulating Hormone
+NOA,30.59,Follicle-Stimulating Hormone
+NOA,27.4,Follicle-Stimulating Hormone
+NOA,3.48,Follicle-Stimulating Hormone
+NOA,29.8,Follicle-Stimulating Hormone
+NOA,28.79,Follicle-Stimulating Hormone
+NOA,41.08,Follicle-Stimulating Hormone
+NOA,4.52,Follicle-Stimulating Hormone
+NOA,21.2,Follicle-Stimulating Hormone
+NOA,31.1,Follicle-Stimulating Hormone
+NOA,4.56,Follicle-Stimulating Hormone
+NOA,50.9,Follicle-Stimulating Hormone
+NOA,29.7,Follicle-Stimulating Hormone
+NOA,38.44,Follicle-Stimulating Hormone
+NOA,14.24,Follicle-Stimulating Hormone
+NOA,20.9,Follicle-Stimulating Hormone
+NOA,52.5,Follicle-Stimulating Hormone
+NOA,5.44,Follicle-Stimulating Hormone
+NOA,18.69,Follicle-Stimulating Hormone
+NOA,4.56,Follicle-Stimulating Hormone
+NOA,11.24,Follicle-Stimulating Hormone
+NOA,21.6,Follicle-Stimulating Hormone
+NOA,18.2,Follicle-Stimulating Hormone
+NOA,7.82,Follicle-Stimulating Hormone
+NOA,7.94,Follicle-Stimulating Hormone
+OA,5.27,Follicle-Stimulating Hormone
+OA,6.96,Follicle-Stimulating Hormone
+OA,4.44,Follicle-Stimulating Hormone
+OA,4.03,Follicle-Stimulating Hormone
+OA,7.94,Follicle-Stimulating Hormone
+OA,7.58,Follicle-Stimulating Hormone
+OA,3.38,Follicle-Stimulating Hormone
+OA,4.61,Follicle-Stimulating Hormone
+OA,5.01,Follicle-Stimulating Hormone
+OA,3.54,Follicle-Stimulating Hormone
+OA,4.08,Follicle-Stimulating Hormone
+OA,7.91,Follicle-Stimulating Hormone
+OA,2.86,Follicle-Stimulating Hormone
+OA,1.68,Follicle-Stimulating Hormone
+OA,5.15,Follicle-Stimulating Hormone
+OA,2.44,Follicle-Stimulating Hormone
+OA,3.16,Follicle-Stimulating Hormone
+OA,3.15,Follicle-Stimulating Hormone
+OA,2.54,Follicle-Stimulating Hormone
+OA,5.55,Follicle-Stimulating Hormone
+OA,5.23,Follicle-Stimulating Hormone
+OA,10.0,Follicle-Stimulating Hormone
+OA,2.87,Follicle-Stimulating Hormone
+OA,6.24,Follicle-Stimulating Hormone
+OA,2.16,Follicle-Stimulating Hormone
+OA,3.56,Follicle-Stimulating Hormone
+OA,6.6,Follicle-Stimulating Hormone
+OA,2.19,Follicle-Stimulating Hormone
+OA,3.37,Follicle-Stimulating Hormone
+OA,8.38,Follicle-Stimulating Hormone
+OA,4.34,Follicle-Stimulating Hormone
+OA,5.09,Follicle-Stimulating Hormone
+OA,2.92,Follicle-Stimulating Hormone
+OA,6.4,Follicle-Stimulating Hormone
+OA,2.84,Follicle-Stimulating Hormone
+OA,14.3,Follicle-Stimulating Hormone
+OA,3.91,Follicle-Stimulating Hormone
+OA,2.09,Follicle-Stimulating Hormone
+OA,4.06,Follicle-Stimulating Hormone
+OA,3.3,Follicle-Stimulating Hormone
+OA,3.3,Follicle-Stimulating Hormone
+OA,4.57,Follicle-Stimulating Hormone
+OA,5.68,Follicle-Stimulating Hormone
+OA,2.38,Follicle-Stimulating Hormone
+OA,5.5,Follicle-Stimulating Hormone
+OA,3.42,Follicle-Stimulating Hormone
+OA,8.06,Follicle-Stimulating Hormone
+OA,6.06,Follicle-Stimulating Hormone
+OA,4.36,Follicle-Stimulating Hormone
+OA,5.18,Follicle-Stimulating Hormone
+OA,2.44,Follicle-Stimulating Hormone
+OA,3.7,Follicle-Stimulating Hormone
+OA,3.76,Follicle-Stimulating Hormone
+OA,4.27,Follicle-Stimulating Hormone
+OA,4.56,Follicle-Stimulating Hormone
+OA,5.53,Follicle-Stimulating Hormone
+OA,2.9,Follicle-Stimulating Hormone
+OA,5.3,Follicle-Stimulating Hormone
+OA,5.25,Follicle-Stimulating Hormone
+OA,7.76,Follicle-Stimulating Hormone
+OA,2.72,Follicle-Stimulating Hormone
+OA,6.74,Follicle-Stimulating Hormone
+OA,2.08,Follicle-Stimulating Hormone
+OA,6.85,Follicle-Stimulating Hormone
+OA,6.42,Follicle-Stimulating Hormone
+OA,2.7,Follicle-Stimulating Hormone
+OA,8.28,Follicle-Stimulating Hormone
+OA,4.39,Follicle-Stimulating Hormone
+OA,5.28,Follicle-Stimulating Hormone
+OA,2.0,Follicle-Stimulating Hormone
+OA,5.22,Follicle-Stimulating Hormone
+OA,2.99,Follicle-Stimulating Hormone
+OA,5.57,Follicle-Stimulating Hormone
+OA,2.66,Follicle-Stimulating Hormone
+OA,7.64,Follicle-Stimulating Hormone
+OA,8.8,Follicle-Stimulating Hormone
+OA,7.29,Follicle-Stimulating Hormone
+OA,5.37,Follicle-Stimulating Hormone
+OA,4.45,Follicle-Stimulating Hormone
+OA,4.57,Follicle-Stimulating Hormone
+OA,7.85,Follicle-Stimulating Hormone
+OA,12.1,Follicle-Stimulating Hormone
+OA,2.09,Follicle-Stimulating Hormone
+OA,1.75,Follicle-Stimulating Hormone
+OA,3.39,Follicle-Stimulating Hormone
+OA,3.81,Follicle-Stimulating Hormone
+OA,5.4,Follicle-Stimulating Hormone
+OA,4.53,Follicle-Stimulating Hormone
+OA,5.86,Follicle-Stimulating Hormone
+OA,3.64,Follicle-Stimulating Hormone
+OA,3.92,Follicle-Stimulating Hormone
+OA,13.93,Follicle-Stimulating Hormone
+OA,9.69,Follicle-Stimulating Hormone
+OA,3.59,Follicle-Stimulating Hormone
+OA,3.77,Follicle-Stimulating Hormone
+OA,2.64,Follicle-Stimulating Hormone
+OA,7.59,Follicle-Stimulating Hormone
+OA,2.68,Follicle-Stimulating Hormone
+OA,4.22,Follicle-Stimulating Hormone
+OA,6.53,Follicle-Stimulating Hormone
+OA,4.17,Follicle-Stimulating Hormone
+OA,6.43,Follicle-Stimulating Hormone
+OA,3.82,Follicle-Stimulating Hormone
+OA,9.8,Follicle-Stimulating Hormone
+OA,1.34,Follicle-Stimulating Hormone
+OA,2.3,Follicle-Stimulating Hormone
+OA,6.08,Follicle-Stimulating Hormone
+OA,4.08,Follicle-Stimulating Hormone
+OA,8.22,Follicle-Stimulating Hormone
+OA,3.78,Follicle-Stimulating Hormone
+OA,4.15,Follicle-Stimulating Hormone
+OA,1.7,Follicle-Stimulating Hormone
+OA,2.3,Follicle-Stimulating Hormone
+OA,5.36,Follicle-Stimulating Hormone
+OA,5.14,Follicle-Stimulating Hormone
+OA,3.65,Follicle-Stimulating Hormone
+OA,5.91,Follicle-Stimulating Hormone
+OA,7.28,Follicle-Stimulating Hormone
+OA,2.81,Follicle-Stimulating Hormone
+OA,3.2,Follicle-Stimulating Hormone
+OA,2.87,Follicle-Stimulating Hormone
+OA,4.56,Follicle-Stimulating Hormone
+OA,2.84,Follicle-Stimulating Hormone
+OA,2.82,Follicle-Stimulating Hormone
+OA,4.02,Follicle-Stimulating Hormone
+OA,5.1,Follicle-Stimulating Hormone
+OA,9.05,Follicle-Stimulating Hormone
+OA,5.14,Follicle-Stimulating Hormone
+OA,4.17,Follicle-Stimulating Hormone
+OA,3.83,Follicle-Stimulating Hormone
+OA,6.61,Follicle-Stimulating Hormone
+OA,5.18,Follicle-Stimulating Hormone
+OA,6.06,Follicle-Stimulating Hormone
+OA,3.08,Follicle-Stimulating Hormone
+OA,2.56,Follicle-Stimulating Hormone
+OA,3.85,Follicle-Stimulating Hormone
+OA,6.91,Follicle-Stimulating Hormone
+OA,0.98,Follicle-Stimulating Hormone
+OA,7.52,Follicle-Stimulating Hormone
+OA,7.39,Follicle-Stimulating Hormone
+OA,5.43,Follicle-Stimulating Hormone
+OA,3.87,Follicle-Stimulating Hormone
+OA,3.72,Follicle-Stimulating Hormone
+OA,5.23,Follicle-Stimulating Hormone
+OA,4.48,Follicle-Stimulating Hormone
+OA,2.75,Follicle-Stimulating Hormone
+OA,7.71,Follicle-Stimulating Hormone
+OA,5.65,Follicle-Stimulating Hormone
+OA,1.91,Follicle-Stimulating Hormone
+OA,3.58,Follicle-Stimulating Hormone
+OA,4.6,Follicle-Stimulating Hormone
+OA,12.7,Follicle-Stimulating Hormone
+OA,3.68,Follicle-Stimulating Hormone
+OA,7.05,Follicle-Stimulating Hormone
+OA,4.29,Follicle-Stimulating Hormone
+OA,13.81,Follicle-Stimulating Hormone
+OA,6.48,Follicle-Stimulating Hormone
+OA,4.05,Follicle-Stimulating Hormone
+OA,3.69,Follicle-Stimulating Hormone
+OA,9.34,Follicle-Stimulating Hormone
+OA,6.29,Follicle-Stimulating Hormone
+OA,2.38,Follicle-Stimulating Hormone
+OA,6.14,Follicle-Stimulating Hormone
+OA,5.89,Follicle-Stimulating Hormone
+OA,3.33,Follicle-Stimulating Hormone
+OA,3.52,Follicle-Stimulating Hormone
+OA,2.72,Follicle-Stimulating Hormone
+OA,3.99,Follicle-Stimulating Hormone
+OA,4.01,Follicle-Stimulating Hormone
+OA,6.69,Follicle-Stimulating Hormone
+OA,1.71,Follicle-Stimulating Hormone
+OA,8.42,Follicle-Stimulating Hormone
+OA,4.79,Follicle-Stimulating Hormone
+OA,5.94,Follicle-Stimulating Hormone
+OA,4.55,Follicle-Stimulating Hormone
+OA,2.27,Follicle-Stimulating Hormone
+OA,2.77,Follicle-Stimulating Hormone
+OA,4.63,Follicle-Stimulating Hormone
+OA,4.31,Follicle-Stimulating Hormone
+OA,3.44,Follicle-Stimulating Hormone
+OA,3.49,Follicle-Stimulating Hormone
+OA,2.42,Follicle-Stimulating Hormone
+OA,4.47,Follicle-Stimulating Hormone
+OA,3.78,Follicle-Stimulating Hormone
+OA,2.41,Follicle-Stimulating Hormone
+OA,2.6,Follicle-Stimulating Hormone
+OA,4.95,Follicle-Stimulating Hormone
+OA,8.87,Follicle-Stimulating Hormone
+OA,5.93,Follicle-Stimulating Hormone
+OA,8.75,Follicle-Stimulating Hormone
+OA,3.25,Follicle-Stimulating Hormone
+OA,2.23,Follicle-Stimulating Hormone
+OA,3.83,Follicle-Stimulating Hormone
+OA,7.91,Follicle-Stimulating Hormone
+OA,3.67,Follicle-Stimulating Hormone
+OA,5.45,Follicle-Stimulating Hormone
+OA,6.18,Follicle-Stimulating Hormone
+OA,1.92,Follicle-Stimulating Hormone
+OA,2.34,Follicle-Stimulating Hormone
+OA,3.56,Follicle-Stimulating Hormone
+OA,4.55,Follicle-Stimulating Hormone
+OA,4.96,Follicle-Stimulating Hormone
+OA,5.42,Follicle-Stimulating Hormone
+OA,10.4,Follicle-Stimulating Hormone
+OA,3.72,Follicle-Stimulating Hormone
+OA,5.56,Follicle-Stimulating Hormone
+OA,4.18,Follicle-Stimulating Hormone
+OA,1.5,Follicle-Stimulating Hormone
+OA,2.67,Follicle-Stimulating Hormone
+OA,4.38,Follicle-Stimulating Hormone
+OA,2.75,Follicle-Stimulating Hormone
+OA,5.98,Follicle-Stimulating Hormone
+OA,3.39,Follicle-Stimulating Hormone
+OA,4.24,Follicle-Stimulating Hormone
+OA,9.89,Follicle-Stimulating Hormone
+OA,2.19,Follicle-Stimulating Hormone
+OA,5.71,Follicle-Stimulating Hormone
+OA,6.8,Follicle-Stimulating Hormone
+OA,3.63,Follicle-Stimulating Hormone
+OA,2.8,Follicle-Stimulating Hormone
+OA,11.7,Follicle-Stimulating Hormone
+OA,5.0,Follicle-Stimulating Hormone
+OA,4.94,Follicle-Stimulating Hormone
+OA,2.83,Follicle-Stimulating Hormone
+OA,6.97,Follicle-Stimulating Hormone
+OA,3.93,Follicle-Stimulating Hormone
+OA,4.47,Follicle-Stimulating Hormone
+OA,4.1,Follicle-Stimulating Hormone
+OA,6.51,Follicle-Stimulating Hormone
+OA,8.88,Follicle-Stimulating Hormone
+OA,5.99,Follicle-Stimulating Hormone
+OA,2.71,Follicle-Stimulating Hormone
+OA,7.37,Follicle-Stimulating Hormone
+OA,8.7,Follicle-Stimulating Hormone
+OA,2.59,Follicle-Stimulating Hormone
+OA,3.51,Follicle-Stimulating Hormone
+OA,18.4,Follicle-Stimulating Hormone
+OA,2.9,Follicle-Stimulating Hormone
+OA,5.05,Follicle-Stimulating Hormone
+OA,4.78,Follicle-Stimulating Hormone
+OA,3.06,Follicle-Stimulating Hormone
+OA,2.89,Follicle-Stimulating Hormone
+OA,4.12,Follicle-Stimulating Hormone
+OA,1.89,Follicle-Stimulating Hormone
+OA,2.92,Follicle-Stimulating Hormone
+OA,3.85,Follicle-Stimulating Hormone
+OA,4.52,Follicle-Stimulating Hormone
+OA,4.38,Follicle-Stimulating Hormone
+OA,4.82,Follicle-Stimulating Hormone
+OA,4.85,Follicle-Stimulating Hormone
+OA,7.59,Follicle-Stimulating Hormone
+OA,2.23,Follicle-Stimulating Hormone
+OA,5.07,Follicle-Stimulating Hormone
+OA,7.74,Follicle-Stimulating Hormone
+OA,3.51,Follicle-Stimulating Hormone
+OA,6.81,Follicle-Stimulating Hormone
+OA,4.78,Follicle-Stimulating Hormone
+OA,2.39,Follicle-Stimulating Hormone
+OA,4.25,Follicle-Stimulating Hormone
+OA,3.99,Follicle-Stimulating Hormone
+OA,7.0,Follicle-Stimulating Hormone
+OA,4.83,Follicle-Stimulating Hormone
+OA,6.4,Follicle-Stimulating Hormone
+OA,3.2,Follicle-Stimulating Hormone
+OA,5.93,Follicle-Stimulating Hormone
+OA,3.97,Follicle-Stimulating Hormone
+OA,3.26,Follicle-Stimulating Hormone
+OA,5.81,Follicle-Stimulating Hormone
+OA,6.35,Follicle-Stimulating Hormone
+OA,3.44,Follicle-Stimulating Hormone
+OA,7.37,Follicle-Stimulating Hormone
+OA,3.5,Follicle-Stimulating Hormone
+OA,3.91,Follicle-Stimulating Hormone
+OA,1.6,Follicle-Stimulating Hormone
+OA,4.72,Follicle-Stimulating Hormone
+OA,4.16,Follicle-Stimulating Hormone
+OA,2.87,Follicle-Stimulating Hormone
+OA,2.28,Follicle-Stimulating Hormone
+OA,4.71,Follicle-Stimulating Hormone
+OA,10.11,Follicle-Stimulating Hormone
+OA,8.92,Follicle-Stimulating Hormone
+OA,4.68,Follicle-Stimulating Hormone
+OA,3.95,Follicle-Stimulating Hormone
+OA,3.28,Follicle-Stimulating Hormone
+OA,5.81,Follicle-Stimulating Hormone
+OA,4.66,Follicle-Stimulating Hormone
+OA,2.64,Follicle-Stimulating Hormone
+OA,4.18,Follicle-Stimulating Hormone
+OA,4.29,Follicle-Stimulating Hormone
+OA,7.28,Follicle-Stimulating Hormone
+OA,0.99,Follicle-Stimulating Hormone
+OA,2.45,Follicle-Stimulating Hormone
+OA,3.24,Follicle-Stimulating Hormone
+OA,7.6,Follicle-Stimulating Hormone
+OA,4.68,Follicle-Stimulating Hormone
+OA,1.91,Follicle-Stimulating Hormone
+OA,18.1,Follicle-Stimulating Hormone
+OA,5.84,Follicle-Stimulating Hormone
+OA,4.05,Follicle-Stimulating Hormone
+OA,6.48,Follicle-Stimulating Hormone
+OA,2.1,Follicle-Stimulating Hormone
+OA,3.08,Follicle-Stimulating Hormone
+OA,5.34,Follicle-Stimulating Hormone
+OA,3.69,Follicle-Stimulating Hormone
+OA,7.68,Follicle-Stimulating Hormone
+OA,1.32,Follicle-Stimulating Hormone
+OA,3.01,Follicle-Stimulating Hormone
+OA,3.94,Follicle-Stimulating Hormone
+OA,5.21,Follicle-Stimulating Hormone
+OA,2.54,Follicle-Stimulating Hormone
+OA,2.49,Follicle-Stimulating Hormone
+OA,7.58,Follicle-Stimulating Hormone
+OA,5.39,Follicle-Stimulating Hormone
+OA,5.76,Follicle-Stimulating Hormone
+OA,3.18,Follicle-Stimulating Hormone
+OA,11.43,Follicle-Stimulating Hormone
+OA,10.83,Follicle-Stimulating Hormone
+OA,7.11,Follicle-Stimulating Hormone
+OA,4.43,Follicle-Stimulating Hormone
+OA,3.94,Follicle-Stimulating Hormone
+OA,1.92,Follicle-Stimulating Hormone
+OA,2.01,Follicle-Stimulating Hormone
+OA,4.87,Follicle-Stimulating Hormone
+OA,7.48,Follicle-Stimulating Hormone
+OA,10.9,Follicle-Stimulating Hormone
+OA,1.36,Follicle-Stimulating Hormone
+OA,3.61,Follicle-Stimulating Hormone
+OA,5.09,Follicle-Stimulating Hormone
+OA,4.04,Follicle-Stimulating Hormone
+OA,4.57,Follicle-Stimulating Hormone
+OA,6.4,Follicle-Stimulating Hormone
+OA,4.17,Follicle-Stimulating Hormone
+OA,3.04,Follicle-Stimulating Hormone
+OA,6.78,Follicle-Stimulating Hormone
+OA,6.06,Follicle-Stimulating Hormone
+OA,2.46,Follicle-Stimulating Hormone
+OA,4.24,Follicle-Stimulating Hormone
+OA,6.66,Follicle-Stimulating Hormone
+OA,4.89,Follicle-Stimulating Hormone
+OA,4.95,Follicle-Stimulating Hormone
+OA,3.01,Follicle-Stimulating Hormone
+OA,7.1,Follicle-Stimulating Hormone
+OA,9.78,Follicle-Stimulating Hormone
+OA,6.42,Follicle-Stimulating Hormone
+OA,2.76,Follicle-Stimulating Hormone
+OA,2.38,Follicle-Stimulating Hormone
+OA,3.68,Follicle-Stimulating Hormone
+OA,3.19,Follicle-Stimulating Hormone
+OA,8.0,Follicle-Stimulating Hormone
+OA,3.91,Follicle-Stimulating Hormone
+OA,4.38,Follicle-Stimulating Hormone
+OA,4.74,Follicle-Stimulating Hormone
+OA,15.1,Follicle-Stimulating Hormone
+OA,5.14,Follicle-Stimulating Hormone
+OA,4.88,Follicle-Stimulating Hormone
+OA,7.17,Follicle-Stimulating Hormone
+OA,6.22,Follicle-Stimulating Hormone
+OA,5.97,Follicle-Stimulating Hormone
+OA,4.56,Follicle-Stimulating Hormone
+OA,4.78,Follicle-Stimulating Hormone
+OA,4.43,Follicle-Stimulating Hormone
+OA,1.93,Follicle-Stimulating Hormone
+OA,2.63,Follicle-Stimulating Hormone
+OA,9.65,Follicle-Stimulating Hormone
+OA,2.3,Follicle-Stimulating Hormone
+OA,3.73,Follicle-Stimulating Hormone
+OA,8.71,Follicle-Stimulating Hormone
+OA,6.19,Follicle-Stimulating Hormone
+OA,4.53,Follicle-Stimulating Hormone
+OA,2.21,Follicle-Stimulating Hormone
+OA,1.5,Follicle-Stimulating Hormone
+OA,2.34,Follicle-Stimulating Hormone
+OA,6.19,Follicle-Stimulating Hormone
+OA,2.11,Follicle-Stimulating Hormone
+OA,4.58,Follicle-Stimulating Hormone
+OA,3.08,Follicle-Stimulating Hormone
+OA,6.72,Follicle-Stimulating Hormone
+OA,5.25,Follicle-Stimulating Hormone
+OA,7.33,Follicle-Stimulating Hormone
+OA,3.15,Follicle-Stimulating Hormone
+OA,4.53,Follicle-Stimulating Hormone
+OA,8.64,Follicle-Stimulating Hormone
+OA,3.49,Follicle-Stimulating Hormone
+OA,4.86,Follicle-Stimulating Hormone
+OA,4.65,Follicle-Stimulating Hormone
+OA,6.66,Follicle-Stimulating Hormone
+OA,3.36,Follicle-Stimulating Hormone
+OA,4.81,Follicle-Stimulating Hormone
+OA,8.43,Follicle-Stimulating Hormone
+OA,6.81,Follicle-Stimulating Hormone
+OA,3.0,Follicle-Stimulating Hormone
+OA,3.09,Follicle-Stimulating Hormone
+OA,17.6,Follicle-Stimulating Hormone
+OA,4.61,Follicle-Stimulating Hormone
+OA,5.27,Follicle-Stimulating Hormone
+OA,8.75,Follicle-Stimulating Hormone
+OA,24.97,Follicle-Stimulating Hormone
+OA,4.42,Follicle-Stimulating Hormone
+Control,5.69,Luteinizing Hormone
+Control,8.26,Luteinizing Hormone
+Control,2.29,Luteinizing Hormone
+Control,5.38,Luteinizing Hormone
+Control,3.63,Luteinizing Hormone
+Control,6.84,Luteinizing Hormone
+Control,5.93,Luteinizing Hormone
+Control,5.6,Luteinizing Hormone
+Control,1.9,Luteinizing Hormone
+Control,3.64,Luteinizing Hormone
+Control,7.79,Luteinizing Hormone
+Control,6.47,Luteinizing Hormone
+Control,4.28,Luteinizing Hormone
+Control,2.87,Luteinizing Hormone
+Control,1.49,Luteinizing Hormone
+Control,4.54,Luteinizing Hormone
+Control,5.58,Luteinizing Hormone
+Control,2.79,Luteinizing Hormone
+Control,6.2,Luteinizing Hormone
+Control,4.5,Luteinizing Hormone
+Control,5.53,Luteinizing Hormone
+Control,3.18,Luteinizing Hormone
+Control,2.57,Luteinizing Hormone
+Control,1.89,Luteinizing Hormone
+Control,5.52,Luteinizing Hormone
+Control,2.81,Luteinizing Hormone
+Control,4.38,Luteinizing Hormone
+Control,6.96,Luteinizing Hormone
+Control,5.63,Luteinizing Hormone
+Control,2.4,Luteinizing Hormone
+Control,2.18,Luteinizing Hormone
+Control,4.78,Luteinizing Hormone
+Control,5.4,Luteinizing Hormone
+Control,4.35,Luteinizing Hormone
+Control,1.96,Luteinizing Hormone
+Control,3.77,Luteinizing Hormone
+Control,4.59,Luteinizing Hormone
+Control,11.68,Luteinizing Hormone
+Control,2.62,Luteinizing Hormone
+Control,5.49,Luteinizing Hormone
+Control,3.31,Luteinizing Hormone
+Control,1.44,Luteinizing Hormone
+Control,3.48,Luteinizing Hormone
+Control,2.13,Luteinizing Hormone
+Control,5.4,Luteinizing Hormone
+Control,5.13,Luteinizing Hormone
+Control,5.8,Luteinizing Hormone
+Control,2.56,Luteinizing Hormone
+Control,4.05,Luteinizing Hormone
+Control,1.64,Luteinizing Hormone
+Control,7.74,Luteinizing Hormone
+Control,3.99,Luteinizing Hormone
+Control,3.39,Luteinizing Hormone
+Control,2.89,Luteinizing Hormone
+Control,6.7,Luteinizing Hormone
+Control,5.97,Luteinizing Hormone
+Control,4.21,Luteinizing Hormone
+Control,2.58,Luteinizing Hormone
+Control,5.54,Luteinizing Hormone
+Control,3.06,Luteinizing Hormone
+Control,4.02,Luteinizing Hormone
+Control,4.59,Luteinizing Hormone
+Control,3.78,Luteinizing Hormone
+Control,2.28,Luteinizing Hormone
+Control,7.02,Luteinizing Hormone
+Control,4.74,Luteinizing Hormone
+Control,2.88,Luteinizing Hormone
+Control,4.58,Luteinizing Hormone
+Control,2.31,Luteinizing Hormone
+Control,2.42,Luteinizing Hormone
+Control,5.48,Luteinizing Hormone
+Control,6.41,Luteinizing Hormone
+Control,6.03,Luteinizing Hormone
+Control,4.26,Luteinizing Hormone
+Control,2.91,Luteinizing Hormone
+Control,6.19,Luteinizing Hormone
+Control,2.83,Luteinizing Hormone
+Control,15.1,Luteinizing Hormone
+Control,3.14,Luteinizing Hormone
+Control,4.42,Luteinizing Hormone
+Control,4.06,Luteinizing Hormone
+Control,4.1,Luteinizing Hormone
+Control,5.5,Luteinizing Hormone
+Control,3.69,Luteinizing Hormone
+Control,2.14,Luteinizing Hormone
+Control,4.01,Luteinizing Hormone
+Control,2.94,Luteinizing Hormone
+Control,5.12,Luteinizing Hormone
+Control,5.87,Luteinizing Hormone
+Control,9.0,Luteinizing Hormone
+Control,3.36,Luteinizing Hormone
+Control,3.37,Luteinizing Hormone
+Control,2.63,Luteinizing Hormone
+Control,2.6,Luteinizing Hormone
+Control,4.86,Luteinizing Hormone
+Control,8.42,Luteinizing Hormone
+Control,4.02,Luteinizing Hormone
+Control,6.78,Luteinizing Hormone
+Control,2.18,Luteinizing Hormone
+Control,5.27,Luteinizing Hormone
+Control,2.19,Luteinizing Hormone
+Control,3.49,Luteinizing Hormone
+Control,4.26,Luteinizing Hormone
+Control,7.59,Luteinizing Hormone
+Control,3.21,Luteinizing Hormone
+Control,5.17,Luteinizing Hormone
+Control,3.7,Luteinizing Hormone
+Control,4.21,Luteinizing Hormone
+Control,2.97,Luteinizing Hormone
+Control,5.37,Luteinizing Hormone
+Control,3.6,Luteinizing Hormone
+Control,5.25,Luteinizing Hormone
+Control,5.29,Luteinizing Hormone
+Control,6.31,Luteinizing Hormone
+Control,4.23,Luteinizing Hormone
+Control,3.95,Luteinizing Hormone
+Control,4.51,Luteinizing Hormone
+Control,5.11,Luteinizing Hormone
+Control,3.97,Luteinizing Hormone
+Control,5.72,Luteinizing Hormone
+Control,3.3,Luteinizing Hormone
+Control,6.4,Luteinizing Hormone
+Control,3.91,Luteinizing Hormone
+Control,4.55,Luteinizing Hormone
+Control,6.44,Luteinizing Hormone
+Control,3.15,Luteinizing Hormone
+Control,3.74,Luteinizing Hormone
+Control,3.28,Luteinizing Hormone
+Control,4.83,Luteinizing Hormone
+Control,1.97,Luteinizing Hormone
+Control,3.82,Luteinizing Hormone
+Control,3.63,Luteinizing Hormone
+Control,2.04,Luteinizing Hormone
+Control,1.4,Luteinizing Hormone
+Control,2.57,Luteinizing Hormone
+Control,5.0,Luteinizing Hormone
+Control,3.46,Luteinizing Hormone
+Control,2.17,Luteinizing Hormone
+Control,3.64,Luteinizing Hormone
+Control,3.09,Luteinizing Hormone
+Control,4.7,Luteinizing Hormone
+Control,3.54,Luteinizing Hormone
+Control,6.21,Luteinizing Hormone
+Control,5.94,Luteinizing Hormone
+Control,4.54,Luteinizing Hormone
+Control,3.1,Luteinizing Hormone
+Control,2.92,Luteinizing Hormone
+Control,2.54,Luteinizing Hormone
+Control,7.38,Luteinizing Hormone
+Control,3.27,Luteinizing Hormone
+Control,3.46,Luteinizing Hormone
+Control,5.02,Luteinizing Hormone
+Control,2.88,Luteinizing Hormone
+Control,2.9,Luteinizing Hormone
+Control,2.95,Luteinizing Hormone
+Control,3.7,Luteinizing Hormone
+Control,5.93,Luteinizing Hormone
+Control,8.01,Luteinizing Hormone
+Control,4.14,Luteinizing Hormone
+Control,2.88,Luteinizing Hormone
+Control,9.86,Luteinizing Hormone
+Control,4.67,Luteinizing Hormone
+Control,1.19,Luteinizing Hormone
+Control,3.56,Luteinizing Hormone
+Control,6.75,Luteinizing Hormone
+Control,11.4,Luteinizing Hormone
+Control,2.31,Luteinizing Hormone
+Control,4.4,Luteinizing Hormone
+Control,4.6,Luteinizing Hormone
+Control,7.39,Luteinizing Hormone
+Control,4.47,Luteinizing Hormone
+Control,7.08,Luteinizing Hormone
+Control,5.88,Luteinizing Hormone
+Control,5.14,Luteinizing Hormone
+Control,3.02,Luteinizing Hormone
+Control,4.32,Luteinizing Hormone
+Control,5.74,Luteinizing Hormone
+Control,4.57,Luteinizing Hormone
+Control,1.59,Luteinizing Hormone
+Control,2.2,Luteinizing Hormone
+Control,8.61,Luteinizing Hormone
+Control,5.82,Luteinizing Hormone
+Control,12.6,Luteinizing Hormone
+Control,3.74,Luteinizing Hormone
+Control,10.4,Luteinizing Hormone
+Control,7.52,Luteinizing Hormone
+Control,5.15,Luteinizing Hormone
+Control,2.94,Luteinizing Hormone
+Control,3.57,Luteinizing Hormone
+Control,3.47,Luteinizing Hormone
+Control,4.35,Luteinizing Hormone
+Control,7.13,Luteinizing Hormone
+Control,7.0,Luteinizing Hormone
+Control,6.96,Luteinizing Hormone
+Control,3.84,Luteinizing Hormone
+Control,4.89,Luteinizing Hormone
+Control,4.32,Luteinizing Hormone
+Control,2.37,Luteinizing Hormone
+Control,5.28,Luteinizing Hormone
+Control,5.4,Luteinizing Hormone
+Control,3.65,Luteinizing Hormone
+Control,2.64,Luteinizing Hormone
+Control,5.32,Luteinizing Hormone
+Control,5.51,Luteinizing Hormone
+Control,5.34,Luteinizing Hormone
+Control,4.97,Luteinizing Hormone
+Control,2.39,Luteinizing Hormone
+Control,3.5,Luteinizing Hormone
+Control,4.75,Luteinizing Hormone
+Control,3.21,Luteinizing Hormone
+Control,3.88,Luteinizing Hormone
+Control,2.78,Luteinizing Hormone
+Control,5.09,Luteinizing Hormone
+Control,1.77,Luteinizing Hormone
+Control,3.64,Luteinizing Hormone
+Control,4.93,Luteinizing Hormone
+Control,2.14,Luteinizing Hormone
+Control,5.67,Luteinizing Hormone
+Control,3.84,Luteinizing Hormone
+Control,3.49,Luteinizing Hormone
+Control,3.42,Luteinizing Hormone
+Control,3.08,Luteinizing Hormone
+Control,3.79,Luteinizing Hormone
+Control,2.13,Luteinizing Hormone
+Control,4.71,Luteinizing Hormone
+Control,5.29,Luteinizing Hormone
+Control,3.92,Luteinizing Hormone
+Control,3.48,Luteinizing Hormone
+Control,5.01,Luteinizing Hormone
+Control,6.87,Luteinizing Hormone
+Control,4.65,Luteinizing Hormone
+Control,6.9,Luteinizing Hormone
+Control,7.2,Luteinizing Hormone
+Control,9.11,Luteinizing Hormone
+Control,7.2,Luteinizing Hormone
+Control,3.84,Luteinizing Hormone
+Control,6.03,Luteinizing Hormone
+Control,3.28,Luteinizing Hormone
+Control,4.14,Luteinizing Hormone
+Control,4.71,Luteinizing Hormone
+Control,2.95,Luteinizing Hormone
+Control,7.42,Luteinizing Hormone
+Control,4.64,Luteinizing Hormone
+Control,4.61,Luteinizing Hormone
+Control,9.68,Luteinizing Hormone
+Control,4.69,Luteinizing Hormone
+Control,4.45,Luteinizing Hormone
+Control,2.3,Luteinizing Hormone
+Control,6.36,Luteinizing Hormone
+Control,4.14,Luteinizing Hormone
+Control,4.49,Luteinizing Hormone
+Control,5.26,Luteinizing Hormone
+Control,4.07,Luteinizing Hormone
+Control,4.44,Luteinizing Hormone
+Control,4.57,Luteinizing Hormone
+Control,3.53,Luteinizing Hormone
+Control,3.04,Luteinizing Hormone
+Control,5.37,Luteinizing Hormone
+Control,2.05,Luteinizing Hormone
+Control,8.61,Luteinizing Hormone
+Control,4.04,Luteinizing Hormone
+Control,3.79,Luteinizing Hormone
+Control,4.81,Luteinizing Hormone
+Control,4.92,Luteinizing Hormone
+Control,5.87,Luteinizing Hormone
+Control,4.61,Luteinizing Hormone
+Control,4.38,Luteinizing Hormone
+Control,2.53,Luteinizing Hormone
+Control,3.44,Luteinizing Hormone
+Control,5.29,Luteinizing Hormone
+Control,2.57,Luteinizing Hormone
+Control,13.98,Luteinizing Hormone
+Control,8.21,Luteinizing Hormone
+Control,2.2,Luteinizing Hormone
+Control,3.34,Luteinizing Hormone
+Control,4.29,Luteinizing Hormone
+Control,4.32,Luteinizing Hormone
+Control,4.74,Luteinizing Hormone
+Control,8.38,Luteinizing Hormone
+Control,5.85,Luteinizing Hormone
+Control,2.0,Luteinizing Hormone
+Control,5.14,Luteinizing Hormone
+Control,1.33,Luteinizing Hormone
+Control,5.82,Luteinizing Hormone
+Control,1.77,Luteinizing Hormone
+Control,2.79,Luteinizing Hormone
+Control,3.14,Luteinizing Hormone
+Control,6.49,Luteinizing Hormone
+Control,5.81,Luteinizing Hormone
+Control,1.65,Luteinizing Hormone
+Control,7.82,Luteinizing Hormone
+Control,2.3,Luteinizing Hormone
+Control,2.45,Luteinizing Hormone
+Control,5.8,Luteinizing Hormone
+Control,3.88,Luteinizing Hormone
+Control,6.08,Luteinizing Hormone
+Control,6.27,Luteinizing Hormone
+Control,2.91,Luteinizing Hormone
+Control,7.41,Luteinizing Hormone
+Control,3.87,Luteinizing Hormone
+Control,7.99,Luteinizing Hormone
+Control,3.94,Luteinizing Hormone
+Control,4.89,Luteinizing Hormone
+Control,3.72,Luteinizing Hormone
+Control,3.33,Luteinizing Hormone
+Control,4.78,Luteinizing Hormone
+Control,3.34,Luteinizing Hormone
+Control,2.1,Luteinizing Hormone
+Control,5.48,Luteinizing Hormone
+Control,3.77,Luteinizing Hormone
+Control,7.48,Luteinizing Hormone
+Control,3.26,Luteinizing Hormone
+Control,3.76,Luteinizing Hormone
+Control,9.43,Luteinizing Hormone
+Control,5.42,Luteinizing Hormone
+Control,2.83,Luteinizing Hormone
+Control,4.36,Luteinizing Hormone
+Control,2.46,Luteinizing Hormone
+Control,2.5,Luteinizing Hormone
+Control,5.16,Luteinizing Hormone
+Control,4.72,Luteinizing Hormone
+Control,3.43,Luteinizing Hormone
+Control,5.55,Luteinizing Hormone
+Control,3.15,Luteinizing Hormone
+Control,5.77,Luteinizing Hormone
+Control,4.25,Luteinizing Hormone
+Control,5.12,Luteinizing Hormone
+Control,1.67,Luteinizing Hormone
+Control,2.53,Luteinizing Hormone
+Control,4.27,Luteinizing Hormone
+Control,3.25,Luteinizing Hormone
+Control,5.51,Luteinizing Hormone
+Control,7.28,Luteinizing Hormone
+Control,2.85,Luteinizing Hormone
+Control,11.8,Luteinizing Hormone
+Control,3.67,Luteinizing Hormone
+Control,2.97,Luteinizing Hormone
+Control,6.04,Luteinizing Hormone
+Control,4.3,Luteinizing Hormone
+Control,3.7,Luteinizing Hormone
+Control,9.43,Luteinizing Hormone
+Control,6.8,Luteinizing Hormone
+Control,4.52,Luteinizing Hormone
+Control,5.05,Luteinizing Hormone
+Control,3.98,Luteinizing Hormone
+Control,2.41,Luteinizing Hormone
+Control,2.74,Luteinizing Hormone
+Control,6.75,Luteinizing Hormone
+Control,2.79,Luteinizing Hormone
+Control,2.39,Luteinizing Hormone
+Control,4.18,Luteinizing Hormone
+Control,4.29,Luteinizing Hormone
+Control,2.41,Luteinizing Hormone
+Control,7.6,Luteinizing Hormone
+Control,2.64,Luteinizing Hormone
+Control,6.24,Luteinizing Hormone
+Control,5.97,Luteinizing Hormone
+Control,7.41,Luteinizing Hormone
+Control,3.41,Luteinizing Hormone
+Control,4.68,Luteinizing Hormone
+Control,4.34,Luteinizing Hormone
+Control,4.24,Luteinizing Hormone
+Control,3.6,Luteinizing Hormone
+Control,2.89,Luteinizing Hormone
+Control,3.39,Luteinizing Hormone
+Control,4.2,Luteinizing Hormone
+Control,3.17,Luteinizing Hormone
+Control,6.68,Luteinizing Hormone
+Control,2.99,Luteinizing Hormone
+Control,1.95,Luteinizing Hormone
+Control,5.44,Luteinizing Hormone
+Control,3.09,Luteinizing Hormone
+Control,4.52,Luteinizing Hormone
+Control,7.06,Luteinizing Hormone
+Control,6.71,Luteinizing Hormone
+Control,3.24,Luteinizing Hormone
+Control,1.54,Luteinizing Hormone
+Control,4.8,Luteinizing Hormone
+Control,3.6,Luteinizing Hormone
+Control,2.7,Luteinizing Hormone
+Control,4.35,Luteinizing Hormone
+Control,4.8,Luteinizing Hormone
+Control,1.79,Luteinizing Hormone
+Control,10.5,Luteinizing Hormone
+Control,5.21,Luteinizing Hormone
+Control,5.55,Luteinizing Hormone
+Control,7.08,Luteinizing Hormone
+Control,0.19,Luteinizing Hormone
+Control,3.58,Luteinizing Hormone
+Control,4.68,Luteinizing Hormone
+Control,6.85,Luteinizing Hormone
+Control,2.52,Luteinizing Hormone
+Control,2.69,Luteinizing Hormone
+Control,10.7,Luteinizing Hormone
+Control,2.4,Luteinizing Hormone
+Control,4.74,Luteinizing Hormone
+Control,6.39,Luteinizing Hormone
+Control,5.1,Luteinizing Hormone
+Control,4.33,Luteinizing Hormone
+Control,3.27,Luteinizing Hormone
+Control,3.72,Luteinizing Hormone
+Control,2.54,Luteinizing Hormone
+Control,3.01,Luteinizing Hormone
+Control,3.83,Luteinizing Hormone
+Control,12.5,Luteinizing Hormone
+Control,3.19,Luteinizing Hormone
+Control,4.01,Luteinizing Hormone
+Control,2.65,Luteinizing Hormone
+Control,4.79,Luteinizing Hormone
+Control,4.66,Luteinizing Hormone
+Control,2.5,Luteinizing Hormone
+Control,5.24,Luteinizing Hormone
+Control,1.56,Luteinizing Hormone
+Control,2.42,Luteinizing Hormone
+Control,8.58,Luteinizing Hormone
+Control,5.93,Luteinizing Hormone
+Control,3.23,Luteinizing Hormone
+Control,3.17,Luteinizing Hormone
+Control,1.51,Luteinizing Hormone
+Control,71.05,Luteinizing Hormone
+Control,3.24,Luteinizing Hormone
+Control,3.91,Luteinizing Hormone
+Control,3.16,Luteinizing Hormone
+Control,2.66,Luteinizing Hormone
+Control,9.45,Luteinizing Hormone
+Control,7.61,Luteinizing Hormone
+Control,2.48,Luteinizing Hormone
+Control,2.3,Luteinizing Hormone
+Control,3.47,Luteinizing Hormone
+Control,4.88,Luteinizing Hormone
+Control,4.06,Luteinizing Hormone
+Control,3.01,Luteinizing Hormone
+Control,8.29,Luteinizing Hormone
+Control,4.53,Luteinizing Hormone
+Control,3.79,Luteinizing Hormone
+Control,3.63,Luteinizing Hormone
+Control,1.92,Luteinizing Hormone
+Control,2.5,Luteinizing Hormone
+Control,2.07,Luteinizing Hormone
+Control,7.09,Luteinizing Hormone
+Control,3.2,Luteinizing Hormone
+Control,10.4,Luteinizing Hormone
+Control,7.93,Luteinizing Hormone
+Control,4.96,Luteinizing Hormone
+Control,4.96,Luteinizing Hormone
+Control,8.65,Luteinizing Hormone
+Control,3.49,Luteinizing Hormone
+Control,5.6,Luteinizing Hormone
+Control,2.49,Luteinizing Hormone
+Control,3.74,Luteinizing Hormone
+Control,5.76,Luteinizing Hormone
+Control,5.7,Luteinizing Hormone
+Control,6.82,Luteinizing Hormone
+Control,4.69,Luteinizing Hormone
+Control,6.42,Luteinizing Hormone
+Control,4.51,Luteinizing Hormone
+NOA,16.2,Luteinizing Hormone
+NOA,11.4,Luteinizing Hormone
+NOA,11.8,Luteinizing Hormone
+NOA,2.71,Luteinizing Hormone
+NOA,18.72,Luteinizing Hormone
+NOA,16.3,Luteinizing Hormone
+NOA,13.7,Luteinizing Hormone
+NOA,0.46,Luteinizing Hormone
+NOA,30.6,Luteinizing Hormone
+NOA,8.42,Luteinizing Hormone
+NOA,24.4,Luteinizing Hormone
+NOA,21.7,Luteinizing Hormone
+NOA,20.9,Luteinizing Hormone
+NOA,18.1,Luteinizing Hormone
+NOA,14.94,Luteinizing Hormone
+NOA,6.17,Luteinizing Hormone
+NOA,8.37,Luteinizing Hormone
+NOA,13.8,Luteinizing Hormone
+NOA,5.15,Luteinizing Hormone
+NOA,33.2,Luteinizing Hormone
+NOA,12.6,Luteinizing Hormone
+NOA,3.35,Luteinizing Hormone
+NOA,6.05,Luteinizing Hormone
+NOA,0.3,Luteinizing Hormone
+NOA,15.9,Luteinizing Hormone
+NOA,5.78,Luteinizing Hormone
+NOA,8.63,Luteinizing Hormone
+NOA,25.9,Luteinizing Hormone
+NOA,31.7,Luteinizing Hormone
+NOA,10.53,Luteinizing Hormone
+NOA,10.96,Luteinizing Hormone
+NOA,12.3,Luteinizing Hormone
+NOA,5.98,Luteinizing Hormone
+NOA,18.7,Luteinizing Hormone
+NOA,13.73,Luteinizing Hormone
+NOA,17.9,Luteinizing Hormone
+NOA,20.5,Luteinizing Hormone
+NOA,8.35,Luteinizing Hormone
+NOA,5.36,Luteinizing Hormone
+NOA,14.2,Luteinizing Hormone
+NOA,4.71,Luteinizing Hormone
+NOA,5.93,Luteinizing Hormone
+NOA,11.83,Luteinizing Hormone
+NOA,6.92,Luteinizing Hormone
+NOA,7.32,Luteinizing Hormone
+NOA,6.52,Luteinizing Hormone
+NOA,18.68,Luteinizing Hormone
+NOA,13.0,Luteinizing Hormone
+NOA,11.8,Luteinizing Hormone
+NOA,5.58,Luteinizing Hormone
+NOA,3.66,Luteinizing Hormone
+NOA,6.54,Luteinizing Hormone
+NOA,9.0,Luteinizing Hormone
+NOA,19.6,Luteinizing Hormone
+NOA,10.4,Luteinizing Hormone
+NOA,19.39,Luteinizing Hormone
+NOA,5.56,Luteinizing Hormone
+NOA,15.2,Luteinizing Hormone
+NOA,13.0,Luteinizing Hormone
+NOA,6.5,Luteinizing Hormone
+NOA,24.8,Luteinizing Hormone
+NOA,26.5,Luteinizing Hormone
+NOA,24.3,Luteinizing Hormone
+NOA,12.7,Luteinizing Hormone
+NOA,8.82,Luteinizing Hormone
+NOA,24.5,Luteinizing Hormone
+NOA,6.08,Luteinizing Hormone
+NOA,7.6,Luteinizing Hormone
+NOA,13.7,Luteinizing Hormone
+NOA,17.2,Luteinizing Hormone
+NOA,39.48,Luteinizing Hormone
+NOA,10.1,Luteinizing Hormone
+NOA,25.8,Luteinizing Hormone
+NOA,12.0,Luteinizing Hormone
+NOA,4.95,Luteinizing Hormone
+NOA,9.63,Luteinizing Hormone
+NOA,9.73,Luteinizing Hormone
+NOA,9.58,Luteinizing Hormone
+NOA,7.49,Luteinizing Hormone
+NOA,19.5,Luteinizing Hormone
+NOA,8.32,Luteinizing Hormone
+NOA,10.34,Luteinizing Hormone
+NOA,7.37,Luteinizing Hormone
+NOA,9.21,Luteinizing Hormone
+NOA,10.01,Luteinizing Hormone
+NOA,2.47,Luteinizing Hormone
+NOA,14.9,Luteinizing Hormone
+NOA,13.9,Luteinizing Hormone
+NOA,9.69,Luteinizing Hormone
+NOA,22.54,Luteinizing Hormone
+NOA,4.66,Luteinizing Hormone
+NOA,7.31,Luteinizing Hormone
+NOA,32.7,Luteinizing Hormone
+NOA,17.46,Luteinizing Hormone
+NOA,15.14,Luteinizing Hormone
+NOA,12.4,Luteinizing Hormone
+NOA,7.38,Luteinizing Hormone
+NOA,11.8,Luteinizing Hormone
+NOA,11.4,Luteinizing Hormone
+NOA,8.72,Luteinizing Hormone
+NOA,0.5,Luteinizing Hormone
+NOA,12.2,Luteinizing Hormone
+NOA,11.63,Luteinizing Hormone
+NOA,3.32,Luteinizing Hormone
+NOA,22.1,Luteinizing Hormone
+NOA,6.91,Luteinizing Hormone
+NOA,4.02,Luteinizing Hormone
+NOA,0.71,Luteinizing Hormone
+NOA,15.9,Luteinizing Hormone
+NOA,6.44,Luteinizing Hormone
+NOA,4.55,Luteinizing Hormone
+NOA,6.54,Luteinizing Hormone
+NOA,12.2,Luteinizing Hormone
+NOA,7.6,Luteinizing Hormone
+NOA,35.0,Luteinizing Hormone
+NOA,13.46,Luteinizing Hormone
+NOA,6.95,Luteinizing Hormone
+NOA,24.6,Luteinizing Hormone
+NOA,25.64,Luteinizing Hormone
+NOA,9.49,Luteinizing Hormone
+NOA,0.32,Luteinizing Hormone
+NOA,32.6,Luteinizing Hormone
+NOA,9.06,Luteinizing Hormone
+NOA,16.26,Luteinizing Hormone
+NOA,7.78,Luteinizing Hormone
+NOA,10.6,Luteinizing Hormone
+NOA,14.0,Luteinizing Hormone
+NOA,1.0,Luteinizing Hormone
+NOA,37.6,Luteinizing Hormone
+NOA,9.77,Luteinizing Hormone
+NOA,20.89,Luteinizing Hormone
+NOA,3.14,Luteinizing Hormone
+NOA,6.19,Luteinizing Hormone
+NOA,20.0,Luteinizing Hormone
+NOA,4.06,Luteinizing Hormone
+NOA,3.69,Luteinizing Hormone
+NOA,0.69,Luteinizing Hormone
+NOA,8.56,Luteinizing Hormone
+NOA,16.6,Luteinizing Hormone
+NOA,17.0,Luteinizing Hormone
+NOA,6.71,Luteinizing Hormone
+NOA,3.64,Luteinizing Hormone
+OA,2.79,Luteinizing Hormone
+OA,4.31,Luteinizing Hormone
+OA,3.15,Luteinizing Hormone
+OA,5.26,Luteinizing Hormone
+OA,5.85,Luteinizing Hormone
+OA,5.72,Luteinizing Hormone
+OA,4.58,Luteinizing Hormone
+OA,7.93,Luteinizing Hormone
+OA,6.1,Luteinizing Hormone
+OA,2.79,Luteinizing Hormone
+OA,6.89,Luteinizing Hormone
+OA,2.08,Luteinizing Hormone
+OA,4.14,Luteinizing Hormone
+OA,3.84,Luteinizing Hormone
+OA,5.39,Luteinizing Hormone
+OA,4.49,Luteinizing Hormone
+OA,3.87,Luteinizing Hormone
+OA,3.57,Luteinizing Hormone
+OA,8.27,Luteinizing Hormone
+OA,3.61,Luteinizing Hormone
+OA,5.4,Luteinizing Hormone
+OA,3.38,Luteinizing Hormone
+OA,1.87,Luteinizing Hormone
+OA,4.23,Luteinizing Hormone
+OA,3.23,Luteinizing Hormone
+OA,5.15,Luteinizing Hormone
+OA,2.94,Luteinizing Hormone
+OA,1.95,Luteinizing Hormone
+OA,1.83,Luteinizing Hormone
+OA,6.16,Luteinizing Hormone
+OA,3.68,Luteinizing Hormone
+OA,3.7,Luteinizing Hormone
+OA,8.7,Luteinizing Hormone
+OA,6.7,Luteinizing Hormone
+OA,4.21,Luteinizing Hormone
+OA,2.94,Luteinizing Hormone
+OA,4.53,Luteinizing Hormone
+OA,4.97,Luteinizing Hormone
+OA,4.95,Luteinizing Hormone
+OA,1.45,Luteinizing Hormone
+OA,7.97,Luteinizing Hormone
+OA,4.86,Luteinizing Hormone
+OA,3.55,Luteinizing Hormone
+OA,5.02,Luteinizing Hormone
+OA,4.1,Luteinizing Hormone
+OA,5.57,Luteinizing Hormone
+OA,3.5,Luteinizing Hormone
+OA,6.17,Luteinizing Hormone
+OA,4.35,Luteinizing Hormone
+OA,12.3,Luteinizing Hormone
+OA,6.44,Luteinizing Hormone
+OA,7.8,Luteinizing Hormone
+OA,3.1,Luteinizing Hormone
+OA,2.31,Luteinizing Hormone
+OA,7.96,Luteinizing Hormone
+OA,4.71,Luteinizing Hormone
+OA,2.9,Luteinizing Hormone
+OA,2.8,Luteinizing Hormone
+OA,4.13,Luteinizing Hormone
+OA,3.24,Luteinizing Hormone
+OA,4.52,Luteinizing Hormone
+OA,4.72,Luteinizing Hormone
+OA,2.55,Luteinizing Hormone
+OA,4.68,Luteinizing Hormone
+OA,5.3,Luteinizing Hormone
+OA,3.64,Luteinizing Hormone
+OA,8.33,Luteinizing Hormone
+OA,6.23,Luteinizing Hormone
+OA,4.39,Luteinizing Hormone
+OA,1.93,Luteinizing Hormone
+OA,3.36,Luteinizing Hormone
+OA,5.09,Luteinizing Hormone
+OA,4.7,Luteinizing Hormone
+OA,7.01,Luteinizing Hormone
+OA,3.83,Luteinizing Hormone
+OA,5.78,Luteinizing Hormone
+OA,5.02,Luteinizing Hormone
+OA,3.61,Luteinizing Hormone
+OA,4.46,Luteinizing Hormone
+OA,2.42,Luteinizing Hormone
+OA,4.43,Luteinizing Hormone
+OA,10.2,Luteinizing Hormone
+OA,1.74,Luteinizing Hormone
+OA,2.03,Luteinizing Hormone
+OA,5.2,Luteinizing Hormone
+OA,6.48,Luteinizing Hormone
+OA,3.1,Luteinizing Hormone
+OA,2.89,Luteinizing Hormone
+OA,4.92,Luteinizing Hormone
+OA,3.26,Luteinizing Hormone
+OA,2.46,Luteinizing Hormone
+OA,9.38,Luteinizing Hormone
+OA,5.29,Luteinizing Hormone
+OA,4.91,Luteinizing Hormone
+OA,3.21,Luteinizing Hormone
+OA,1.89,Luteinizing Hormone
+OA,3.76,Luteinizing Hormone
+OA,3.42,Luteinizing Hormone
+OA,3.51,Luteinizing Hormone
+OA,4.29,Luteinizing Hormone
+OA,7.07,Luteinizing Hormone
+OA,4.06,Luteinizing Hormone
+OA,2.78,Luteinizing Hormone
+OA,2.71,Luteinizing Hormone
+OA,3.87,Luteinizing Hormone
+OA,5.04,Luteinizing Hormone
+OA,2.27,Luteinizing Hormone
+OA,2.97,Luteinizing Hormone
+OA,4.87,Luteinizing Hormone
+OA,3.0,Luteinizing Hormone
+OA,5.08,Luteinizing Hormone
+OA,3.52,Luteinizing Hormone
+OA,3.09,Luteinizing Hormone
+OA,3.43,Luteinizing Hormone
+OA,7.29,Luteinizing Hormone
+OA,2.33,Luteinizing Hormone
+OA,7.34,Luteinizing Hormone
+OA,6.98,Luteinizing Hormone
+OA,2.98,Luteinizing Hormone
+OA,3.59,Luteinizing Hormone
+OA,4.58,Luteinizing Hormone
+OA,5.7,Luteinizing Hormone
+OA,4.04,Luteinizing Hormone
+OA,4.7,Luteinizing Hormone
+OA,2.63,Luteinizing Hormone
+OA,5.1,Luteinizing Hormone
+OA,9.14,Luteinizing Hormone
+OA,1.11,Luteinizing Hormone
+OA,6.68,Luteinizing Hormone
+OA,1.68,Luteinizing Hormone
+OA,4.43,Luteinizing Hormone
+OA,4.74,Luteinizing Hormone
+OA,5.13,Luteinizing Hormone
+OA,2.5,Luteinizing Hormone
+OA,3.76,Luteinizing Hormone
+OA,3.63,Luteinizing Hormone
+OA,4.41,Luteinizing Hormone
+OA,2.3,Luteinizing Hormone
+OA,5.93,Luteinizing Hormone
+OA,7.32,Luteinizing Hormone
+OA,6.86,Luteinizing Hormone
+OA,1.9,Luteinizing Hormone
+OA,5.52,Luteinizing Hormone
+OA,11.7,Luteinizing Hormone
+OA,2.67,Luteinizing Hormone
+OA,5.09,Luteinizing Hormone
+OA,6.35,Luteinizing Hormone
+OA,3.74,Luteinizing Hormone
+OA,2.73,Luteinizing Hormone
+OA,4.58,Luteinizing Hormone
+OA,2.76,Luteinizing Hormone
+OA,3.98,Luteinizing Hormone
+OA,6.61,Luteinizing Hormone
+OA,7.52,Luteinizing Hormone
+OA,4.9,Luteinizing Hormone
+OA,8.07,Luteinizing Hormone
+OA,3.37,Luteinizing Hormone
+OA,3.41,Luteinizing Hormone
+OA,2.31,Luteinizing Hormone
+OA,5.57,Luteinizing Hormone
+OA,5.31,Luteinizing Hormone
+OA,3.19,Luteinizing Hormone
+OA,3.58,Luteinizing Hormone
+OA,4.2,Luteinizing Hormone
+OA,7.07,Luteinizing Hormone
+OA,3.32,Luteinizing Hormone
+OA,1.91,Luteinizing Hormone
+OA,7.85,Luteinizing Hormone
+OA,7.13,Luteinizing Hormone
+OA,4.0,Luteinizing Hormone
+OA,4.15,Luteinizing Hormone
+OA,2.86,Luteinizing Hormone
+OA,3.09,Luteinizing Hormone
+OA,2.33,Luteinizing Hormone
+OA,3.58,Luteinizing Hormone
+OA,4.44,Luteinizing Hormone
+OA,6.22,Luteinizing Hormone
+OA,2.65,Luteinizing Hormone
+OA,3.61,Luteinizing Hormone
+OA,3.22,Luteinizing Hormone
+OA,2.95,Luteinizing Hormone
+OA,5.43,Luteinizing Hormone
+OA,4.1,Luteinizing Hormone
+OA,9.32,Luteinizing Hormone
+OA,4.64,Luteinizing Hormone
+OA,2.21,Luteinizing Hormone
+OA,6.64,Luteinizing Hormone
+OA,7.23,Luteinizing Hormone
+OA,1.44,Luteinizing Hormone
+OA,7.93,Luteinizing Hormone
+OA,3.27,Luteinizing Hormone
+OA,5.33,Luteinizing Hormone
+OA,5.27,Luteinizing Hormone
+OA,6.42,Luteinizing Hormone
+OA,1.02,Luteinizing Hormone
+OA,6.04,Luteinizing Hormone
+OA,7.7,Luteinizing Hormone
+OA,1.99,Luteinizing Hormone
+OA,3.43,Luteinizing Hormone
+OA,3.37,Luteinizing Hormone
+OA,3.7,Luteinizing Hormone
+OA,8.64,Luteinizing Hormone
+OA,4.2,Luteinizing Hormone
+OA,10.3,Luteinizing Hormone
+OA,2.82,Luteinizing Hormone
+OA,3.47,Luteinizing Hormone
+OA,5.82,Luteinizing Hormone
+OA,5.2,Luteinizing Hormone
+OA,3.35,Luteinizing Hormone
+OA,2.85,Luteinizing Hormone
+OA,3.87,Luteinizing Hormone
+OA,6.46,Luteinizing Hormone
+OA,2.62,Luteinizing Hormone
+OA,5.32,Luteinizing Hormone
+OA,3.18,Luteinizing Hormone
+OA,4.69,Luteinizing Hormone
+OA,3.3,Luteinizing Hormone
+OA,4.6,Luteinizing Hormone
+OA,3.44,Luteinizing Hormone
+OA,3.03,Luteinizing Hormone
+OA,11.4,Luteinizing Hormone
+OA,6.44,Luteinizing Hormone
+OA,7.32,Luteinizing Hormone
+OA,1.11,Luteinizing Hormone
+OA,5.87,Luteinizing Hormone
+OA,7.3,Luteinizing Hormone
+OA,2.26,Luteinizing Hormone
+OA,5.27,Luteinizing Hormone
+OA,5.33,Luteinizing Hormone
+OA,9.18,Luteinizing Hormone
+OA,5.7,Luteinizing Hormone
+OA,3.89,Luteinizing Hormone
+OA,6.25,Luteinizing Hormone
+OA,5.73,Luteinizing Hormone
+OA,4.24,Luteinizing Hormone
+OA,6.57,Luteinizing Hormone
+OA,14.5,Luteinizing Hormone
+OA,6.41,Luteinizing Hormone
+OA,5.67,Luteinizing Hormone
+OA,3.4,Luteinizing Hormone
+OA,2.11,Luteinizing Hormone
+OA,5.66,Luteinizing Hormone
+OA,3.68,Luteinizing Hormone
+OA,3.77,Luteinizing Hormone
+OA,4.06,Luteinizing Hormone
+OA,3.43,Luteinizing Hormone
+OA,3.44,Luteinizing Hormone
+OA,5.55,Luteinizing Hormone
+OA,4.05,Luteinizing Hormone
+OA,9.0,Luteinizing Hormone
+OA,8.56,Luteinizing Hormone
+OA,3.08,Luteinizing Hormone
+OA,3.67,Luteinizing Hormone
+OA,3.48,Luteinizing Hormone
+OA,6.38,Luteinizing Hormone
+OA,4.11,Luteinizing Hormone
+OA,4.09,Luteinizing Hormone
+OA,1.12,Luteinizing Hormone
+OA,4.72,Luteinizing Hormone
+OA,3.79,Luteinizing Hormone
+OA,5.72,Luteinizing Hormone
+OA,4.76,Luteinizing Hormone
+OA,8.46,Luteinizing Hormone
+OA,7.2,Luteinizing Hormone
+OA,8.63,Luteinizing Hormone
+OA,6.88,Luteinizing Hormone
+OA,1.72,Luteinizing Hormone
+OA,3.74,Luteinizing Hormone
+OA,6.34,Luteinizing Hormone
+OA,4.03,Luteinizing Hormone
+OA,6.23,Luteinizing Hormone
+OA,2.86,Luteinizing Hormone
+OA,3.45,Luteinizing Hormone
+OA,1.96,Luteinizing Hormone
+OA,4.04,Luteinizing Hormone
+OA,5.97,Luteinizing Hormone
+OA,10.1,Luteinizing Hormone
+OA,4.98,Luteinizing Hormone
+OA,3.94,Luteinizing Hormone
+OA,7.17,Luteinizing Hormone
+OA,4.58,Luteinizing Hormone
+OA,4.62,Luteinizing Hormone
+OA,2.44,Luteinizing Hormone
+OA,1.82,Luteinizing Hormone
+OA,3.72,Luteinizing Hormone
+OA,7.0,Luteinizing Hormone
+OA,5.06,Luteinizing Hormone
+OA,7.94,Luteinizing Hormone
+OA,6.54,Luteinizing Hormone
+OA,4.62,Luteinizing Hormone
+OA,3.07,Luteinizing Hormone
+OA,3.5,Luteinizing Hormone
+OA,3.02,Luteinizing Hormone
+OA,5.66,Luteinizing Hormone
+OA,4.59,Luteinizing Hormone
+OA,3.72,Luteinizing Hormone
+OA,10.8,Luteinizing Hormone
+OA,1.84,Luteinizing Hormone
+OA,5.02,Luteinizing Hormone
+OA,3.63,Luteinizing Hormone
+OA,6.94,Luteinizing Hormone
+OA,2.86,Luteinizing Hormone
+OA,3.09,Luteinizing Hormone
+OA,8.18,Luteinizing Hormone
+OA,6.39,Luteinizing Hormone
+OA,2.94,Luteinizing Hormone
+OA,3.5,Luteinizing Hormone
+OA,3.61,Luteinizing Hormone
+OA,7.55,Luteinizing Hormone
+OA,2.12,Luteinizing Hormone
+OA,3.54,Luteinizing Hormone
+OA,4.43,Luteinizing Hormone
+OA,5.02,Luteinizing Hormone
+OA,3.45,Luteinizing Hormone
+OA,3.48,Luteinizing Hormone
+OA,5.88,Luteinizing Hormone
+OA,3.24,Luteinizing Hormone
+OA,8.41,Luteinizing Hormone
+OA,2.79,Luteinizing Hormone
+OA,4.2,Luteinizing Hormone
+OA,5.49,Luteinizing Hormone
+OA,2.93,Luteinizing Hormone
+OA,3.2,Luteinizing Hormone
+OA,7.3,Luteinizing Hormone
+OA,7.26,Luteinizing Hormone
+OA,2.04,Luteinizing Hormone
+OA,5.5,Luteinizing Hormone
+OA,3.63,Luteinizing Hormone
+OA,2.4,Luteinizing Hormone
+OA,8.13,Luteinizing Hormone
+OA,8.51,Luteinizing Hormone
+OA,4.8,Luteinizing Hormone
+OA,4.77,Luteinizing Hormone
+OA,6.23,Luteinizing Hormone
+OA,5.6,Luteinizing Hormone
+OA,2.15,Luteinizing Hormone
+OA,1.99,Luteinizing Hormone
+OA,3.48,Luteinizing Hormone
+OA,5.26,Luteinizing Hormone
+OA,4.78,Luteinizing Hormone
+OA,4.15,Luteinizing Hormone
+OA,2.2,Luteinizing Hormone
+OA,14.34,Luteinizing Hormone
+OA,4.13,Luteinizing Hormone
+OA,4.37,Luteinizing Hormone
+OA,2.79,Luteinizing Hormone
+OA,3.05,Luteinizing Hormone
+OA,4.59,Luteinizing Hormone
+OA,2.95,Luteinizing Hormone
+OA,2.37,Luteinizing Hormone
+OA,6.26,Luteinizing Hormone
+OA,3.92,Luteinizing Hormone
+OA,9.61,Luteinizing Hormone
+OA,9.19,Luteinizing Hormone
+OA,6.05,Luteinizing Hormone
+OA,10.1,Luteinizing Hormone
+OA,5.66,Luteinizing Hormone
+OA,5.59,Luteinizing Hormone
+OA,3.15,Luteinizing Hormone
+OA,3.15,Luteinizing Hormone
+OA,4.35,Luteinizing Hormone
+OA,4.36,Luteinizing Hormone
+OA,3.08,Luteinizing Hormone
+OA,3.82,Luteinizing Hormone
+OA,3.72,Luteinizing Hormone
+OA,4.69,Luteinizing Hormone
+OA,5.55,Luteinizing Hormone
+OA,2.82,Luteinizing Hormone
+OA,3.67,Luteinizing Hormone
+OA,2.19,Luteinizing Hormone
+OA,4.5,Luteinizing Hormone
+OA,3.48,Luteinizing Hormone
+OA,9.41,Luteinizing Hormone
+OA,5.34,Luteinizing Hormone
+OA,5.13,Luteinizing Hormone
+OA,5.32,Luteinizing Hormone
+OA,4.97,Luteinizing Hormone
+OA,3.54,Luteinizing Hormone
+OA,6.98,Luteinizing Hormone
+OA,4.75,Luteinizing Hormone
+OA,6.15,Luteinizing Hormone
+OA,3.97,Luteinizing Hormone
+OA,3.15,Luteinizing Hormone
+OA,1.93,Luteinizing Hormone
+OA,7.77,Luteinizing Hormone
+OA,5.2,Luteinizing Hormone
+OA,5.62,Luteinizing Hormone
+OA,6.52,Luteinizing Hormone
+OA,5.0,Luteinizing Hormone
+OA,5.55,Luteinizing Hormone
+OA,2.41,Luteinizing Hormone
+OA,5.02,Luteinizing Hormone
+OA,10.6,Luteinizing Hormone
+OA,3.97,Luteinizing Hormone
+OA,6.99,Luteinizing Hormone
+OA,4.05,Luteinizing Hormone
+OA,12.0,Luteinizing Hormone
+OA,5.42,Luteinizing Hormone
+Control,1.84,Thyroid-Stimulating Hormone
+Control,0.909,Thyroid-Stimulating Hormone
+Control,1.49,Thyroid-Stimulating Hormone
+Control,1.73,Thyroid-Stimulating Hormone
+Control,4.44,Thyroid-Stimulating Hormone
+Control,2.64,Thyroid-Stimulating Hormone
+Control,2.28,Thyroid-Stimulating Hormone
+Control,1.14,Thyroid-Stimulating Hormone
+Control,1.95,Thyroid-Stimulating Hormone
+Control,2.69,Thyroid-Stimulating Hormone
+Control,1.59,Thyroid-Stimulating Hormone
+Control,1.01,Thyroid-Stimulating Hormone
+Control,1.49,Thyroid-Stimulating Hormone
+Control,1.51,Thyroid-Stimulating Hormone
+Control,2.35,Thyroid-Stimulating Hormone
+Control,2.58,Thyroid-Stimulating Hormone
+Control,1.94,Thyroid-Stimulating Hormone
+Control,0.745,Thyroid-Stimulating Hormone
+Control,1.03,Thyroid-Stimulating Hormone
+Control,1.58,Thyroid-Stimulating Hormone
+Control,1.83,Thyroid-Stimulating Hormone
+Control,1.34,Thyroid-Stimulating Hormone
+Control,2.78,Thyroid-Stimulating Hormone
+Control,1.9,Thyroid-Stimulating Hormone
+Control,1.74,Thyroid-Stimulating Hormone
+Control,2.47,Thyroid-Stimulating Hormone
+Control,2.61,Thyroid-Stimulating Hormone
+Control,1.83,Thyroid-Stimulating Hormone
+Control,1.54,Thyroid-Stimulating Hormone
+Control,2.19,Thyroid-Stimulating Hormone
+Control,2.39,Thyroid-Stimulating Hormone
+Control,0.824,Thyroid-Stimulating Hormone
+Control,0.817,Thyroid-Stimulating Hormone
+Control,1.73,Thyroid-Stimulating Hormone
+Control,4.35,Thyroid-Stimulating Hormone
+Control,2.96,Thyroid-Stimulating Hormone
+Control,2.93,Thyroid-Stimulating Hormone
+Control,1.58,Thyroid-Stimulating Hormone
+Control,2.67,Thyroid-Stimulating Hormone
+Control,1.84,Thyroid-Stimulating Hormone
+Control,1.48,Thyroid-Stimulating Hormone
+Control,1.04,Thyroid-Stimulating Hormone
+Control,4.35,Thyroid-Stimulating Hormone
+Control,1.92,Thyroid-Stimulating Hormone
+Control,1.94,Thyroid-Stimulating Hormone
+Control,1.21,Thyroid-Stimulating Hormone
+Control,1.92,Thyroid-Stimulating Hormone
+Control,2.12,Thyroid-Stimulating Hormone
+Control,1.4,Thyroid-Stimulating Hormone
+Control,1.1,Thyroid-Stimulating Hormone
+Control,1.07,Thyroid-Stimulating Hormone
+Control,1.72,Thyroid-Stimulating Hormone
+Control,1.705,Thyroid-Stimulating Hormone
+Control,3.2,Thyroid-Stimulating Hormone
+Control,1.78,Thyroid-Stimulating Hormone
+Control,1.51,Thyroid-Stimulating Hormone
+Control,2.15,Thyroid-Stimulating Hormone
+Control,15.45,Thyroid-Stimulating Hormone
+Control,2.66,Thyroid-Stimulating Hormone
+Control,1.66,Thyroid-Stimulating Hormone
+Control,1.62,Thyroid-Stimulating Hormone
+Control,1.56,Thyroid-Stimulating Hormone
+Control,2.36,Thyroid-Stimulating Hormone
+Control,2.59,Thyroid-Stimulating Hormone
+Control,4.13,Thyroid-Stimulating Hormone
+Control,2.25,Thyroid-Stimulating Hormone
+Control,0.544,Thyroid-Stimulating Hormone
+Control,2.5,Thyroid-Stimulating Hormone
+Control,2.35,Thyroid-Stimulating Hormone
+Control,2.23,Thyroid-Stimulating Hormone
+Control,1.65,Thyroid-Stimulating Hormone
+Control,1.54,Thyroid-Stimulating Hormone
+Control,2.22,Thyroid-Stimulating Hormone
+Control,3.18,Thyroid-Stimulating Hormone
+Control,1.1,Thyroid-Stimulating Hormone
+Control,1.97,Thyroid-Stimulating Hormone
+Control,2.11,Thyroid-Stimulating Hormone
+Control,0.011,Thyroid-Stimulating Hormone
+Control,0.78,Thyroid-Stimulating Hormone
+Control,2.12,Thyroid-Stimulating Hormone
+Control,2.29,Thyroid-Stimulating Hormone
+Control,0.853,Thyroid-Stimulating Hormone
+Control,2.33,Thyroid-Stimulating Hormone
+Control,2.36,Thyroid-Stimulating Hormone
+Control,1.95,Thyroid-Stimulating Hormone
+Control,2.3,Thyroid-Stimulating Hormone
+Control,3.0,Thyroid-Stimulating Hormone
+Control,2.6,Thyroid-Stimulating Hormone
+Control,0.911,Thyroid-Stimulating Hormone
+Control,0.977,Thyroid-Stimulating Hormone
+Control,3.01,Thyroid-Stimulating Hormone
+Control,1.21,Thyroid-Stimulating Hormone
+Control,6.68,Thyroid-Stimulating Hormone
+Control,1.56,Thyroid-Stimulating Hormone
+Control,0.871,Thyroid-Stimulating Hormone
+Control,1.17,Thyroid-Stimulating Hormone
+Control,1.88,Thyroid-Stimulating Hormone
+Control,1.33,Thyroid-Stimulating Hormone
+Control,0.86,Thyroid-Stimulating Hormone
+Control,1.0,Thyroid-Stimulating Hormone
+Control,2.83,Thyroid-Stimulating Hormone
+Control,1.22,Thyroid-Stimulating Hormone
+Control,3.09,Thyroid-Stimulating Hormone
+Control,1.58,Thyroid-Stimulating Hormone
+Control,2.7,Thyroid-Stimulating Hormone
+Control,1.62,Thyroid-Stimulating Hormone
+Control,0.864,Thyroid-Stimulating Hormone
+Control,3.92,Thyroid-Stimulating Hormone
+Control,4.07,Thyroid-Stimulating Hormone
+Control,1.55,Thyroid-Stimulating Hormone
+Control,1.99,Thyroid-Stimulating Hormone
+Control,2.51,Thyroid-Stimulating Hormone
+Control,1.2,Thyroid-Stimulating Hormone
+Control,2.23,Thyroid-Stimulating Hormone
+Control,1.79,Thyroid-Stimulating Hormone
+Control,1.35,Thyroid-Stimulating Hormone
+Control,1.18,Thyroid-Stimulating Hormone
+Control,1.78,Thyroid-Stimulating Hormone
+Control,1.66,Thyroid-Stimulating Hormone
+Control,1.28,Thyroid-Stimulating Hormone
+Control,6.34,Thyroid-Stimulating Hormone
+Control,1.76,Thyroid-Stimulating Hormone
+Control,1.6,Thyroid-Stimulating Hormone
+Control,2.2,Thyroid-Stimulating Hormone
+Control,1.76,Thyroid-Stimulating Hormone
+Control,1.16,Thyroid-Stimulating Hormone
+Control,3.23,Thyroid-Stimulating Hormone
+Control,1.19,Thyroid-Stimulating Hormone
+Control,0.012,Thyroid-Stimulating Hormone
+Control,2.6,Thyroid-Stimulating Hormone
+Control,1.74,Thyroid-Stimulating Hormone
+Control,0.465,Thyroid-Stimulating Hormone
+Control,1.55,Thyroid-Stimulating Hormone
+Control,0.61,Thyroid-Stimulating Hormone
+Control,0.54,Thyroid-Stimulating Hormone
+Control,0.784,Thyroid-Stimulating Hormone
+Control,1.62,Thyroid-Stimulating Hormone
+Control,0.834,Thyroid-Stimulating Hormone
+Control,1.15,Thyroid-Stimulating Hormone
+Control,1.55,Thyroid-Stimulating Hormone
+Control,1.6,Thyroid-Stimulating Hormone
+Control,5.11,Thyroid-Stimulating Hormone
+Control,1.32,Thyroid-Stimulating Hormone
+Control,2.42,Thyroid-Stimulating Hormone
+Control,2.51,Thyroid-Stimulating Hormone
+Control,1.69,Thyroid-Stimulating Hormone
+Control,1.64,Thyroid-Stimulating Hormone
+Control,4.38,Thyroid-Stimulating Hormone
+Control,1.35,Thyroid-Stimulating Hormone
+Control,1.8,Thyroid-Stimulating Hormone
+Control,2.31,Thyroid-Stimulating Hormone
+Control,2.43,Thyroid-Stimulating Hormone
+Control,1.39,Thyroid-Stimulating Hormone
+Control,3.16,Thyroid-Stimulating Hormone
+Control,1.23,Thyroid-Stimulating Hormone
+Control,3.06,Thyroid-Stimulating Hormone
+Control,1.95,Thyroid-Stimulating Hormone
+Control,1.5,Thyroid-Stimulating Hormone
+Control,1.26,Thyroid-Stimulating Hormone
+Control,0.99,Thyroid-Stimulating Hormone
+Control,1.38,Thyroid-Stimulating Hormone
+Control,3.37,Thyroid-Stimulating Hormone
+Control,3.05,Thyroid-Stimulating Hormone
+Control,1.44,Thyroid-Stimulating Hormone
+Control,2.84,Thyroid-Stimulating Hormone
+Control,1.59,Thyroid-Stimulating Hormone
+Control,1.73,Thyroid-Stimulating Hormone
+Control,2.125,Thyroid-Stimulating Hormone
+Control,2.29,Thyroid-Stimulating Hormone
+Control,3.6,Thyroid-Stimulating Hormone
+Control,3.59,Thyroid-Stimulating Hormone
+Control,1.12,Thyroid-Stimulating Hormone
+Control,1.03,Thyroid-Stimulating Hormone
+Control,1.07,Thyroid-Stimulating Hormone
+Control,1.31,Thyroid-Stimulating Hormone
+Control,2.62,Thyroid-Stimulating Hormone
+Control,2.68,Thyroid-Stimulating Hormone
+Control,1.75,Thyroid-Stimulating Hormone
+Control,1.67,Thyroid-Stimulating Hormone
+Control,2.58,Thyroid-Stimulating Hormone
+Control,1.66,Thyroid-Stimulating Hormone
+Control,1.01,Thyroid-Stimulating Hormone
+Control,1.16,Thyroid-Stimulating Hormone
+Control,0.918,Thyroid-Stimulating Hormone
+Control,2.77,Thyroid-Stimulating Hormone
+Control,0.764,Thyroid-Stimulating Hormone
+Control,2.61,Thyroid-Stimulating Hormone
+Control,1.6,Thyroid-Stimulating Hormone
+Control,2.04,Thyroid-Stimulating Hormone
+Control,1.48,Thyroid-Stimulating Hormone
+Control,1.25,Thyroid-Stimulating Hormone
+Control,4.34,Thyroid-Stimulating Hormone
+Control,3.04,Thyroid-Stimulating Hormone
+Control,0.851,Thyroid-Stimulating Hormone
+Control,1.23,Thyroid-Stimulating Hormone
+Control,0.481,Thyroid-Stimulating Hormone
+Control,3.87,Thyroid-Stimulating Hormone
+Control,2.42,Thyroid-Stimulating Hormone
+Control,2.42,Thyroid-Stimulating Hormone
+Control,1.15,Thyroid-Stimulating Hormone
+Control,1.41,Thyroid-Stimulating Hormone
+Control,1.96,Thyroid-Stimulating Hormone
+Control,1.96,Thyroid-Stimulating Hormone
+Control,0.814,Thyroid-Stimulating Hormone
+Control,2.0,Thyroid-Stimulating Hormone
+Control,0.974,Thyroid-Stimulating Hormone
+Control,1.09,Thyroid-Stimulating Hormone
+Control,3.58,Thyroid-Stimulating Hormone
+Control,2.62,Thyroid-Stimulating Hormone
+Control,1.92,Thyroid-Stimulating Hormone
+Control,3.74,Thyroid-Stimulating Hormone
+Control,3.56,Thyroid-Stimulating Hormone
+Control,4.76,Thyroid-Stimulating Hormone
+Control,1.08,Thyroid-Stimulating Hormone
+Control,1.29,Thyroid-Stimulating Hormone
+Control,2.08,Thyroid-Stimulating Hormone
+Control,6.01,Thyroid-Stimulating Hormone
+Control,2.02,Thyroid-Stimulating Hormone
+Control,2.19,Thyroid-Stimulating Hormone
+Control,1.6,Thyroid-Stimulating Hormone
+Control,2.61,Thyroid-Stimulating Hormone
+Control,2.18,Thyroid-Stimulating Hormone
+Control,1.54,Thyroid-Stimulating Hormone
+Control,1.32,Thyroid-Stimulating Hormone
+Control,1.85,Thyroid-Stimulating Hormone
+Control,1.43,Thyroid-Stimulating Hormone
+Control,2.04,Thyroid-Stimulating Hormone
+Control,1.4,Thyroid-Stimulating Hormone
+Control,1.24,Thyroid-Stimulating Hormone
+Control,3.2,Thyroid-Stimulating Hormone
+Control,1.41,Thyroid-Stimulating Hormone
+Control,1.04,Thyroid-Stimulating Hormone
+Control,2.46,Thyroid-Stimulating Hormone
+Control,1.57,Thyroid-Stimulating Hormone
+Control,2.17,Thyroid-Stimulating Hormone
+Control,5.06,Thyroid-Stimulating Hormone
+Control,2.27,Thyroid-Stimulating Hormone
+Control,5.87,Thyroid-Stimulating Hormone
+Control,1.91,Thyroid-Stimulating Hormone
+Control,3.14,Thyroid-Stimulating Hormone
+Control,2.91,Thyroid-Stimulating Hormone
+Control,1.89,Thyroid-Stimulating Hormone
+Control,4.22,Thyroid-Stimulating Hormone
+Control,1.69,Thyroid-Stimulating Hormone
+Control,2.48,Thyroid-Stimulating Hormone
+Control,2.55,Thyroid-Stimulating Hormone
+Control,1.76,Thyroid-Stimulating Hormone
+Control,2.7,Thyroid-Stimulating Hormone
+Control,0.861,Thyroid-Stimulating Hormone
+Control,2.24,Thyroid-Stimulating Hormone
+Control,2.05,Thyroid-Stimulating Hormone
+Control,4.16,Thyroid-Stimulating Hormone
+Control,2.09,Thyroid-Stimulating Hormone
+Control,1.71,Thyroid-Stimulating Hormone
+Control,0.544,Thyroid-Stimulating Hormone
+Control,1.49,Thyroid-Stimulating Hormone
+Control,0.841,Thyroid-Stimulating Hormone
+Control,0.82,Thyroid-Stimulating Hormone
+Control,1.68,Thyroid-Stimulating Hormone
+Control,1.79,Thyroid-Stimulating Hormone
+Control,1.58,Thyroid-Stimulating Hormone
+Control,1.25,Thyroid-Stimulating Hormone
+Control,2.92,Thyroid-Stimulating Hormone
+Control,1.36,Thyroid-Stimulating Hormone
+Control,1.36,Thyroid-Stimulating Hormone
+Control,1.48,Thyroid-Stimulating Hormone
+Control,2.07,Thyroid-Stimulating Hormone
+Control,1.21,Thyroid-Stimulating Hormone
+Control,1.29,Thyroid-Stimulating Hormone
+Control,2.28,Thyroid-Stimulating Hormone
+Control,0.865,Thyroid-Stimulating Hormone
+Control,0.871,Thyroid-Stimulating Hormone
+Control,3.82,Thyroid-Stimulating Hormone
+Control,1.67,Thyroid-Stimulating Hormone
+Control,1.1,Thyroid-Stimulating Hormone
+Control,1.27,Thyroid-Stimulating Hormone
+Control,2.17,Thyroid-Stimulating Hormone
+Control,2.01,Thyroid-Stimulating Hormone
+Control,2.04,Thyroid-Stimulating Hormone
+Control,0.141,Thyroid-Stimulating Hormone
+Control,2.28,Thyroid-Stimulating Hormone
+Control,2.92,Thyroid-Stimulating Hormone
+Control,0.789,Thyroid-Stimulating Hormone
+Control,2.78,Thyroid-Stimulating Hormone
+Control,4.99,Thyroid-Stimulating Hormone
+Control,0.9,Thyroid-Stimulating Hormone
+Control,1.78,Thyroid-Stimulating Hormone
+Control,1.23,Thyroid-Stimulating Hormone
+Control,1.29,Thyroid-Stimulating Hormone
+Control,2.98,Thyroid-Stimulating Hormone
+Control,0.679,Thyroid-Stimulating Hormone
+Control,2.25,Thyroid-Stimulating Hormone
+Control,1.22,Thyroid-Stimulating Hormone
+Control,2.36,Thyroid-Stimulating Hormone
+Control,1.67,Thyroid-Stimulating Hormone
+Control,1.83,Thyroid-Stimulating Hormone
+Control,2.13,Thyroid-Stimulating Hormone
+Control,2.27,Thyroid-Stimulating Hormone
+Control,1.19,Thyroid-Stimulating Hormone
+Control,1.98,Thyroid-Stimulating Hormone
+Control,0.508,Thyroid-Stimulating Hormone
+Control,0.664,Thyroid-Stimulating Hormone
+Control,2.64,Thyroid-Stimulating Hormone
+Control,2.93,Thyroid-Stimulating Hormone
+Control,3.43,Thyroid-Stimulating Hormone
+Control,2.36,Thyroid-Stimulating Hormone
+Control,2.27,Thyroid-Stimulating Hormone
+Control,0.55,Thyroid-Stimulating Hormone
+Control,1.64,Thyroid-Stimulating Hormone
+Control,1.69,Thyroid-Stimulating Hormone
+Control,2.35,Thyroid-Stimulating Hormone
+Control,2.47,Thyroid-Stimulating Hormone
+Control,3.0,Thyroid-Stimulating Hormone
+Control,1.23,Thyroid-Stimulating Hormone
+Control,1.76,Thyroid-Stimulating Hormone
+Control,1.94,Thyroid-Stimulating Hormone
+Control,1.09,Thyroid-Stimulating Hormone
+Control,2.0,Thyroid-Stimulating Hormone
+Control,2.13,Thyroid-Stimulating Hormone
+Control,0.929,Thyroid-Stimulating Hormone
+Control,2.14,Thyroid-Stimulating Hormone
+Control,4.23,Thyroid-Stimulating Hormone
+Control,1.92,Thyroid-Stimulating Hormone
+Control,1.63,Thyroid-Stimulating Hormone
+Control,1.8,Thyroid-Stimulating Hormone
+Control,6.07,Thyroid-Stimulating Hormone
+Control,2.85,Thyroid-Stimulating Hormone
+Control,2.92,Thyroid-Stimulating Hormone
+Control,3.13,Thyroid-Stimulating Hormone
+Control,1.65,Thyroid-Stimulating Hormone
+Control,2.21,Thyroid-Stimulating Hormone
+Control,1.46,Thyroid-Stimulating Hormone
+Control,1.12,Thyroid-Stimulating Hormone
+Control,2.07,Thyroid-Stimulating Hormone
+Control,3.91,Thyroid-Stimulating Hormone
+Control,1.37,Thyroid-Stimulating Hormone
+Control,1.6,Thyroid-Stimulating Hormone
+Control,1.15,Thyroid-Stimulating Hormone
+Control,2.17,Thyroid-Stimulating Hormone
+Control,1.32,Thyroid-Stimulating Hormone
+Control,2.75,Thyroid-Stimulating Hormone
+Control,2.0,Thyroid-Stimulating Hormone
+Control,0.435,Thyroid-Stimulating Hormone
+Control,2.38,Thyroid-Stimulating Hormone
+Control,3.24,Thyroid-Stimulating Hormone
+Control,1.94,Thyroid-Stimulating Hormone
+Control,0.847,Thyroid-Stimulating Hormone
+Control,1.28,Thyroid-Stimulating Hormone
+Control,1.55,Thyroid-Stimulating Hormone
+Control,1.5,Thyroid-Stimulating Hormone
+Control,1.45,Thyroid-Stimulating Hormone
+Control,0.698,Thyroid-Stimulating Hormone
+Control,2.62,Thyroid-Stimulating Hormone
+Control,2.4,Thyroid-Stimulating Hormone
+Control,1.35,Thyroid-Stimulating Hormone
+Control,0.49,Thyroid-Stimulating Hormone
+Control,2.71,Thyroid-Stimulating Hormone
+Control,2.57,Thyroid-Stimulating Hormone
+Control,0.485,Thyroid-Stimulating Hormone
+Control,0.963,Thyroid-Stimulating Hormone
+Control,0.56,Thyroid-Stimulating Hormone
+Control,2.4,Thyroid-Stimulating Hormone
+Control,1.26,Thyroid-Stimulating Hormone
+Control,2.31,Thyroid-Stimulating Hormone
+Control,2.55,Thyroid-Stimulating Hormone
+Control,0.684,Thyroid-Stimulating Hormone
+Control,3.18,Thyroid-Stimulating Hormone
+Control,1.37,Thyroid-Stimulating Hormone
+Control,1.71,Thyroid-Stimulating Hormone
+Control,1.41,Thyroid-Stimulating Hormone
+Control,1.36,Thyroid-Stimulating Hormone
+Control,1.2,Thyroid-Stimulating Hormone
+Control,1.22,Thyroid-Stimulating Hormone
+Control,2.03,Thyroid-Stimulating Hormone
+Control,1.21,Thyroid-Stimulating Hormone
+Control,4.21,Thyroid-Stimulating Hormone
+Control,2.95,Thyroid-Stimulating Hormone
+Control,2.08,Thyroid-Stimulating Hormone
+Control,1.69,Thyroid-Stimulating Hormone
+Control,1.47,Thyroid-Stimulating Hormone
+Control,2.22,Thyroid-Stimulating Hormone
+Control,0.471,Thyroid-Stimulating Hormone
+Control,2.01,Thyroid-Stimulating Hormone
+Control,0.417,Thyroid-Stimulating Hormone
+Control,0.827,Thyroid-Stimulating Hormone
+Control,1.06,Thyroid-Stimulating Hormone
+Control,1.99,Thyroid-Stimulating Hormone
+Control,1.05,Thyroid-Stimulating Hormone
+Control,2.27,Thyroid-Stimulating Hormone
+Control,2.8,Thyroid-Stimulating Hormone
+Control,1.72,Thyroid-Stimulating Hormone
+Control,2.37,Thyroid-Stimulating Hormone
+Control,1.87,Thyroid-Stimulating Hormone
+Control,0.886,Thyroid-Stimulating Hormone
+Control,1.11,Thyroid-Stimulating Hormone
+Control,1.07,Thyroid-Stimulating Hormone
+Control,1.57,Thyroid-Stimulating Hormone
+Control,2.98,Thyroid-Stimulating Hormone
+Control,2.27,Thyroid-Stimulating Hormone
+Control,0.895,Thyroid-Stimulating Hormone
+Control,2.83,Thyroid-Stimulating Hormone
+Control,1.59,Thyroid-Stimulating Hormone
+Control,1.33,Thyroid-Stimulating Hormone
+Control,2.94,Thyroid-Stimulating Hormone
+Control,6.56,Thyroid-Stimulating Hormone
+Control,1.66,Thyroid-Stimulating Hormone
+Control,2.88,Thyroid-Stimulating Hormone
+Control,4.55,Thyroid-Stimulating Hormone
+Control,1.78,Thyroid-Stimulating Hormone
+Control,0.772,Thyroid-Stimulating Hormone
+Control,2.91,Thyroid-Stimulating Hormone
+Control,3.4,Thyroid-Stimulating Hormone
+Control,1.13,Thyroid-Stimulating Hormone
+Control,1.09,Thyroid-Stimulating Hormone
+Control,3.02,Thyroid-Stimulating Hormone
+Control,3.17,Thyroid-Stimulating Hormone
+Control,0.686,Thyroid-Stimulating Hormone
+Control,1.26,Thyroid-Stimulating Hormone
+Control,1.45,Thyroid-Stimulating Hormone
+Control,2.1,Thyroid-Stimulating Hormone
+Control,0.943,Thyroid-Stimulating Hormone
+Control,1.0,Thyroid-Stimulating Hormone
+Control,1.44,Thyroid-Stimulating Hormone
+Control,3.52,Thyroid-Stimulating Hormone
+Control,3.89,Thyroid-Stimulating Hormone
+Control,2.09,Thyroid-Stimulating Hormone
+Control,1.58,Thyroid-Stimulating Hormone
+Control,0.871,Thyroid-Stimulating Hormone
+Control,2.79,Thyroid-Stimulating Hormone
+Control,0.863,Thyroid-Stimulating Hormone
+Control,2.74,Thyroid-Stimulating Hormone
+Control,1.94,Thyroid-Stimulating Hormone
+Control,2.43,Thyroid-Stimulating Hormone
+Control,3.18,Thyroid-Stimulating Hormone
+Control,2.88,Thyroid-Stimulating Hormone
+Control,3.11,Thyroid-Stimulating Hormone
+Control,2.25,Thyroid-Stimulating Hormone
+Control,3.08,Thyroid-Stimulating Hormone
+Control,2.61,Thyroid-Stimulating Hormone
+Control,2.37,Thyroid-Stimulating Hormone
+Control,1.54,Thyroid-Stimulating Hormone
+Control,5.44,Thyroid-Stimulating Hormone
+Control,2.49,Thyroid-Stimulating Hormone
+Control,1.74,Thyroid-Stimulating Hormone
+Control,3.86,Thyroid-Stimulating Hormone
+Control,2.48,Thyroid-Stimulating Hormone
+Control,2.31,Thyroid-Stimulating Hormone
+Control,5.07,Thyroid-Stimulating Hormone
+Control,1.96,Thyroid-Stimulating Hormone
+Control,0.994,Thyroid-Stimulating Hormone
+Control,2.8,Thyroid-Stimulating Hormone
+Control,2.57,Thyroid-Stimulating Hormone
+Control,1.39,Thyroid-Stimulating Hormone
+Control,2.39,Thyroid-Stimulating Hormone
+Control,0.174,Thyroid-Stimulating Hormone
+Control,1.95,Thyroid-Stimulating Hormone
+NOA,0.929,Thyroid-Stimulating Hormone
+NOA,3.63,Thyroid-Stimulating Hormone
+NOA,1.14,Thyroid-Stimulating Hormone
+NOA,1.69,Thyroid-Stimulating Hormone
+NOA,0.958,Thyroid-Stimulating Hormone
+NOA,1.87,Thyroid-Stimulating Hormone
+NOA,2.33,Thyroid-Stimulating Hormone
+NOA,1.8,Thyroid-Stimulating Hormone
+NOA,1.51,Thyroid-Stimulating Hormone
+NOA,1.634,Thyroid-Stimulating Hormone
+NOA,5.73,Thyroid-Stimulating Hormone
+NOA,2.05,Thyroid-Stimulating Hormone
+NOA,1.14,Thyroid-Stimulating Hormone
+NOA,2.72,Thyroid-Stimulating Hormone
+NOA,3.35,Thyroid-Stimulating Hormone
+NOA,3.59,Thyroid-Stimulating Hormone
+NOA,6.5,Thyroid-Stimulating Hormone
+NOA,1.81,Thyroid-Stimulating Hormone
+NOA,1.2,Thyroid-Stimulating Hormone
+NOA,2.83,Thyroid-Stimulating Hormone
+NOA,3.2,Thyroid-Stimulating Hormone
+NOA,2.03,Thyroid-Stimulating Hormone
+NOA,1.97,Thyroid-Stimulating Hormone
+NOA,4.69,Thyroid-Stimulating Hormone
+NOA,11.9,Thyroid-Stimulating Hormone
+NOA,1.55,Thyroid-Stimulating Hormone
+NOA,1.67,Thyroid-Stimulating Hormone
+NOA,1.44,Thyroid-Stimulating Hormone
+NOA,1.28,Thyroid-Stimulating Hormone
+NOA,0.37,Thyroid-Stimulating Hormone
+NOA,3.16,Thyroid-Stimulating Hormone
+NOA,1.6,Thyroid-Stimulating Hormone
+NOA,1.58,Thyroid-Stimulating Hormone
+NOA,2.52,Thyroid-Stimulating Hormone
+NOA,2.5,Thyroid-Stimulating Hormone
+NOA,1.39,Thyroid-Stimulating Hormone
+NOA,2.13,Thyroid-Stimulating Hormone
+NOA,0.538,Thyroid-Stimulating Hormone
+NOA,0.646,Thyroid-Stimulating Hormone
+NOA,1.75,Thyroid-Stimulating Hormone
+NOA,1.33,Thyroid-Stimulating Hormone
+NOA,0.989,Thyroid-Stimulating Hormone
+NOA,3.3,Thyroid-Stimulating Hormone
+NOA,0.47,Thyroid-Stimulating Hormone
+NOA,2.4,Thyroid-Stimulating Hormone
+NOA,1.41,Thyroid-Stimulating Hormone
+NOA,1.83,Thyroid-Stimulating Hormone
+NOA,2.2,Thyroid-Stimulating Hormone
+NOA,3.79,Thyroid-Stimulating Hormone
+NOA,3.06,Thyroid-Stimulating Hormone
+NOA,4.52,Thyroid-Stimulating Hormone
+NOA,2.18,Thyroid-Stimulating Hormone
+NOA,4.94,Thyroid-Stimulating Hormone
+NOA,0.99,Thyroid-Stimulating Hormone
+NOA,3.52,Thyroid-Stimulating Hormone
+NOA,2.69,Thyroid-Stimulating Hormone
+NOA,1.24,Thyroid-Stimulating Hormone
+NOA,2.26,Thyroid-Stimulating Hormone
+NOA,5.62,Thyroid-Stimulating Hormone
+NOA,2.5,Thyroid-Stimulating Hormone
+NOA,0.861,Thyroid-Stimulating Hormone
+NOA,2.65,Thyroid-Stimulating Hormone
+NOA,1.39,Thyroid-Stimulating Hormone
+NOA,1.62,Thyroid-Stimulating Hormone
+NOA,1.03,Thyroid-Stimulating Hormone
+NOA,1.92,Thyroid-Stimulating Hormone
+NOA,1.82,Thyroid-Stimulating Hormone
+NOA,1.69,Thyroid-Stimulating Hormone
+NOA,1.5,Thyroid-Stimulating Hormone
+NOA,2.47,Thyroid-Stimulating Hormone
+NOA,1.6,Thyroid-Stimulating Hormone
+NOA,3.43,Thyroid-Stimulating Hormone
+NOA,2.72,Thyroid-Stimulating Hormone
+NOA,2.98,Thyroid-Stimulating Hormone
+NOA,1.42,Thyroid-Stimulating Hormone
+NOA,0.962,Thyroid-Stimulating Hormone
+NOA,3.18,Thyroid-Stimulating Hormone
+NOA,0.936,Thyroid-Stimulating Hormone
+NOA,2.32,Thyroid-Stimulating Hormone
+NOA,2.68,Thyroid-Stimulating Hormone
+NOA,4.66,Thyroid-Stimulating Hormone
+NOA,1.56,Thyroid-Stimulating Hormone
+NOA,1.21,Thyroid-Stimulating Hormone
+NOA,1.16,Thyroid-Stimulating Hormone
+NOA,1.13,Thyroid-Stimulating Hormone
+NOA,0.972,Thyroid-Stimulating Hormone
+NOA,4.27,Thyroid-Stimulating Hormone
+NOA,2.02,Thyroid-Stimulating Hormone
+NOA,1.62,Thyroid-Stimulating Hormone
+NOA,2.65,Thyroid-Stimulating Hormone
+NOA,1.39,Thyroid-Stimulating Hormone
+NOA,1.29,Thyroid-Stimulating Hormone
+NOA,1.72,Thyroid-Stimulating Hormone
+NOA,1.76,Thyroid-Stimulating Hormone
+NOA,2.28,Thyroid-Stimulating Hormone
+NOA,3.91,Thyroid-Stimulating Hormone
+NOA,15.4,Thyroid-Stimulating Hormone
+NOA,1.08,Thyroid-Stimulating Hormone
+NOA,3.26,Thyroid-Stimulating Hormone
+NOA,2.04,Thyroid-Stimulating Hormone
+NOA,2.11,Thyroid-Stimulating Hormone
+NOA,2.66,Thyroid-Stimulating Hormone
+NOA,1.93,Thyroid-Stimulating Hormone
+NOA,2.06,Thyroid-Stimulating Hormone
+NOA,2.14,Thyroid-Stimulating Hormone
+NOA,4.81,Thyroid-Stimulating Hormone
+NOA,5.98,Thyroid-Stimulating Hormone
+NOA,1.71,Thyroid-Stimulating Hormone
+NOA,1.05,Thyroid-Stimulating Hormone
+NOA,1.55,Thyroid-Stimulating Hormone
+NOA,1.34,Thyroid-Stimulating Hormone
+NOA,2.55,Thyroid-Stimulating Hormone
+NOA,7.0,Thyroid-Stimulating Hormone
+NOA,1.9,Thyroid-Stimulating Hormone
+NOA,2.08,Thyroid-Stimulating Hormone
+NOA,1.18,Thyroid-Stimulating Hormone
+NOA,1.14,Thyroid-Stimulating Hormone
+NOA,2.23,Thyroid-Stimulating Hormone
+NOA,1.05,Thyroid-Stimulating Hormone
+NOA,1.63,Thyroid-Stimulating Hormone
+NOA,1.03,Thyroid-Stimulating Hormone
+NOA,1.91,Thyroid-Stimulating Hormone
+NOA,1.36,Thyroid-Stimulating Hormone
+NOA,1.8,Thyroid-Stimulating Hormone
+NOA,3.51,Thyroid-Stimulating Hormone
+NOA,1.73,Thyroid-Stimulating Hormone
+NOA,2.19,Thyroid-Stimulating Hormone
+NOA,2.7,Thyroid-Stimulating Hormone
+NOA,1.81,Thyroid-Stimulating Hormone
+NOA,1.56,Thyroid-Stimulating Hormone
+NOA,2.05,Thyroid-Stimulating Hormone
+NOA,1.35,Thyroid-Stimulating Hormone
+NOA,2.16,Thyroid-Stimulating Hormone
+NOA,0.726,Thyroid-Stimulating Hormone
+NOA,2.54,Thyroid-Stimulating Hormone
+NOA,0.571,Thyroid-Stimulating Hormone
+NOA,2.38,Thyroid-Stimulating Hormone
+NOA,3.44,Thyroid-Stimulating Hormone
+NOA,2.81,Thyroid-Stimulating Hormone
+NOA,2.45,Thyroid-Stimulating Hormone
+NOA,1.05,Thyroid-Stimulating Hormone
+NOA,1.29,Thyroid-Stimulating Hormone
+OA,2.68,Thyroid-Stimulating Hormone
+OA,2.32,Thyroid-Stimulating Hormone
+OA,2.24,Thyroid-Stimulating Hormone
+OA,2.67,Thyroid-Stimulating Hormone
+OA,2.23,Thyroid-Stimulating Hormone
+OA,2.15,Thyroid-Stimulating Hormone
+OA,2.08,Thyroid-Stimulating Hormone
+OA,3.54,Thyroid-Stimulating Hormone
+OA,1.4,Thyroid-Stimulating Hormone
+OA,4.57,Thyroid-Stimulating Hormone
+OA,2.92,Thyroid-Stimulating Hormone
+OA,1.24,Thyroid-Stimulating Hormone
+OA,2.45,Thyroid-Stimulating Hormone
+OA,1.19,Thyroid-Stimulating Hormone
+OA,2.64,Thyroid-Stimulating Hormone
+OA,0.971,Thyroid-Stimulating Hormone
+OA,2.794,Thyroid-Stimulating Hormone
+OA,2.61,Thyroid-Stimulating Hormone
+OA,2.58,Thyroid-Stimulating Hormone
+OA,4.33,Thyroid-Stimulating Hormone
+OA,2.09,Thyroid-Stimulating Hormone
+OA,1.58,Thyroid-Stimulating Hormone
+OA,1.88,Thyroid-Stimulating Hormone
+OA,3.09,Thyroid-Stimulating Hormone
+OA,1.6,Thyroid-Stimulating Hormone
+OA,1.59,Thyroid-Stimulating Hormone
+OA,6.95,Thyroid-Stimulating Hormone
+OA,1.75,Thyroid-Stimulating Hormone
+OA,1.67,Thyroid-Stimulating Hormone
+OA,3.28,Thyroid-Stimulating Hormone
+OA,2.4,Thyroid-Stimulating Hormone
+OA,3.02,Thyroid-Stimulating Hormone
+OA,2.18,Thyroid-Stimulating Hormone
+OA,1.57,Thyroid-Stimulating Hormone
+OA,1.89,Thyroid-Stimulating Hormone
+OA,4.01,Thyroid-Stimulating Hormone
+OA,1.34,Thyroid-Stimulating Hormone
+OA,1.37,Thyroid-Stimulating Hormone
+OA,0.997,Thyroid-Stimulating Hormone
+OA,3.55,Thyroid-Stimulating Hormone
+OA,2.004,Thyroid-Stimulating Hormone
+OA,1.97,Thyroid-Stimulating Hormone
+OA,1.79,Thyroid-Stimulating Hormone
+OA,1.56,Thyroid-Stimulating Hormone
+OA,2.75,Thyroid-Stimulating Hormone
+OA,2.27,Thyroid-Stimulating Hormone
+OA,2.48,Thyroid-Stimulating Hormone
+OA,1.78,Thyroid-Stimulating Hormone
+OA,1.73,Thyroid-Stimulating Hormone
+OA,1.28,Thyroid-Stimulating Hormone
+OA,2.59,Thyroid-Stimulating Hormone
+OA,3.04,Thyroid-Stimulating Hormone
+OA,2.54,Thyroid-Stimulating Hormone
+OA,1.92,Thyroid-Stimulating Hormone
+OA,1.24,Thyroid-Stimulating Hormone
+OA,4.11,Thyroid-Stimulating Hormone
+OA,3.0,Thyroid-Stimulating Hormone
+OA,1.55,Thyroid-Stimulating Hormone
+OA,2.7,Thyroid-Stimulating Hormone
+OA,2.71,Thyroid-Stimulating Hormone
+OA,1.42,Thyroid-Stimulating Hormone
+OA,1.3,Thyroid-Stimulating Hormone
+OA,3.05,Thyroid-Stimulating Hormone
+OA,3.0,Thyroid-Stimulating Hormone
+OA,0.133,Thyroid-Stimulating Hormone
+OA,1.45,Thyroid-Stimulating Hormone
+OA,1.49,Thyroid-Stimulating Hormone
+OA,4.14,Thyroid-Stimulating Hormone
+OA,2.34,Thyroid-Stimulating Hormone
+OA,1.48,Thyroid-Stimulating Hormone
+OA,2.26,Thyroid-Stimulating Hormone
+OA,2.7,Thyroid-Stimulating Hormone
+OA,3.51,Thyroid-Stimulating Hormone
+OA,1.27,Thyroid-Stimulating Hormone
+OA,1.75,Thyroid-Stimulating Hormone
+OA,2.12,Thyroid-Stimulating Hormone
+OA,0.402,Thyroid-Stimulating Hormone
+OA,6.13,Thyroid-Stimulating Hormone
+OA,3.39,Thyroid-Stimulating Hormone
+OA,1.43,Thyroid-Stimulating Hormone
+OA,4.94,Thyroid-Stimulating Hormone
+OA,5.0,Thyroid-Stimulating Hormone
+OA,1.21,Thyroid-Stimulating Hormone
+OA,1.81,Thyroid-Stimulating Hormone
+OA,5.55,Thyroid-Stimulating Hormone
+OA,2.65,Thyroid-Stimulating Hormone
+OA,2.31,Thyroid-Stimulating Hormone
+OA,1.72,Thyroid-Stimulating Hormone
+OA,1.84,Thyroid-Stimulating Hormone
+OA,1.31,Thyroid-Stimulating Hormone
+OA,3.24,Thyroid-Stimulating Hormone
+OA,1.57,Thyroid-Stimulating Hormone
+OA,3.31,Thyroid-Stimulating Hormone
+OA,2.16,Thyroid-Stimulating Hormone
+OA,1.36,Thyroid-Stimulating Hormone
+OA,5.58,Thyroid-Stimulating Hormone
+OA,1.22,Thyroid-Stimulating Hormone
+OA,3.4,Thyroid-Stimulating Hormone
+OA,1.66,Thyroid-Stimulating Hormone
+OA,1.27,Thyroid-Stimulating Hormone
+OA,1.698,Thyroid-Stimulating Hormone
+OA,2.08,Thyroid-Stimulating Hormone
+OA,1.23,Thyroid-Stimulating Hormone
+OA,1.77,Thyroid-Stimulating Hormone
+OA,2.2,Thyroid-Stimulating Hormone
+OA,1.26,Thyroid-Stimulating Hormone
+OA,1.58,Thyroid-Stimulating Hormone
+OA,1.3,Thyroid-Stimulating Hormone
+OA,1.49,Thyroid-Stimulating Hormone
+OA,1.39,Thyroid-Stimulating Hormone
+OA,1.31,Thyroid-Stimulating Hormone
+OA,2.02,Thyroid-Stimulating Hormone
+OA,2.03,Thyroid-Stimulating Hormone
+OA,4.09,Thyroid-Stimulating Hormone
+OA,1.6,Thyroid-Stimulating Hormone
+OA,11.13,Thyroid-Stimulating Hormone
+OA,1.105,Thyroid-Stimulating Hormone
+OA,2.14,Thyroid-Stimulating Hormone
+OA,2.35,Thyroid-Stimulating Hormone
+OA,1.03,Thyroid-Stimulating Hormone
+OA,1.26,Thyroid-Stimulating Hormone
+OA,2.06,Thyroid-Stimulating Hormone
+OA,1.73,Thyroid-Stimulating Hormone
+OA,4.77,Thyroid-Stimulating Hormone
+OA,2.4,Thyroid-Stimulating Hormone
+OA,1.73,Thyroid-Stimulating Hormone
+OA,6.64,Thyroid-Stimulating Hormone
+OA,1.05,Thyroid-Stimulating Hormone
+OA,3.45,Thyroid-Stimulating Hormone
+OA,0.56,Thyroid-Stimulating Hormone
+OA,3.17,Thyroid-Stimulating Hormone
+OA,2.1,Thyroid-Stimulating Hormone
+OA,3.16,Thyroid-Stimulating Hormone
+OA,2.23,Thyroid-Stimulating Hormone
+OA,6.61,Thyroid-Stimulating Hormone
+OA,1.18,Thyroid-Stimulating Hormone
+OA,2.04,Thyroid-Stimulating Hormone
+OA,0.908,Thyroid-Stimulating Hormone
+OA,1.88,Thyroid-Stimulating Hormone
+OA,2.63,Thyroid-Stimulating Hormone
+OA,1.6,Thyroid-Stimulating Hormone
+OA,0.9012,Thyroid-Stimulating Hormone
+OA,2.2745,Thyroid-Stimulating Hormone
+OA,1.51,Thyroid-Stimulating Hormone
+OA,0.699,Thyroid-Stimulating Hormone
+OA,1.81,Thyroid-Stimulating Hormone
+OA,0.955,Thyroid-Stimulating Hormone
+OA,3.63,Thyroid-Stimulating Hormone
+OA,1.98,Thyroid-Stimulating Hormone
+OA,0.742,Thyroid-Stimulating Hormone
+OA,2.67,Thyroid-Stimulating Hormone
+OA,2.93,Thyroid-Stimulating Hormone
+OA,1.14,Thyroid-Stimulating Hormone
+OA,0.847,Thyroid-Stimulating Hormone
+OA,1.82,Thyroid-Stimulating Hormone
+OA,1.61,Thyroid-Stimulating Hormone
+OA,0.97,Thyroid-Stimulating Hormone
+OA,1.41,Thyroid-Stimulating Hormone
+OA,1.14,Thyroid-Stimulating Hormone
+OA,2.36,Thyroid-Stimulating Hormone
+OA,1.71,Thyroid-Stimulating Hormone
+OA,0.716,Thyroid-Stimulating Hormone
+OA,3.26,Thyroid-Stimulating Hormone
+OA,2.41,Thyroid-Stimulating Hormone
+OA,2.06,Thyroid-Stimulating Hormone
+OA,4.74,Thyroid-Stimulating Hormone
+OA,16.7,Thyroid-Stimulating Hormone
+OA,3.76,Thyroid-Stimulating Hormone
+OA,3.03,Thyroid-Stimulating Hormone
+OA,2.9,Thyroid-Stimulating Hormone
+OA,3.05,Thyroid-Stimulating Hormone
+OA,3.26,Thyroid-Stimulating Hormone
+OA,1.34,Thyroid-Stimulating Hormone
+OA,1.84,Thyroid-Stimulating Hormone
+OA,1.61,Thyroid-Stimulating Hormone
+OA,1.82,Thyroid-Stimulating Hormone
+OA,1.62,Thyroid-Stimulating Hormone
+OA,0.784,Thyroid-Stimulating Hormone
+OA,1.98,Thyroid-Stimulating Hormone
+OA,1.8,Thyroid-Stimulating Hormone
+OA,1.4,Thyroid-Stimulating Hormone
+OA,6.41,Thyroid-Stimulating Hormone
+OA,3.07,Thyroid-Stimulating Hormone
+OA,3.44,Thyroid-Stimulating Hormone
+OA,1.85,Thyroid-Stimulating Hormone
+OA,0.859,Thyroid-Stimulating Hormone
+OA,2.78,Thyroid-Stimulating Hormone
+OA,2.56,Thyroid-Stimulating Hormone
+OA,2.07,Thyroid-Stimulating Hormone
+OA,2.35,Thyroid-Stimulating Hormone
+OA,4.1,Thyroid-Stimulating Hormone
+OA,2.38,Thyroid-Stimulating Hormone
+OA,1.14,Thyroid-Stimulating Hormone
+OA,0.573,Thyroid-Stimulating Hormone
+OA,1.66,Thyroid-Stimulating Hormone
+OA,1.83,Thyroid-Stimulating Hormone
+OA,2.76,Thyroid-Stimulating Hormone
+OA,2.85,Thyroid-Stimulating Hormone
+OA,3.524,Thyroid-Stimulating Hormone
+OA,1.34,Thyroid-Stimulating Hormone
+OA,2.15,Thyroid-Stimulating Hormone
+OA,4.18,Thyroid-Stimulating Hormone
+OA,1.55,Thyroid-Stimulating Hormone
+OA,0.94,Thyroid-Stimulating Hormone
+OA,2.112,Thyroid-Stimulating Hormone
+OA,3.64,Thyroid-Stimulating Hormone
+OA,1.2,Thyroid-Stimulating Hormone
+OA,2.16,Thyroid-Stimulating Hormone
+OA,2.35,Thyroid-Stimulating Hormone
+OA,2.63,Thyroid-Stimulating Hormone
+OA,2.06,Thyroid-Stimulating Hormone
+OA,2.459,Thyroid-Stimulating Hormone
+OA,2.4,Thyroid-Stimulating Hormone
+OA,2.35,Thyroid-Stimulating Hormone
+OA,0.959,Thyroid-Stimulating Hormone
+OA,2.7,Thyroid-Stimulating Hormone
+OA,3.7,Thyroid-Stimulating Hormone
+OA,1.63,Thyroid-Stimulating Hormone
+OA,0.354,Thyroid-Stimulating Hormone
+OA,2.07,Thyroid-Stimulating Hormone
+OA,2.79,Thyroid-Stimulating Hormone
+OA,1.43,Thyroid-Stimulating Hormone
+OA,1.2,Thyroid-Stimulating Hormone
+OA,2.46,Thyroid-Stimulating Hormone
+OA,1.62,Thyroid-Stimulating Hormone
+OA,3.94,Thyroid-Stimulating Hormone
+OA,1.8,Thyroid-Stimulating Hormone
+OA,1.42,Thyroid-Stimulating Hormone
+OA,2.02,Thyroid-Stimulating Hormone
+OA,8.99,Thyroid-Stimulating Hormone
+OA,4.69,Thyroid-Stimulating Hormone
+OA,0.783,Thyroid-Stimulating Hormone
+OA,0.682,Thyroid-Stimulating Hormone
+OA,2.38,Thyroid-Stimulating Hormone
+OA,3.76,Thyroid-Stimulating Hormone
+OA,1.17,Thyroid-Stimulating Hormone
+OA,1.13,Thyroid-Stimulating Hormone
+OA,0.084,Thyroid-Stimulating Hormone
+OA,2.9992,Thyroid-Stimulating Hormone
+OA,5.53,Thyroid-Stimulating Hormone
+OA,0.835,Thyroid-Stimulating Hormone
+OA,4.73,Thyroid-Stimulating Hormone
+OA,1.89,Thyroid-Stimulating Hormone
+OA,1.37,Thyroid-Stimulating Hormone
+OA,2.62,Thyroid-Stimulating Hormone
+OA,1.61,Thyroid-Stimulating Hormone
+OA,1.17,Thyroid-Stimulating Hormone
+OA,0.646,Thyroid-Stimulating Hormone
+OA,1.25,Thyroid-Stimulating Hormone
+OA,2.76,Thyroid-Stimulating Hormone
+OA,3.65,Thyroid-Stimulating Hormone
+OA,3.02,Thyroid-Stimulating Hormone
+OA,2.16,Thyroid-Stimulating Hormone
+OA,1.14,Thyroid-Stimulating Hormone
+OA,1.88,Thyroid-Stimulating Hormone
+OA,0.966,Thyroid-Stimulating Hormone
+OA,2.41,Thyroid-Stimulating Hormone
+OA,0.27,Thyroid-Stimulating Hormone
+OA,2.02,Thyroid-Stimulating Hormone
+OA,1.44,Thyroid-Stimulating Hormone
+OA,2.08,Thyroid-Stimulating Hormone
+OA,1.55,Thyroid-Stimulating Hormone
+OA,2.54,Thyroid-Stimulating Hormone
+OA,3.04,Thyroid-Stimulating Hormone
+OA,1.38,Thyroid-Stimulating Hormone
+OA,1.59,Thyroid-Stimulating Hormone
+OA,1.29,Thyroid-Stimulating Hormone
+OA,1.68,Thyroid-Stimulating Hormone
+OA,1.77,Thyroid-Stimulating Hormone
+OA,0.975,Thyroid-Stimulating Hormone
+OA,3.57,Thyroid-Stimulating Hormone
+OA,0.691,Thyroid-Stimulating Hormone
+OA,4.41,Thyroid-Stimulating Hormone
+OA,1.65,Thyroid-Stimulating Hormone
+OA,2.38,Thyroid-Stimulating Hormone
+OA,1.53,Thyroid-Stimulating Hormone
+OA,2.78,Thyroid-Stimulating Hormone
+OA,3.68,Thyroid-Stimulating Hormone
+OA,1.82,Thyroid-Stimulating Hormone
+OA,0.7,Thyroid-Stimulating Hormone
+OA,1.9,Thyroid-Stimulating Hormone
+OA,2.53,Thyroid-Stimulating Hormone
+OA,2.2,Thyroid-Stimulating Hormone
+OA,1.75,Thyroid-Stimulating Hormone
+OA,1.67,Thyroid-Stimulating Hormone
+OA,1.14,Thyroid-Stimulating Hormone
+OA,1.96,Thyroid-Stimulating Hormone
+OA,5.46,Thyroid-Stimulating Hormone
+OA,1.54,Thyroid-Stimulating Hormone
+OA,0.703,Thyroid-Stimulating Hormone
+OA,2.02,Thyroid-Stimulating Hormone
+OA,2.89,Thyroid-Stimulating Hormone
+OA,2.28,Thyroid-Stimulating Hormone
+OA,1.94,Thyroid-Stimulating Hormone
+OA,3.11,Thyroid-Stimulating Hormone
+OA,2.44,Thyroid-Stimulating Hormone
+OA,0.947,Thyroid-Stimulating Hormone
+OA,0.58,Thyroid-Stimulating Hormone
+OA,4.09,Thyroid-Stimulating Hormone
+OA,2.42,Thyroid-Stimulating Hormone
+OA,1.46,Thyroid-Stimulating Hormone
+OA,2.02,Thyroid-Stimulating Hormone
+OA,0.866,Thyroid-Stimulating Hormone
+OA,1.76,Thyroid-Stimulating Hormone
+OA,2.98,Thyroid-Stimulating Hormone
+OA,1.77,Thyroid-Stimulating Hormone
+OA,3.72,Thyroid-Stimulating Hormone
+OA,2.16,Thyroid-Stimulating Hormone
+OA,2.55,Thyroid-Stimulating Hormone
+OA,1.76,Thyroid-Stimulating Hormone
+OA,1.65,Thyroid-Stimulating Hormone
+OA,2.56,Thyroid-Stimulating Hormone
+OA,2.29,Thyroid-Stimulating Hormone
+OA,1.13,Thyroid-Stimulating Hormone
+OA,3.11,Thyroid-Stimulating Hormone
+OA,3.255,Thyroid-Stimulating Hormone
+OA,2.74,Thyroid-Stimulating Hormone
+OA,2.64,Thyroid-Stimulating Hormone
+OA,1.71,Thyroid-Stimulating Hormone
+OA,0.949,Thyroid-Stimulating Hormone
+OA,1.584,Thyroid-Stimulating Hormone
+OA,0.944,Thyroid-Stimulating Hormone
+OA,1.77,Thyroid-Stimulating Hormone
+OA,1.47,Thyroid-Stimulating Hormone
+OA,1.56,Thyroid-Stimulating Hormone
+OA,0.939,Thyroid-Stimulating Hormone
+OA,1.61,Thyroid-Stimulating Hormone
+OA,1.14,Thyroid-Stimulating Hormone
+OA,1.04,Thyroid-Stimulating Hormone
+OA,2.31,Thyroid-Stimulating Hormone
+OA,0.963,Thyroid-Stimulating Hormone
+OA,0.862,Thyroid-Stimulating Hormone
+OA,2.28,Thyroid-Stimulating Hormone
+OA,2.11,Thyroid-Stimulating Hormone
+OA,1.9,Thyroid-Stimulating Hormone
+OA,1.95,Thyroid-Stimulating Hormone
+OA,1.99,Thyroid-Stimulating Hormone
+OA,1.24,Thyroid-Stimulating Hormone
+OA,2.77,Thyroid-Stimulating Hormone
+OA,3.24,Thyroid-Stimulating Hormone
+OA,0.973,Thyroid-Stimulating Hormone
+OA,0.96,Thyroid-Stimulating Hormone
+OA,1.92,Thyroid-Stimulating Hormone
+OA,1.47,Thyroid-Stimulating Hormone
+OA,1.33,Thyroid-Stimulating Hormone
+OA,1.27,Thyroid-Stimulating Hormone
+OA,3.72,Thyroid-Stimulating Hormone
+OA,0.964,Thyroid-Stimulating Hormone
+OA,1.645,Thyroid-Stimulating Hormone
+OA,1.85,Thyroid-Stimulating Hormone
+OA,1.85,Thyroid-Stimulating Hormone
+OA,1.53,Thyroid-Stimulating Hormone
+OA,0.964,Thyroid-Stimulating Hormone
+OA,2.09,Thyroid-Stimulating Hormone
+OA,1.51,Thyroid-Stimulating Hormone
+OA,4.19,Thyroid-Stimulating Hormone
+OA,2.55,Thyroid-Stimulating Hormone
+OA,4.09,Thyroid-Stimulating Hormone
+OA,2.45,Thyroid-Stimulating Hormone
+OA,2.25,Thyroid-Stimulating Hormone
+OA,0.53,Thyroid-Stimulating Hormone
+OA,2.02,Thyroid-Stimulating Hormone
+OA,7.24,Thyroid-Stimulating Hormone
+OA,1.76,Thyroid-Stimulating Hormone
+OA,1.77,Thyroid-Stimulating Hormone
+OA,1.5,Thyroid-Stimulating Hormone
+OA,5.39,Thyroid-Stimulating Hormone
+OA,1.13,Thyroid-Stimulating Hormone
+OA,1.52,Thyroid-Stimulating Hormone
+OA,1.74,Thyroid-Stimulating Hormone
+OA,1.32,Thyroid-Stimulating Hormone
+OA,0.977,Thyroid-Stimulating Hormone
+OA,1.53,Thyroid-Stimulating Hormone
+OA,0.094,Thyroid-Stimulating Hormone
+OA,1.9,Thyroid-Stimulating Hormone
+OA,1.27,Thyroid-Stimulating Hormone
+OA,1.94,Thyroid-Stimulating Hormone
+OA,1.27,Thyroid-Stimulating Hormone
+OA,4.62,Thyroid-Stimulating Hormone
+OA,1.05,Thyroid-Stimulating Hormone
+OA,1.86,Thyroid-Stimulating Hormone
+OA,1.38,Thyroid-Stimulating Hormone
+OA,2.57,Thyroid-Stimulating Hormone
+OA,3.52,Thyroid-Stimulating Hormone
+OA,1.06,Thyroid-Stimulating Hormone
+OA,2.02,Thyroid-Stimulating Hormone
+OA,1.21,Thyroid-Stimulating Hormone
+OA,1.65,Thyroid-Stimulating Hormone
+OA,3.15,Thyroid-Stimulating Hormone
+OA,0.995,Thyroid-Stimulating Hormone
+OA,2.77,Thyroid-Stimulating Hormone
+OA,3.18,Thyroid-Stimulating Hormone
+OA,1.83,Thyroid-Stimulating Hormone
+OA,1.48,Thyroid-Stimulating Hormone
+OA,1.78,Thyroid-Stimulating Hormone
+OA,1.78,Thyroid-Stimulating Hormone
+OA,1.27,Thyroid-Stimulating Hormone
+OA,1.1,Thyroid-Stimulating Hormone
+Control,10.9,Prolactin
+Control,8.41,Prolactin
+Control,13.5,Prolactin
+Control,9.39,Prolactin
+Control,6.96,Prolactin
+Control,6.1,Prolactin
+Control,11.0,Prolactin
+Control,19.44,Prolactin
+Control,7.9,Prolactin
+Control,5.3,Prolactin
+Control,7.64,Prolactin
+Control,7.61,Prolactin
+Control,6.49,Prolactin
+Control,12.48,Prolactin
+Control,7.6,Prolactin
+Control,13.3,Prolactin
+Control,6.06,Prolactin
+Control,9.85,Prolactin
+Control,9.6,Prolactin
+Control,15.26,Prolactin
+Control,7.95,Prolactin
+Control,12.6,Prolactin
+Control,9.16,Prolactin
+Control,13.3,Prolactin
+Control,10.2,Prolactin
+Control,9.43,Prolactin
+Control,20.7,Prolactin
+Control,15.1,Prolactin
+Control,8.27,Prolactin
+Control,10.9,Prolactin
+Control,6.69,Prolactin
+Control,12.5,Prolactin
+Control,12.0,Prolactin
+Control,10.44,Prolactin
+Control,13.8,Prolactin
+Control,3.66,Prolactin
+Control,11.2,Prolactin
+Control,25.12,Prolactin
+Control,6.29,Prolactin
+Control,4.68,Prolactin
+Control,15.42,Prolactin
+Control,6.49,Prolactin
+Control,8.81,Prolactin
+Control,6.31,Prolactin
+Control,10.2,Prolactin
+Control,15.7,Prolactin
+Control,6.27,Prolactin
+Control,8.96,Prolactin
+Control,13.8,Prolactin
+Control,11.3,Prolactin
+Control,6.22,Prolactin
+Control,5.15,Prolactin
+Control,6.8,Prolactin
+Control,13.5,Prolactin
+Control,10.6,Prolactin
+Control,7.94,Prolactin
+Control,6.06,Prolactin
+Control,6.24,Prolactin
+Control,10.5,Prolactin
+Control,9.35,Prolactin
+Control,16.13,Prolactin
+Control,7.29,Prolactin
+Control,8.78,Prolactin
+Control,13.6,Prolactin
+Control,33.42,Prolactin
+Control,17.34,Prolactin
+Control,13.6,Prolactin
+Control,20.63,Prolactin
+Control,10.4,Prolactin
+Control,10.1,Prolactin
+Control,5.37,Prolactin
+Control,10.0,Prolactin
+Control,6.26,Prolactin
+Control,10.3,Prolactin
+Control,11.7,Prolactin
+Control,5.72,Prolactin
+Control,7.72,Prolactin
+Control,12.1,Prolactin
+Control,7.0,Prolactin
+Control,11.6,Prolactin
+Control,3.71,Prolactin
+Control,10.04,Prolactin
+Control,9.79,Prolactin
+Control,20.27,Prolactin
+Control,5.76,Prolactin
+Control,11.02,Prolactin
+Control,7.22,Prolactin
+Control,6.68,Prolactin
+Control,8.9,Prolactin
+Control,4.05,Prolactin
+Control,42.2,Prolactin
+Control,6.32,Prolactin
+Control,8.32,Prolactin
+Control,5.24,Prolactin
+Control,18.65,Prolactin
+Control,12.9,Prolactin
+Control,10.5,Prolactin
+Control,26.0,Prolactin
+Control,5.24,Prolactin
+Control,9.3,Prolactin
+Control,11.11,Prolactin
+Control,7.07,Prolactin
+Control,9.67,Prolactin
+Control,11.9,Prolactin
+Control,11.0,Prolactin
+Control,6.89,Prolactin
+Control,6.07,Prolactin
+Control,9.64,Prolactin
+Control,12.42,Prolactin
+Control,10.1,Prolactin
+Control,6.02,Prolactin
+Control,20.82,Prolactin
+Control,9.87,Prolactin
+Control,12.0,Prolactin
+Control,16.47,Prolactin
+Control,5.37,Prolactin
+Control,9.46,Prolactin
+Control,12.38,Prolactin
+Control,10.09,Prolactin
+Control,10.6,Prolactin
+Control,10.35,Prolactin
+Control,9.21,Prolactin
+Control,7.16,Prolactin
+Control,19.9,Prolactin
+Control,8.14,Prolactin
+Control,5.7,Prolactin
+Control,19.89,Prolactin
+Control,14.89,Prolactin
+Control,11.6,Prolactin
+Control,6.34,Prolactin
+Control,15.0,Prolactin
+Control,14.0,Prolactin
+Control,6.87,Prolactin
+Control,13.11,Prolactin
+Control,4.99,Prolactin
+Control,9.19,Prolactin
+Control,6.43,Prolactin
+Control,7.37,Prolactin
+Control,7.41,Prolactin
+Control,7.95,Prolactin
+Control,8.55,Prolactin
+Control,12.4,Prolactin
+Control,19.01,Prolactin
+Control,18.0,Prolactin
+Control,27.0,Prolactin
+Control,5.89,Prolactin
+Control,24.1,Prolactin
+Control,9.84,Prolactin
+Control,21.9,Prolactin
+Control,7.31,Prolactin
+Control,13.98,Prolactin
+Control,7.52,Prolactin
+Control,11.2,Prolactin
+Control,14.83,Prolactin
+Control,10.4,Prolactin
+Control,9.34,Prolactin
+Control,14.1,Prolactin
+Control,8.85,Prolactin
+Control,8.25,Prolactin
+Control,18.9,Prolactin
+Control,6.87,Prolactin
+Control,12.6,Prolactin
+Control,5.77,Prolactin
+Control,8.06,Prolactin
+Control,13.6,Prolactin
+Control,39.4,Prolactin
+Control,9.83,Prolactin
+Control,13.88,Prolactin
+Control,10.1,Prolactin
+Control,11.7,Prolactin
+Control,7.73,Prolactin
+Control,15.2,Prolactin
+Control,13.48,Prolactin
+Control,7.7,Prolactin
+Control,10.9,Prolactin
+Control,5.61,Prolactin
+Control,7.2,Prolactin
+Control,8.46,Prolactin
+Control,9.58,Prolactin
+Control,13.0,Prolactin
+Control,5.08,Prolactin
+Control,7.59,Prolactin
+Control,6.87,Prolactin
+Control,11.6,Prolactin
+Control,21.4,Prolactin
+Control,16.9,Prolactin
+Control,6.2,Prolactin
+Control,7.64,Prolactin
+Control,9.38,Prolactin
+Control,8.95,Prolactin
+Control,15.2,Prolactin
+Control,12.0,Prolactin
+Control,10.92,Prolactin
+Control,10.0,Prolactin
+Control,15.3,Prolactin
+Control,6.85,Prolactin
+Control,9.93,Prolactin
+Control,16.37,Prolactin
+Control,14.2,Prolactin
+Control,12.06,Prolactin
+Control,11.3,Prolactin
+Control,10.3,Prolactin
+Control,8.32,Prolactin
+Control,13.2,Prolactin
+Control,23.5,Prolactin
+Control,6.62,Prolactin
+Control,5.86,Prolactin
+Control,9.06,Prolactin
+Control,11.29,Prolactin
+Control,9.75,Prolactin
+Control,12.28,Prolactin
+Control,12.35,Prolactin
+Control,9.26,Prolactin
+Control,9.7,Prolactin
+Control,12.5,Prolactin
+Control,7.78,Prolactin
+Control,8.49,Prolactin
+Control,13.2,Prolactin
+Control,11.3,Prolactin
+Control,7.49,Prolactin
+Control,8.16,Prolactin
+Control,30.1,Prolactin
+Control,4.98,Prolactin
+Control,8.96,Prolactin
+Control,9.64,Prolactin
+Control,9.31,Prolactin
+Control,7.71,Prolactin
+Control,4.39,Prolactin
+Control,10.3,Prolactin
+Control,11.1,Prolactin
+Control,11.8,Prolactin
+Control,13.5,Prolactin
+Control,7.8,Prolactin
+Control,10.54,Prolactin
+Control,12.4,Prolactin
+Control,11.87,Prolactin
+Control,8.83,Prolactin
+Control,6.57,Prolactin
+Control,15.1,Prolactin
+Control,13.74,Prolactin
+Control,13.1,Prolactin
+Control,16.31,Prolactin
+Control,7.23,Prolactin
+Control,14.8,Prolactin
+Control,10.3,Prolactin
+Control,13.3,Prolactin
+Control,19.3,Prolactin
+Control,12.0,Prolactin
+Control,8.47,Prolactin
+Control,8.42,Prolactin
+Control,8.24,Prolactin
+Control,8.4,Prolactin
+Control,4.98,Prolactin
+Control,6.42,Prolactin
+Control,10.7,Prolactin
+Control,9.02,Prolactin
+Control,16.7,Prolactin
+Control,5.11,Prolactin
+Control,10.0,Prolactin
+Control,13.7,Prolactin
+Control,20.3,Prolactin
+Control,9.6,Prolactin
+Control,29.1,Prolactin
+Control,20.1,Prolactin
+Control,7.95,Prolactin
+Control,21.1,Prolactin
+Control,13.0,Prolactin
+Control,14.2,Prolactin
+Control,9.17,Prolactin
+Control,19.9,Prolactin
+Control,19.0,Prolactin
+Control,6.11,Prolactin
+Control,16.8,Prolactin
+Control,9.26,Prolactin
+Control,8.87,Prolactin
+Control,7.82,Prolactin
+Control,9.26,Prolactin
+Control,15.4,Prolactin
+Control,14.4,Prolactin
+Control,9.07,Prolactin
+Control,13.8,Prolactin
+Control,8.68,Prolactin
+Control,7.8,Prolactin
+Control,4.52,Prolactin
+Control,11.77,Prolactin
+Control,9.68,Prolactin
+Control,7.09,Prolactin
+Control,28.39,Prolactin
+Control,25.5,Prolactin
+Control,14.1,Prolactin
+Control,9.85,Prolactin
+Control,9.83,Prolactin
+Control,11.4,Prolactin
+Control,10.0,Prolactin
+Control,13.3,Prolactin
+Control,17.6,Prolactin
+Control,30.91,Prolactin
+Control,7.68,Prolactin
+Control,6.24,Prolactin
+Control,15.3,Prolactin
+Control,15.8,Prolactin
+Control,4.49,Prolactin
+Control,4.05,Prolactin
+Control,7.75,Prolactin
+Control,11.2,Prolactin
+Control,16.38,Prolactin
+Control,20.82,Prolactin
+Control,9.79,Prolactin
+Control,10.2,Prolactin
+Control,7.39,Prolactin
+Control,9.96,Prolactin
+Control,7.89,Prolactin
+Control,6.82,Prolactin
+Control,12.6,Prolactin
+Control,16.1,Prolactin
+Control,7.91,Prolactin
+Control,9.28,Prolactin
+Control,8.11,Prolactin
+Control,6.72,Prolactin
+Control,11.8,Prolactin
+Control,13.0,Prolactin
+Control,11.8,Prolactin
+Control,13.6,Prolactin
+Control,9.89,Prolactin
+Control,7.82,Prolactin
+Control,23.6,Prolactin
+Control,12.8,Prolactin
+Control,6.22,Prolactin
+Control,10.4,Prolactin
+Control,7.74,Prolactin
+Control,13.77,Prolactin
+Control,4.54,Prolactin
+Control,7.35,Prolactin
+Control,23.5,Prolactin
+Control,10.3,Prolactin
+Control,7.46,Prolactin
+Control,17.0,Prolactin
+Control,8.25,Prolactin
+Control,6.87,Prolactin
+Control,11.0,Prolactin
+Control,14.6,Prolactin
+Control,17.8,Prolactin
+Control,12.16,Prolactin
+Control,8.97,Prolactin
+Control,7.18,Prolactin
+Control,10.82,Prolactin
+Control,5.09,Prolactin
+Control,13.1,Prolactin
+Control,6.25,Prolactin
+Control,9.56,Prolactin
+Control,11.3,Prolactin
+Control,26.1,Prolactin
+Control,19.0,Prolactin
+Control,12.2,Prolactin
+Control,8.11,Prolactin
+Control,15.84,Prolactin
+Control,14.8,Prolactin
+Control,10.03,Prolactin
+Control,8.62,Prolactin
+Control,6.57,Prolactin
+Control,12.1,Prolactin
+Control,9.02,Prolactin
+Control,8.22,Prolactin
+Control,11.81,Prolactin
+Control,10.7,Prolactin
+Control,7.53,Prolactin
+Control,17.9,Prolactin
+Control,18.1,Prolactin
+Control,11.7,Prolactin
+Control,6.04,Prolactin
+Control,13.4,Prolactin
+Control,9.57,Prolactin
+Control,11.6,Prolactin
+Control,11.3,Prolactin
+Control,5.74,Prolactin
+Control,13.38,Prolactin
+Control,8.84,Prolactin
+Control,13.5,Prolactin
+Control,5.97,Prolactin
+Control,8.33,Prolactin
+Control,14.03,Prolactin
+Control,12.81,Prolactin
+Control,5.86,Prolactin
+Control,5.91,Prolactin
+Control,4.79,Prolactin
+Control,11.4,Prolactin
+Control,8.98,Prolactin
+Control,10.45,Prolactin
+Control,9.13,Prolactin
+Control,13.0,Prolactin
+Control,11.3,Prolactin
+Control,13.0,Prolactin
+Control,21.3,Prolactin
+Control,6.5,Prolactin
+Control,12.6,Prolactin
+Control,11.3,Prolactin
+Control,7.55,Prolactin
+Control,12.6,Prolactin
+Control,8.12,Prolactin
+Control,12.31,Prolactin
+Control,9.57,Prolactin
+Control,14.77,Prolactin
+Control,13.0,Prolactin
+Control,18.5,Prolactin
+Control,21.8,Prolactin
+Control,16.41,Prolactin
+Control,9.65,Prolactin
+Control,8.56,Prolactin
+Control,15.9,Prolactin
+Control,4.24,Prolactin
+Control,14.4,Prolactin
+Control,18.8,Prolactin
+Control,5.92,Prolactin
+Control,7.85,Prolactin
+Control,13.5,Prolactin
+Control,10.2,Prolactin
+Control,12.4,Prolactin
+Control,8.81,Prolactin
+Control,9.59,Prolactin
+Control,33.89,Prolactin
+Control,7.94,Prolactin
+Control,6.2,Prolactin
+Control,11.8,Prolactin
+Control,11.1,Prolactin
+Control,11.0,Prolactin
+Control,8.71,Prolactin
+Control,8.28,Prolactin
+Control,7.81,Prolactin
+Control,15.45,Prolactin
+Control,6.4,Prolactin
+Control,10.4,Prolactin
+Control,13.5,Prolactin
+Control,6.03,Prolactin
+Control,12.6,Prolactin
+Control,5.85,Prolactin
+Control,11.99,Prolactin
+Control,4.02,Prolactin
+Control,16.8,Prolactin
+Control,12.0,Prolactin
+Control,9.38,Prolactin
+Control,14.7,Prolactin
+Control,11.53,Prolactin
+Control,6.76,Prolactin
+Control,22.75,Prolactin
+Control,20.9,Prolactin
+Control,12.3,Prolactin
+Control,6.46,Prolactin
+Control,8.11,Prolactin
+Control,22.28,Prolactin
+Control,8.62,Prolactin
+Control,8.33,Prolactin
+Control,9.03,Prolactin
+Control,8.2,Prolactin
+Control,20.3,Prolactin
+Control,20.4,Prolactin
+Control,16.45,Prolactin
+NOA,7.88,Prolactin
+NOA,17.1,Prolactin
+NOA,10.4,Prolactin
+NOA,18.21,Prolactin
+NOA,11.45,Prolactin
+NOA,10.5,Prolactin
+NOA,7.81,Prolactin
+NOA,27.7,Prolactin
+NOA,36.6,Prolactin
+NOA,23.27,Prolactin
+NOA,5.6,Prolactin
+NOA,13.3,Prolactin
+NOA,8.18,Prolactin
+NOA,31.1,Prolactin
+NOA,80.72,Prolactin
+NOA,15.9,Prolactin
+NOA,10.67,Prolactin
+NOA,7.9,Prolactin
+NOA,14.72,Prolactin
+NOA,9.51,Prolactin
+NOA,13.9,Prolactin
+NOA,8.61,Prolactin
+NOA,9.98,Prolactin
+NOA,12.8,Prolactin
+NOA,27.4,Prolactin
+NOA,32.7,Prolactin
+NOA,23.7,Prolactin
+NOA,12.8,Prolactin
+NOA,15.6,Prolactin
+NOA,7.72,Prolactin
+NOA,11.9,Prolactin
+NOA,11.0,Prolactin
+NOA,12.0,Prolactin
+NOA,18.4,Prolactin
+NOA,9.73,Prolactin
+NOA,7.9,Prolactin
+NOA,30.2,Prolactin
+NOA,7.79,Prolactin
+NOA,7.62,Prolactin
+NOA,16.8,Prolactin
+NOA,6.75,Prolactin
+NOA,5.75,Prolactin
+NOA,14.52,Prolactin
+NOA,16.2,Prolactin
+NOA,8.51,Prolactin
+NOA,13.36,Prolactin
+NOA,13.03,Prolactin
+NOA,7.16,Prolactin
+NOA,9.73,Prolactin
+NOA,11.7,Prolactin
+NOA,12.7,Prolactin
+NOA,27.5,Prolactin
+NOA,12.68,Prolactin
+NOA,4.53,Prolactin
+NOA,16.9,Prolactin
+NOA,16.43,Prolactin
+NOA,13.27,Prolactin
+NOA,26.0,Prolactin
+NOA,34.8,Prolactin
+NOA,16.45,Prolactin
+NOA,14.1,Prolactin
+NOA,11.7,Prolactin
+NOA,17.6,Prolactin
+NOA,13.97,Prolactin
+NOA,20.7,Prolactin
+NOA,10.1,Prolactin
+NOA,9.97,Prolactin
+NOA,5.51,Prolactin
+NOA,16.4,Prolactin
+NOA,10.6,Prolactin
+NOA,23.88,Prolactin
+NOA,9.73,Prolactin
+NOA,7.8,Prolactin
+NOA,8.56,Prolactin
+NOA,11.3,Prolactin
+NOA,8.8,Prolactin
+NOA,7.09,Prolactin
+NOA,11.9,Prolactin
+NOA,9.64,Prolactin
+NOA,10.9,Prolactin
+NOA,28.72,Prolactin
+NOA,9.25,Prolactin
+NOA,9.71,Prolactin
+NOA,9.72,Prolactin
+NOA,15.44,Prolactin
+NOA,19.25,Prolactin
+NOA,20.7,Prolactin
+NOA,13.7,Prolactin
+NOA,19.4,Prolactin
+NOA,15.25,Prolactin
+NOA,15.9,Prolactin
+NOA,11.7,Prolactin
+NOA,13.2,Prolactin
+NOA,6.3,Prolactin
+NOA,7.54,Prolactin
+NOA,10.9,Prolactin
+NOA,12.6,Prolactin
+NOA,13.5,Prolactin
+NOA,107.0,Prolactin
+NOA,10.15,Prolactin
+NOA,20.2,Prolactin
+NOA,19.5,Prolactin
+NOA,10.53,Prolactin
+NOA,10.77,Prolactin
+NOA,8.22,Prolactin
+NOA,21.0,Prolactin
+NOA,25.3,Prolactin
+NOA,16.5,Prolactin
+NOA,17.6,Prolactin
+NOA,15.7,Prolactin
+NOA,6.0,Prolactin
+NOA,12.22,Prolactin
+NOA,9.93,Prolactin
+NOA,20.8,Prolactin
+NOA,16.7,Prolactin
+NOA,10.8,Prolactin
+NOA,13.2,Prolactin
+NOA,14.59,Prolactin
+NOA,6.25,Prolactin
+NOA,13.7,Prolactin
+NOA,14.7,Prolactin
+NOA,17.4,Prolactin
+NOA,10.66,Prolactin
+NOA,14.24,Prolactin
+NOA,13.02,Prolactin
+NOA,7.24,Prolactin
+NOA,19.4,Prolactin
+NOA,10.04,Prolactin
+NOA,25.4,Prolactin
+NOA,8.64,Prolactin
+NOA,17.62,Prolactin
+NOA,7.1,Prolactin
+NOA,6.82,Prolactin
+NOA,19.7,Prolactin
+NOA,10.3,Prolactin
+NOA,19.4,Prolactin
+NOA,20.5,Prolactin
+NOA,9.16,Prolactin
+NOA,12.1,Prolactin
+NOA,10.7,Prolactin
+NOA,28.1,Prolactin
+NOA,3.52,Prolactin
+OA,15.4,Prolactin
+OA,9.78,Prolactin
+OA,6.72,Prolactin
+OA,18.79,Prolactin
+OA,12.6,Prolactin
+OA,12.47,Prolactin
+OA,5.63,Prolactin
+OA,20.89,Prolactin
+OA,14.51,Prolactin
+OA,14.8,Prolactin
+OA,12.36,Prolactin
+OA,7.06,Prolactin
+OA,11.3,Prolactin
+OA,10.3,Prolactin
+OA,7.79,Prolactin
+OA,24.7,Prolactin
+OA,5.86,Prolactin
+OA,6.15,Prolactin
+OA,13.01,Prolactin
+OA,18.2,Prolactin
+OA,9.86,Prolactin
+OA,12.1,Prolactin
+OA,14.89,Prolactin
+OA,11.52,Prolactin
+OA,26.47,Prolactin
+OA,14.33,Prolactin
+OA,6.37,Prolactin
+OA,20.5,Prolactin
+OA,9.1,Prolactin
+OA,10.5,Prolactin
+OA,14.8,Prolactin
+OA,13.8,Prolactin
+OA,20.02,Prolactin
+OA,8.92,Prolactin
+OA,4.95,Prolactin
+OA,6.3,Prolactin
+OA,8.38,Prolactin
+OA,4.58,Prolactin
+OA,8.79,Prolactin
+OA,7.1,Prolactin
+OA,14.2,Prolactin
+OA,12.9,Prolactin
+OA,13.2,Prolactin
+OA,6.43,Prolactin
+OA,11.8,Prolactin
+OA,21.7,Prolactin
+OA,4.96,Prolactin
+OA,9.87,Prolactin
+OA,17.9,Prolactin
+OA,23.5,Prolactin
+OA,8.16,Prolactin
+OA,14.7,Prolactin
+OA,8.98,Prolactin
+OA,11.9,Prolactin
+OA,9.13,Prolactin
+OA,10.8,Prolactin
+OA,10.0,Prolactin
+OA,6.64,Prolactin
+OA,8.88,Prolactin
+OA,6.06,Prolactin
+OA,8.55,Prolactin
+OA,4.75,Prolactin
+OA,10.9,Prolactin
+OA,272.0,Prolactin
+OA,26.8,Prolactin
+OA,6.15,Prolactin
+OA,11.2,Prolactin
+OA,17.2,Prolactin
+OA,11.2,Prolactin
+OA,22.84,Prolactin
+OA,12.68,Prolactin
+OA,8.99,Prolactin
+OA,17.75,Prolactin
+OA,5.9,Prolactin
+OA,13.0,Prolactin
+OA,14.42,Prolactin
+OA,7.84,Prolactin
+OA,8.49,Prolactin
+OA,12.0,Prolactin
+OA,10.4,Prolactin
+OA,14.99,Prolactin
+OA,24.9,Prolactin
+OA,6.48,Prolactin
+OA,25.0,Prolactin
+OA,15.23,Prolactin
+OA,15.5,Prolactin
+OA,14.0,Prolactin
+OA,14.7,Prolactin
+OA,7.01,Prolactin
+OA,19.8,Prolactin
+OA,3.6,Prolactin
+OA,12.8,Prolactin
+OA,27.5,Prolactin
+OA,22.2,Prolactin
+OA,9.93,Prolactin
+OA,12.72,Prolactin
+OA,22.3,Prolactin
+OA,20.6,Prolactin
+OA,5.5,Prolactin
+OA,9.3,Prolactin
+OA,7.01,Prolactin
+OA,16.08,Prolactin
+OA,9.38,Prolactin
+OA,6.2,Prolactin
+OA,8.2,Prolactin
+OA,13.2,Prolactin
+OA,13.0,Prolactin
+OA,8.78,Prolactin
+OA,6.28,Prolactin
+OA,9.49,Prolactin
+OA,15.7,Prolactin
+OA,13.3,Prolactin
+OA,17.3,Prolactin
+OA,13.1,Prolactin
+OA,27.6,Prolactin
+OA,7.88,Prolactin
+OA,6.7,Prolactin
+OA,12.4,Prolactin
+OA,16.3,Prolactin
+OA,20.11,Prolactin
+OA,15.2,Prolactin
+OA,9.92,Prolactin
+OA,6.38,Prolactin
+OA,12.96,Prolactin
+OA,13.1,Prolactin
+OA,6.38,Prolactin
+OA,18.09,Prolactin
+OA,12.06,Prolactin
+OA,30.0,Prolactin
+OA,11.42,Prolactin
+OA,10.68,Prolactin
+OA,11.8,Prolactin
+OA,15.21,Prolactin
+OA,7.37,Prolactin
+OA,11.37,Prolactin
+OA,11.67,Prolactin
+OA,5.64,Prolactin
+OA,19.4,Prolactin
+OA,8.11,Prolactin
+OA,22.6,Prolactin
+OA,19.9,Prolactin
+OA,10.17,Prolactin
+OA,5.95,Prolactin
+OA,14.9,Prolactin
+OA,9.56,Prolactin
+OA,21.53,Prolactin
+OA,10.1,Prolactin
+OA,17.9,Prolactin
+OA,19.1,Prolactin
+OA,6.03,Prolactin
+OA,10.0,Prolactin
+OA,12.1,Prolactin
+OA,10.12,Prolactin
+OA,16.5,Prolactin
+OA,18.4,Prolactin
+OA,6.26,Prolactin
+OA,14.29,Prolactin
+OA,8.27,Prolactin
+OA,9.46,Prolactin
+OA,18.95,Prolactin
+OA,12.7,Prolactin
+OA,8.7,Prolactin
+OA,8.88,Prolactin
+OA,11.63,Prolactin
+OA,21.0,Prolactin
+OA,9.77,Prolactin
+OA,15.21,Prolactin
+OA,11.4,Prolactin
+OA,11.4,Prolactin
+OA,13.1,Prolactin
+OA,13.6,Prolactin
+OA,12.47,Prolactin
+OA,7.37,Prolactin
+OA,9.47,Prolactin
+OA,12.2,Prolactin
+OA,12.95,Prolactin
+OA,6.8,Prolactin
+OA,14.1,Prolactin
+OA,12.0,Prolactin
+OA,4.29,Prolactin
+OA,15.66,Prolactin
+OA,13.9,Prolactin
+OA,38.5,Prolactin
+OA,17.2,Prolactin
+OA,13.4,Prolactin
+OA,10.4,Prolactin
+OA,8.46,Prolactin
+OA,8.2,Prolactin
+OA,6.52,Prolactin
+OA,9.46,Prolactin
+OA,11.15,Prolactin
+OA,9.55,Prolactin
+OA,13.5,Prolactin
+OA,7.28,Prolactin
+OA,11.65,Prolactin
+OA,11.14,Prolactin
+OA,6.32,Prolactin
+OA,11.51,Prolactin
+OA,26.53,Prolactin
+OA,21.27,Prolactin
+OA,23.3,Prolactin
+OA,11.89,Prolactin
+OA,7.83,Prolactin
+OA,11.2,Prolactin
+OA,11.89,Prolactin
+OA,11.9,Prolactin
+OA,5.78,Prolactin
+OA,15.6,Prolactin
+OA,23.2,Prolactin
+OA,9.72,Prolactin
+OA,7.41,Prolactin
+OA,25.06,Prolactin
+OA,16.25,Prolactin
+OA,18.06,Prolactin
+OA,5.17,Prolactin
+OA,15.6,Prolactin
+OA,13.1,Prolactin
+OA,19.5,Prolactin
+OA,18.6,Prolactin
+OA,10.1,Prolactin
+OA,13.2,Prolactin
+OA,8.9,Prolactin
+OA,11.6,Prolactin
+OA,12.08,Prolactin
+OA,11.5,Prolactin
+OA,10.77,Prolactin
+OA,10.21,Prolactin
+OA,12.4,Prolactin
+OA,4.81,Prolactin
+OA,9.71,Prolactin
+OA,23.3,Prolactin
+OA,6.6,Prolactin
+OA,17.74,Prolactin
+OA,21.0,Prolactin
+OA,7.18,Prolactin
+OA,13.81,Prolactin
+OA,9.05,Prolactin
+OA,8.7,Prolactin
+OA,8.29,Prolactin
+OA,12.37,Prolactin
+OA,7.14,Prolactin
+OA,19.5,Prolactin
+OA,7.2,Prolactin
+OA,9.32,Prolactin
+OA,11.7,Prolactin
+OA,17.08,Prolactin
+OA,9.03,Prolactin
+OA,8.98,Prolactin
+OA,14.64,Prolactin
+OA,12.0,Prolactin
+OA,20.31,Prolactin
+OA,8.32,Prolactin
+OA,9.69,Prolactin
+OA,15.5,Prolactin
+OA,33.0,Prolactin
+OA,5.53,Prolactin
+OA,12.0,Prolactin
+OA,29.65,Prolactin
+OA,4.72,Prolactin
+OA,20.6,Prolactin
+OA,6.14,Prolactin
+OA,7.08,Prolactin
+OA,9.03,Prolactin
+OA,8.4,Prolactin
+OA,9.39,Prolactin
+OA,11.2,Prolactin
+OA,8.11,Prolactin
+OA,11.8,Prolactin
+OA,6.86,Prolactin
+OA,15.1,Prolactin
+OA,21.3,Prolactin
+OA,8.19,Prolactin
+OA,19.7,Prolactin
+OA,16.29,Prolactin
+OA,6.67,Prolactin
+OA,14.6,Prolactin
+OA,27.8,Prolactin
+OA,7.69,Prolactin
+OA,10.05,Prolactin
+OA,11.12,Prolactin
+OA,22.8,Prolactin
+OA,7.83,Prolactin
+OA,9.61,Prolactin
+OA,13.29,Prolactin
+OA,14.9,Prolactin
+OA,24.5,Prolactin
+OA,13.9,Prolactin
+OA,9.57,Prolactin
+OA,9.3,Prolactin
+OA,39.1,Prolactin
+OA,9.08,Prolactin
+OA,13.92,Prolactin
+OA,8.12,Prolactin
+OA,14.2,Prolactin
+OA,6.08,Prolactin
+OA,12.0,Prolactin
+OA,6.79,Prolactin
+OA,3.71,Prolactin
+OA,33.9,Prolactin
+OA,24.26,Prolactin
+OA,10.96,Prolactin
+OA,13.5,Prolactin
+OA,10.66,Prolactin
+OA,7.28,Prolactin
+OA,9.65,Prolactin
+OA,13.52,Prolactin
+OA,11.43,Prolactin
+OA,11.3,Prolactin
+OA,26.3,Prolactin
+OA,5.89,Prolactin
+OA,8.03,Prolactin
+OA,14.2,Prolactin
+OA,14.2,Prolactin
+OA,7.72,Prolactin
+OA,9.25,Prolactin
+OA,12.22,Prolactin
+OA,7.19,Prolactin
+OA,30.7,Prolactin
+OA,7.69,Prolactin
+OA,11.64,Prolactin
+OA,9.1,Prolactin
+OA,11.8,Prolactin
+OA,6.55,Prolactin
+OA,9.66,Prolactin
+OA,11.6,Prolactin
+OA,14.1,Prolactin
+OA,16.45,Prolactin
+OA,11.6,Prolactin
+OA,7.86,Prolactin
+OA,9.49,Prolactin
+OA,19.7,Prolactin
+OA,16.8,Prolactin
+OA,4.02,Prolactin
+OA,8.67,Prolactin
+OA,9.22,Prolactin
+OA,8.43,Prolactin
+OA,10.5,Prolactin
+OA,8.13,Prolactin
+OA,11.8,Prolactin
+OA,21.66,Prolactin
+OA,7.19,Prolactin
+OA,8.77,Prolactin
+OA,9.35,Prolactin
+OA,11.0,Prolactin
+OA,13.7,Prolactin
+OA,4.36,Prolactin
+OA,9.89,Prolactin
+OA,8.8,Prolactin
+OA,22.98,Prolactin
+OA,10.5,Prolactin
+OA,7.33,Prolactin
+OA,20.35,Prolactin
+OA,12.8,Prolactin
+OA,10.46,Prolactin
+OA,15.7,Prolactin
+OA,24.8,Prolactin
+OA,9.5,Prolactin
+OA,5.0,Prolactin
+OA,10.7,Prolactin
+OA,14.7,Prolactin
+OA,6.58,Prolactin
+OA,19.8,Prolactin
+OA,11.7,Prolactin
+OA,8.88,Prolactin
+OA,15.17,Prolactin
+OA,7.97,Prolactin
+OA,9.9,Prolactin
+OA,8.98,Prolactin
+OA,21.2,Prolactin
+OA,32.22,Prolactin
+OA,9.3,Prolactin
+OA,3.59,Prolactin
+OA,24.44,Prolactin
+OA,8.86,Prolactin
+OA,11.85,Prolactin
+OA,39.6,Prolactin
+OA,13.0,Prolactin
+OA,14.74,Prolactin
+OA,18.1,Prolactin
+OA,9.41,Prolactin
+OA,30.4,Prolactin
+OA,20.61,Prolactin
+OA,7.04,Prolactin
+OA,11.86,Prolactin
+OA,5.61,Prolactin
+OA,8.57,Prolactin
+OA,10.4,Prolactin
+OA,8.08,Prolactin
+OA,12.4,Prolactin
+OA,7.5,Prolactin
+OA,19.8,Prolactin
+OA,12.2,Prolactin
+OA,5.74,Prolactin
+OA,13.4,Prolactin
+OA,17.0,Prolactin
+OA,41.9,Prolactin
+OA,11.07,Prolactin
+OA,6.23,Prolactin

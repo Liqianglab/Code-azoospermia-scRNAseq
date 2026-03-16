@@ -1,0 +1,10 @@
+file,comparison,lfc_column,p_column,up_log2fc_gt_0.5_p_lt_0.05,down_log2fc_lt_-0.5_p_lt_0.05,delta_vs_panelE_up124,delta_vs_panelE_down513,abs_total_delta
+原来作图的数据/汇总/20.LCs_STs_Myeloid_Lym_ECs_diff/LCs/Diff/P20073103/P20073103_iNOA_BvsCtrl.diffexpressed.xls,iNOA_BvsCtrl,avg_logFC,p_val_adj,124,355,0,-158,158
+原来作图的数据/汇总/12.非生殖细胞组间差异分析/Diff/LCs/P20073103_CtrlvsAZFc_Del.diffexpressed.xls,CtrlvsAZFc_Del,avg_logFC,p_val_adj,107,242,-17,-271,288
+原来作图的数据/汇总/12.非生殖细胞组间差异分析/Diff/LCs/P20073103_CtrlvsKS.diffexpressed.xls,CtrlvsKS,avg_logFC,p_val_adj,303,642,179,129,308
+原来作图的数据/汇总/12.非生殖细胞组间差异分析/Diff/LCs/P20073103_CtrlvsOA.diffexpressed.xls,CtrlvsOA,avg_logFC,p_val_adj,102,184,-22,-329,351
+原来作图的数据/汇总/20.LCs_STs_Myeloid_Lym_ECs_diff/LCs/Diff/P20073103/P20073103_OAvsCtrl.diffexpressed.xls,OAvsCtrl,avg_logFC,p_val_adj,179,79,55,-434,489
+原来作图的数据/汇总/20.LCs_STs_Myeloid_Lym_ECs_diff/LCs/Diff/P20073103/P20073103_AZFc_DelvsCtrl.diffexpressed.xls,AZFc_DelvsCtrl,avg_logFC,p_val_adj,232,106,108,-407,515
+原来作图的数据/汇总/20.LCs_STs_Myeloid_Lym_ECs_diff/LCs/Diff/P20073103/P20073103_iNOA_SvsCtrl.diffexpressed.xls,iNOA_SvsCtrl,avg_logFC,p_val_adj,317,177,193,-336,529
+原来作图的数据/汇总/12.非生殖细胞组间差异分析/Diff/LCs/P20073103_CtrlvsiNOA_B.diffexpressed.xls,CtrlvsiNOA_B,avg_logFC,p_val_adj,354,135,230,-378,608
+原来作图的数据/汇总/20.LCs_STs_Myeloid_Lym_ECs_diff/LCs/Diff/P20073103/P20073103_KSvsCtrl.diffexpressed.xls,KSvsCtrl,avg_logFC,p_val_adj,639,298,515,-215,730

@@ -1,0 +1,7 @@
+panel,status,note
+A,available,可导出细胞拟时序与阶段差异基因列表。
+B,partial,目标regulon中在aucell检测到 5/13 个：ELF1;ELK4;FOS;FOSB;SMAD1。
+C,available,已定位并导出cell-level glycolysis score表（ST_a/ST_b/ST_c）。
+D,available,已定位并导出ST1-diseasevsctrl.csv（疾病vs对照，按group通路富集气泡图原始表）。
+E,available,已定位并导出cell-level inflammatory/immune score表（ST_a/ST_b/ST_c）。
+F,available,已定位并导出ST3-diseasevsctrl.csv（疾病vs对照，按group通路富集气泡图原始表）。

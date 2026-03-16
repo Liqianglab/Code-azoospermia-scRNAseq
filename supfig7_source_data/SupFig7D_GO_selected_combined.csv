@@ -1,0 +1,11 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Downregulated in OA,1,Supramolecular fiber organization,regulation of supramolecular fiber organization,contains,True,8.09011242735397e-10,9.092045443005754,25,25/281,383/18723
+Downregulated in OA,2,Actin filament organization,actin filament organization,exact,True,1.47128729636879e-08,7.832302514869421,25,25/281,442/18723
+Downregulated in OA,3,Actin cytoskeleton organization,regulation of actin cytoskeleton organization,contains,True,2.59143880422551e-08,7.586459042391101,22,22/281,358/18723
+Downregulated in OA,4,Actin filament-based process,regulation of actin filament-based process,contains,True,3.67564269419188e-08,7.434666712596815,23,23/281,397/18723
+Downregulated in OA,5,Cell-substrate adhesion,cell-substrate adhesion,exact,True,2.6527040817e-06,5.576311194364712,19,19/281,363/18723
+Upregulated in OA,1,Cellular respiration,cellular respiration,exact,True,1.54898368310498e-08,7.809953157046986,22,22/426,230/18723
+Upregulated in OA,2,ATP metabolic process,ATP metabolic process,exact,True,2.37062049711432e-08,7.625137964874942,24,24/426,277/18723
+Upregulated in OA,3,Aerobic respiration,aerobic respiration,exact,True,6.77496288460248e-08,7.169093079650087,19,19/426,189/18723
+Upregulated in OA,4,Oxidative phosphorylation,oxidative phosphorylation,exact,True,4.210442723e-06,5.3756722362196845,14,14/426,141/18723
+Upregulated in OA,5,Aerobic electron transport chain,aerobic electron transport chain,exact,True,6.26429657546554e-07,6.203127689321898,12,12/426,87/18723

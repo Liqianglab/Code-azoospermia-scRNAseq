@@ -1,0 +1,211 @@
+pathway,celltype,expression_zscore,pathway_rank,celltype_rank
+Oxidative phosphorylation,SSCs,-0.377412780903805,1,1
+Oxidative phosphorylation,Early_primary_SPCs,-0.550735129698817,1,2
+Oxidative phosphorylation,SPGs,0.78297482069048,1,3
+Oxidative phosphorylation,Late_primary_SPCs,1.1703182360014,1,4
+Oxidative phosphorylation,Round_Spermatids,0.122864992869272,1,5
+Oxidative phosphorylation,Elongated_Spermatids,0.629634540272096,1,6
+Oxidative phosphorylation,Sperm,-1.77764467923062,1,7
+Citrate cycle (TCA cycle),SSCs,0.0130266114844736,2,1
+Citrate cycle (TCA cycle),Early_primary_SPCs,-0.105808149207121,2,2
+Citrate cycle (TCA cycle),SPGs,1.02678929557679,2,3
+Citrate cycle (TCA cycle),Late_primary_SPCs,-0.0300117007445052,2,4
+Citrate cycle (TCA cycle),Round_Spermatids,0.211438372176285,2,5
+Citrate cycle (TCA cycle),Elongated_Spermatids,0.902870820193551,2,6
+Citrate cycle (TCA cycle),Sperm,-2.01830524947948,2,7
+Propanoate metabolism,SSCs,-0.324694186022764,3,1
+Propanoate metabolism,Early_primary_SPCs,-0.544460261768181,3,2
+Propanoate metabolism,SPGs,-0.636420740846188,3,3
+Propanoate metabolism,Late_primary_SPCs,1.20621765072217,3,4
+Propanoate metabolism,Round_Spermatids,0.698239059306199,3,5
+Propanoate metabolism,Elongated_Spermatids,1.05973621467975,3,6
+Propanoate metabolism,Sperm,-1.45861773607099,3,7
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,SSCs,-0.373382557342561,4,1
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Early_primary_SPCs,1.66010135766274,4,2
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,SPGs,0.432533724775237,4,3
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Late_primary_SPCs,0.717198345998093,4,4
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Round_Spermatids,-0.789956335537509,4,5
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Elongated_Spermatids,-0.362982714654162,4,6
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Sperm,-1.28351182090184,4,7
+Pyruvate metabolism,SSCs,-0.832112341838547,5,1
+Pyruvate metabolism,Early_primary_SPCs,-0.448257591139579,5,2
+Pyruvate metabolism,SPGs,-0.735905521993325,5,3
+Pyruvate metabolism,Late_primary_SPCs,1.04923851837363,5,4
+Pyruvate metabolism,Round_Spermatids,0.741972640925068,5,5
+Pyruvate metabolism,Elongated_Spermatids,1.31426951688418,5,6
+Pyruvate metabolism,Sperm,-1.08920522121143,5,7
+Lysine degradation,SSCs,1.02278012548112,6,1
+Lysine degradation,Early_primary_SPCs,1.06865202643591,6,2
+Lysine degradation,SPGs,0.531591729558665,6,3
+Lysine degradation,Late_primary_SPCs,0.0753825538604309,6,4
+Lysine degradation,Round_Spermatids,-0.879959215845373,6,5
+Lysine degradation,Elongated_Spermatids,-0.168977705209063,6,6
+Lysine degradation,Sperm,-1.64946951428168,6,7
+Pyrimidine metabolism,SSCs,0.424966758756755,7,1
+Pyrimidine metabolism,Early_primary_SPCs,0.447529135264422,7,2
+Pyrimidine metabolism,SPGs,1.63178710908047,7,3
+Pyrimidine metabolism,Late_primary_SPCs,0.290150150252556,7,4
+Pyrimidine metabolism,Round_Spermatids,-0.896251600952281,7,5
+Pyrimidine metabolism,Elongated_Spermatids,-0.583446746549517,7,6
+Pyrimidine metabolism,Sperm,-1.3147348058524,7,7
+N-Glycan biosynthesis,SSCs,0.272885006530112,8,1
+N-Glycan biosynthesis,Early_primary_SPCs,0.665183978873623,8,2
+N-Glycan biosynthesis,SPGs,1.09412279644731,8,3
+N-Glycan biosynthesis,Late_primary_SPCs,0.769502912428895,8,4
+N-Glycan biosynthesis,Round_Spermatids,-0.801523455268454,8,5
+N-Glycan biosynthesis,Elongated_Spermatids,-0.275157250806858,8,6
+N-Glycan biosynthesis,Sperm,-1.72501398820462,8,7
+Fatty acid elongation,SSCs,1.06524451442674,9,1
+Fatty acid elongation,Early_primary_SPCs,0.521270470370647,9,2
+Fatty acid elongation,SPGs,0.969968610227519,9,3
+Fatty acid elongation,Late_primary_SPCs,0.161248260436966,9,4
+Fatty acid elongation,Round_Spermatids,-0.973447777274772,9,5
+Fatty acid elongation,Elongated_Spermatids,-0.111278363034254,9,6
+Fatty acid elongation,Sperm,-1.63300571515285,9,7
+Thiamine metabolism,SSCs,-0.173802929091771,10,1
+Thiamine metabolism,Early_primary_SPCs,-1.49075656983599,10,2
+Thiamine metabolism,SPGs,0.071430302352311,10,3
+Thiamine metabolism,Late_primary_SPCs,0.131539249250315,10,4
+Thiamine metabolism,Round_Spermatids,-0.852204238646847,10,5
+Thiamine metabolism,Elongated_Spermatids,0.755674774778285,10,6
+Thiamine metabolism,Sperm,1.5581194111937,10,7
+Cysteine and methionine metabolism,SSCs,-0.189122861880426,11,1
+Cysteine and methionine metabolism,Early_primary_SPCs,-0.648487189958143,11,2
+Cysteine and methionine metabolism,SPGs,0.302058715521694,11,3
+Cysteine and methionine metabolism,Late_primary_SPCs,0.958148834788297,11,4
+Cysteine and methionine metabolism,Round_Spermatids,0.279558766560366,11,5
+Cysteine and methionine metabolism,Elongated_Spermatids,1.09973947078976,11,6
+Cysteine and methionine metabolism,Sperm,-1.80189573582155,11,7
+Purine metabolism,SSCs,0.607455096004283,12,1
+Purine metabolism,Early_primary_SPCs,0.263386188028821,12,2
+Purine metabolism,SPGs,1.71985275082558,12,3
+Purine metabolism,Late_primary_SPCs,0.0643676720989427,12,4
+Purine metabolism,Round_Spermatids,-0.843745809477655,12,5
+Purine metabolism,Elongated_Spermatids,-0.554054685588613,12,6
+Purine metabolism,Sperm,-1.25726121189136,12,7
+Riboflavin metabolism,SSCs,0.311967488320889,13,1
+Riboflavin metabolism,Early_primary_SPCs,-0.106625580763993,13,2
+Riboflavin metabolism,SPGs,0.457950605410987,13,3
+Riboflavin metabolism,Late_primary_SPCs,-0.707163435486588,13,4
+Riboflavin metabolism,Round_Spermatids,-1.21264370375285,13,5
+Riboflavin metabolism,Elongated_Spermatids,-0.580376033873032,13,6
+Riboflavin metabolism,Sperm,1.83689066014458,13,7
+Lipoic acid metabolism,SSCs,-0.631649900851977,14,1
+Lipoic acid metabolism,Early_primary_SPCs,-0.686459655089376,14,2
+Lipoic acid metabolism,SPGs,-1.154888746589,14,3
+Lipoic acid metabolism,Late_primary_SPCs,0.495550992028764,14,4
+Lipoic acid metabolism,Round_Spermatids,1.02009019365839,14,5
+Lipoic acid metabolism,Elongated_Spermatids,1.49149700567819,14,6
+Lipoic acid metabolism,Sperm,-0.534139888834989,14,7
+Biosynthesis of unsaturated fatty acids,SSCs,0.82689278825398,15,1
+Biosynthesis of unsaturated fatty acids,Early_primary_SPCs,0.68708449816649,15,2
+Biosynthesis of unsaturated fatty acids,SPGs,0.81695995457657,15,3
+Biosynthesis of unsaturated fatty acids,Late_primary_SPCs,0.611291870713915,15,4
+Biosynthesis of unsaturated fatty acids,Round_Spermatids,-1.37277197151828,15,5
+Biosynthesis of unsaturated fatty acids,Elongated_Spermatids,-0.198656412724429,15,6
+Biosynthesis of unsaturated fatty acids,Sperm,-1.37080072746824,15,7
+Drug metabolism - other enzymes,SSCs,0.26012341431519,16,1
+Drug metabolism - other enzymes,Early_primary_SPCs,0.856897475372835,16,2
+Drug metabolism - other enzymes,SPGs,1.50208757373302,16,3
+Drug metabolism - other enzymes,Late_primary_SPCs,0.214217609854493,16,4
+Drug metabolism - other enzymes,Round_Spermatids,-0.650445111312067,16,5
+Drug metabolism - other enzymes,Elongated_Spermatids,-0.87890486913201,16,6
+Drug metabolism - other enzymes,Sperm,-1.30397609283146,16,7
+Fatty acid degradation,SSCs,1.37878706825953,17,1
+Fatty acid degradation,Early_primary_SPCs,-0.924320755281908,17,2
+Fatty acid degradation,SPGs,1.50625292141574,17,3
+Fatty acid degradation,Late_primary_SPCs,-0.50143313961091,17,4
+Fatty acid degradation,Round_Spermatids,-0.391247562600151,17,5
+Fatty acid degradation,Elongated_Spermatids,-0.555426001342588,17,6
+Fatty acid degradation,Sperm,-0.512612530839714,17,7
+Glyoxylate and dicarboxylate metabolism,SSCs,0.375338822342261,18,1
+Glyoxylate and dicarboxylate metabolism,Early_primary_SPCs,-0.741999777808006,18,2
+Glyoxylate and dicarboxylate metabolism,SPGs,1.19483567050166,18,3
+Glyoxylate and dicarboxylate metabolism,Late_primary_SPCs,-0.826972208607836,18,4
+Glyoxylate and dicarboxylate metabolism,Round_Spermatids,-0.93827155058479,18,5
+Glyoxylate and dicarboxylate metabolism,Elongated_Spermatids,-0.500392483806904,18,6
+Glyoxylate and dicarboxylate metabolism,Sperm,1.43746152796361,18,7
+Terpenoid backbone biosynthesis,SSCs,-1.63899663752195,19,1
+Terpenoid backbone biosynthesis,Early_primary_SPCs,-0.406699727548559,19,2
+Terpenoid backbone biosynthesis,SPGs,0.584255572556124,19,3
+Terpenoid backbone biosynthesis,Late_primary_SPCs,0.14631334867454,19,4
+Terpenoid backbone biosynthesis,Round_Spermatids,1.23599895575434,19,5
+Terpenoid backbone biosynthesis,Elongated_Spermatids,0.831618253028652,19,6
+Terpenoid backbone biosynthesis,Sperm,-0.752489764943143,19,7
+"Valine, leucine and isoleucine degradation",SSCs,1.42616376803763,20,1
+"Valine, leucine and isoleucine degradation",Early_primary_SPCs,0.0392337298278553,20,2
+"Valine, leucine and isoleucine degradation",SPGs,1.38485606538401,20,3
+"Valine, leucine and isoleucine degradation",Late_primary_SPCs,-0.701869617212723,20,4
+"Valine, leucine and isoleucine degradation",Round_Spermatids,-0.807957546095437,20,5
+"Valine, leucine and isoleucine degradation",Elongated_Spermatids,-0.632111515881506,20,6
+"Valine, leucine and isoleucine degradation",Sperm,-0.708314884059834,20,7
+Steroid biosynthesis,SSCs,-0.839537288582202,21,1
+Steroid biosynthesis,Early_primary_SPCs,0.664178022804887,21,2
+Steroid biosynthesis,SPGs,1.54282966756139,21,3
+Steroid biosynthesis,Late_primary_SPCs,0.510578479366876,21,4
+Steroid biosynthesis,Round_Spermatids,-0.5324256531825,21,5
+Steroid biosynthesis,Elongated_Spermatids,0.0428010313805383,21,6
+Steroid biosynthesis,Sperm,-1.38842425934899,21,7
+Amino sugar and nucleotide sugar metabolism,SSCs,0.506044072807948,22,1
+Amino sugar and nucleotide sugar metabolism,Early_primary_SPCs,-1.21722301979359,22,2
+Amino sugar and nucleotide sugar metabolism,SPGs,0.138615082630615,22,3
+Amino sugar and nucleotide sugar metabolism,Late_primary_SPCs,-0.656343592258316,22,4
+Amino sugar and nucleotide sugar metabolism,Round_Spermatids,0.160100801655009,22,5
+Amino sugar and nucleotide sugar metabolism,Elongated_Spermatids,1.80237027592402,22,6
+Amino sugar and nucleotide sugar metabolism,Sperm,-0.733563620965679,22,7
+Phosphonate and phosphinate metabolism,SSCs,-1.14005820734807,23,1
+Phosphonate and phosphinate metabolism,Early_primary_SPCs,-0.523633694145726,23,2
+Phosphonate and phosphinate metabolism,SPGs,-1.29852766453912,23,3
+Phosphonate and phosphinate metabolism,Late_primary_SPCs,0.201930385819519,23,4
+Phosphonate and phosphinate metabolism,Round_Spermatids,1.17319706711776,23,5
+Phosphonate and phosphinate metabolism,Elongated_Spermatids,0.615637349756821,23,6
+Phosphonate and phosphinate metabolism,Sperm,0.971454763338814,23,7
+Porphyrin and chlorophyll metabolism,SSCs,0.719996911452935,24,1
+Porphyrin and chlorophyll metabolism,Early_primary_SPCs,0.211642687455218,24,2
+Porphyrin and chlorophyll metabolism,SPGs,1.62001939511859,24,3
+Porphyrin and chlorophyll metabolism,Late_primary_SPCs,0.152342175973625,24,4
+Porphyrin and chlorophyll metabolism,Round_Spermatids,-1.16397148108798,24,5
+Porphyrin and chlorophyll metabolism,Elongated_Spermatids,-0.417548171526488,24,6
+Porphyrin and chlorophyll metabolism,Sperm,-1.12248151738589,24,7
+Glutathione metabolism,SSCs,-0.443194257642948,25,1
+Glutathione metabolism,Early_primary_SPCs,-1.57525584999747,25,2
+Glutathione metabolism,SPGs,-0.38513431477895,25,3
+Glutathione metabolism,Late_primary_SPCs,-0.449795774979716,25,4
+Glutathione metabolism,Round_Spermatids,0.836482743916902,25,5
+Glutathione metabolism,Elongated_Spermatids,0.663584893011749,25,6
+Glutathione metabolism,Sperm,1.35331256047043,25,7
+Pentose phosphate pathway,SSCs,0.471173826855744,26,1
+Pentose phosphate pathway,Early_primary_SPCs,-0.411125053696815,26,2
+Pentose phosphate pathway,SPGs,1.94971658328039,26,3
+Pentose phosphate pathway,Late_primary_SPCs,-0.4864604213172,26,4
+Pentose phosphate pathway,Round_Spermatids,-0.407795753196535,26,5
+Pentose phosphate pathway,Elongated_Spermatids,0.0677272931381579,26,6
+Pentose phosphate pathway,Sperm,-1.18323647506374,26,7
+Glycolysis / Gluconeogenesis,SSCs,-0.518359881282076,27,1
+Glycolysis / Gluconeogenesis,Early_primary_SPCs,-1.61049824293182,27,2
+Glycolysis / Gluconeogenesis,SPGs,-0.571540354902305,27,3
+Glycolysis / Gluconeogenesis,Late_primary_SPCs,0.0627434145040962,27,4
+Glycolysis / Gluconeogenesis,Round_Spermatids,1.43668749172883,27,5
+Glycolysis / Gluconeogenesis,Elongated_Spermatids,0.704816967157658,27,6
+Glycolysis / Gluconeogenesis,Sperm,0.496150605725616,27,7
+Synthesis and degradation of ketone bodies,SSCs,-1.80553227350863,28,1
+Synthesis and degradation of ketone bodies,Early_primary_SPCs,-0.451539899489784,28,2
+Synthesis and degradation of ketone bodies,SPGs,-0.616370022467946,28,3
+Synthesis and degradation of ketone bodies,Late_primary_SPCs,0.94460203711384,28,4
+Synthesis and degradation of ketone bodies,Round_Spermatids,0.564721761777743,28,5
+Synthesis and degradation of ketone bodies,Elongated_Spermatids,0.767673879296374,28,6
+Synthesis and degradation of ketone bodies,Sperm,0.596444517278401,28,7
+Inositol phosphate metabolism,SSCs,1.34429073102939,29,1
+Inositol phosphate metabolism,Early_primary_SPCs,0.501783426889161,29,2
+Inositol phosphate metabolism,SPGs,0.0473159137869047,29,3
+Inositol phosphate metabolism,Late_primary_SPCs,-0.625184008982974,29,4
+Inositol phosphate metabolism,Round_Spermatids,-0.365404882081598,29,5
+Inositol phosphate metabolism,Elongated_Spermatids,-1.6775645818913,29,6
+Inositol phosphate metabolism,Sperm,0.774763401250415,29,7
+Butanoate metabolism,SSCs,-1.16518678912465,30,1
+Butanoate metabolism,Early_primary_SPCs,-0.522061795926138,30,2
+Butanoate metabolism,SPGs,-0.974625546645634,30,3
+Butanoate metabolism,Late_primary_SPCs,1.24008071109244,30,4
+Butanoate metabolism,Round_Spermatids,0.51024180282866,30,5
+Butanoate metabolism,Elongated_Spermatids,1.23239869942002,30,6
+Butanoate metabolism,Sperm,-0.3208470816447,30,7

@@ -1,0 +1,33 @@
+reaction_rank,reaction_label
+1,Fatty Acid -> Acetyl-CoA
+2,Acetyl-CoA -> Fatty Acid
+3,"(E,E)-Farnesyl-PP -> Cholesterol"
+4,AICAR -> IMP
+5,dTMP -> dTTP
+6,Cholesterol -> Steroid_hormone
+7,Succinyl-CoA -> Succinate
+8,5-Phosphoribosylamine -> AICAR
+9,Glucose-6-phosphate -> UDP-N-acetylglucosamine
+10,IMP -> XMP
+11,Glycine -> Glycine-OUT
+12,UDP-N-acetylglucosamine -> CMP-N-acetylneuraminate
+13,UTP -> CDP
+14,(Glc)3 (GlcNAc)2 (Man)9 (PP-Dol)1+Protein asparagine -> (Glc)3 (GlcNAc)2 (Man)9 (Asn)1
+15,Ornithine -> Putrescine
+16,Succinate -> Fumarate
+17,Aspartate -> Asparagine
+18,Glutathione -> glutamate
+19,"Acetyl-CoA -> (E,E)-Farnesyl-PP"
+20,GMP -> Guanine
+21,XMP -> Xanthine
+22,Isoleucine -> Succinyl-CoA
+23,Methionine -> Methionine-OUT
+24,Xanthine -> Uric acid
+25,Acetyl-CoA+Oxaloacetate -> Citrate
+26,Choline -> Glycine
+27,Fumarate -> Malate
+28,Glutamate -> 2OG
+29,ADP -> Deoxyadenosine
+30,2OG -> Succinyl-CoA
+31,G3P -> 3PD
+32,Cholesterol -> Chenodeoxycholate

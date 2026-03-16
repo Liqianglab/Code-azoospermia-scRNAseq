@@ -1,0 +1,25 @@
+group,somatic_celltype,n_cells
+AZFc_Del,Endothelial cells,885
+AZFc_Del,Immune cells,1854
+AZFc_Del,Leydig cells,981
+AZFc_Del,Sertoli cells,5445
+Ctrl,Endothelial cells,251
+Ctrl,Immune cells,929
+Ctrl,Leydig cells,205
+Ctrl,Sertoli cells,728
+KS,Endothelial cells,878
+KS,Immune cells,4705
+KS,Leydig cells,3417
+KS,Sertoli cells,354
+OA,Endothelial cells,34
+OA,Immune cells,85
+OA,Leydig cells,78
+OA,Sertoli cells,743
+iNOA_B,Endothelial cells,180
+iNOA_B,Immune cells,412
+iNOA_B,Leydig cells,1097
+iNOA_B,Sertoli cells,372
+iNOA_S,Endothelial cells,546
+iNOA_S,Immune cells,6947
+iNOA_S,Leydig cells,5367
+iNOA_S,Sertoli cells,4926

@@ -1,0 +1,71 @@
+celltype,group,n_cells
+ECs,All samples,2774
+LCs,All samples,11145
+Lym,All samples,446
+Myeloid,All samples,4714
+Myoid,All samples,9772
+SPCs,All samples,19464
+SPGs,All samples,4303
+SSCs,All samples,10167
+STs,All samples,12568
+Spermatids,All samples,29454
+ECs,Ctrl,251
+LCs,Ctrl,205
+Lym,Ctrl,24
+Myeloid,Ctrl,447
+Myoid,Ctrl,458
+SPCs,Ctrl,4816
+SPGs,Ctrl,557
+SSCs,Ctrl,4201
+STs,Ctrl,728
+Spermatids,Ctrl,9664
+ECs,iNOA_B,180
+LCs,iNOA_B,1097
+Lym,iNOA_B,44
+Myeloid,iNOA_B,171
+Myoid,iNOA_B,197
+SPCs,iNOA_B,1928
+SPGs,iNOA_B,655
+SSCs,iNOA_B,1981
+STs,iNOA_B,372
+Spermatids,iNOA_B,0
+ECs,iNOA_S,546
+LCs,iNOA_S,5367
+Lym,iNOA_S,179
+Myeloid,iNOA_S,2556
+Myoid,iNOA_S,4212
+SPCs,iNOA_S,0
+SPGs,iNOA_S,0
+SSCs,iNOA_S,1
+STs,iNOA_S,4926
+Spermatids,iNOA_S,0
+ECs,OA,34
+LCs,OA,78
+Lym,OA,7
+Myeloid,OA,23
+Myoid,OA,55
+SPCs,OA,4907
+SPGs,OA,1146
+SSCs,OA,1408
+STs,OA,743
+Spermatids,OA,9718
+ECs,AZFc_Del,885
+LCs,AZFc_Del,981
+Lym,AZFc_Del,76
+Myeloid,AZFc_Del,1106
+Myoid,AZFc_Del,672
+SPCs,AZFc_Del,4932
+SPGs,AZFc_Del,1041
+SSCs,AZFc_Del,1449
+STs,AZFc_Del,5445
+Spermatids,AZFc_Del,5692
+ECs,KS,878
+LCs,KS,3417
+Lym,KS,116
+Myeloid,KS,411
+Myoid,KS,4178
+SPCs,KS,2881
+SPGs,KS,904
+SSCs,KS,1127
+STs,KS,354
+Spermatids,KS,4380

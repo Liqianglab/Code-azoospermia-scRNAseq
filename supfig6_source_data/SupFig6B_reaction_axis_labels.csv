@@ -1,0 +1,51 @@
+reaction_rank,reaction_label
+1,GABA -> Succinate
+2,Glutamate -> GABA
+3,Glutamate -> Glutamine
+4,Propanoyl-CoA -> Acetyl-CoA
+5,Propanoyl-CoA -> Succinate
+6,Pyrimidine -> B-Alanine
+7,B-Alanine -> Acetyl-CoA
+8,Histidine -> B-Alanine
+9,Spermine -> B-Alanine
+10,Aspartate -> B-Alanine
+11,Aspartate -> Oxaloacetate
+12,Aspartate -> Fumarate
+13,Aspartate -> Asparagine
+14,Aspartate -> Aspartate-OUT
+15,Aspartate -> Pyrimidine
+16,Fatty Acid -> Acetyl-CoA
+17,Acetyl-CoA -> Fatty Acid
+18,G3P -> PRPP
+19,Threonine -> Propanoyl-CoA
+20,Methionine -> Methionine-OUT
+21,Methionine -> Cysteine
+22,Cysteine -> Pyruvate
+23,Serine -> Methionine
+24,Serine -> 2-Aminoacrylate
+25,Glutamate + Cysteine -> Glutathione
+26,Glutathione -> glutamate
+27,Glutathione -> Glycine + Cysteine
+28,Glycine -> Glutathione
+29,Glycine -> Glycine-OUT
+30,Choline -> Glycine
+31,Glycine -> Glyoxylate
+32,Glycine -> Creatine
+33,Serine -> Glycine
+34,Serine -> Cysteine
+35,Serine -> Pyruvate
+36,3PD -> Serine
+37,Pyruvate -> Oxaloacetate
+38,Malate -> Oxaloacetate
+39,Fumarate -> Malate
+40,Succinate -> Fumarate
+41,Succinyl-CoA -> Succinate
+42,2OG -> Succinyl-CoA
+43,Citrate -> 2OG
+44,Acetyl-CoA+Oxaloacetate -> Citrate
+45,Pyruvate -> Lactate
+46,Pyruvate -> Acetyl-Coa
+47,3PD -> Pyruvate
+48,G3P -> 3PD
+49,G6P -> G3P
+50,Glucose -> G6P

@@ -1,0 +1,78 @@
+Figure 8 source data (Panels A-J)
+
+Generated files:
+- Fig8A_ctrl_oa_umap_cells.csv
+- Fig8A_group_celltype_counts_long.csv
+- Fig8A_legend_celltype_counts.csv
+- Fig8A_legend_group_counts.csv
+- Fig8A_source_note.csv
+- Fig8B_germ_composition_input.csv
+- Fig8B_germ_composition_percent_long.csv
+- Fig8B_germ_composition_percent_wide.csv
+- Fig8B_subgroup_counts_from_integration_summary.csv
+- Fig8CD_ctrlvsOA_diff_file_registry.csv
+- Fig8CD_overlap_matrix_down_in_OA.csv
+- Fig8CD_overlap_matrix_up_in_OA.csv
+- Fig8CD_panel_numbers_extracted_from_heatmap_pdf.csv
+- Fig8CD_set_size_summary_from_diff.csv
+- Fig8CD_source_note.csv
+- Fig8C_up_in_OA_genes_from_diff_long.csv
+- Fig8D_down_in_OA_genes_from_diff_long.csv
+- Fig8E_GO_full_down_in_OA_source.csv
+- Fig8E_GO_full_up_in_OA_source.csv
+- Fig8E_GO_selected_combined.csv
+- Fig8E_GO_selected_down_in_OA.csv
+- Fig8E_GO_selected_up_in_OA.csv
+- Fig8F_GO_full_down_in_OA_source.csv
+- Fig8F_GO_full_up_in_OA_source.csv
+- Fig8F_GO_selected_combined.csv
+- Fig8F_GO_selected_down_in_OA.csv
+- Fig8F_GO_selected_up_in_OA.csv
+- Fig8G_archive_dotplot_export.csv
+- Fig8G_archive_heatmap_export.csv
+- Fig8G_archive_scaled_dotplot_export.csv
+- Fig8G_archive_scaled_heatmap_export.csv
+- Fig8G_archive_violin_export.csv
+- Fig8G_candidate_ctrl_oa_expression_matrix.csv
+- Fig8G_candidate_ctrl_oa_expression_zscore.csv
+- Fig8G_candidate_gene_list.csv
+- Fig8G_expression_source_registry.csv
+- Fig8G_gene_coverage_in_expression_source.csv
+- Fig8G_heatmap_export_matrix_from_archive.csv
+- Fig8G_heatmap_pdf_gene_order.csv
+- Fig8G_heatmap_pdf_group_labels.csv
+- Fig8G_source_note.csv
+- Fig8H_archive_gene_presence.csv
+- Fig8H_candidate_group_summary.csv
+- Fig8H_candidate_sample_level_expression.csv
+- Fig8H_direct_csv_required_columns_check.csv
+- Fig8H_per_cell_expression_ctrl_oa_group_gene_summary.csv
+- Fig8H_per_cell_expression_ctrl_oa_long.csv
+- Fig8H_per_cell_expression_group_gene_summary.csv
+- Fig8H_per_cell_expression_long.csv
+- Fig8H_raw_violin_file_registry.csv
+- Fig8H_source_note.csv
+- Fig8I_somatic_composition_input.csv
+- Fig8I_somatic_composition_percent_long.csv
+- Fig8I_somatic_composition_percent_wide.csv
+- Fig8I_somatic_composition_relabel_long.csv
+- Fig8J_LC_immature_score_cells.csv
+- Fig8J_LC_immature_score_summary.csv
+- Fig8J_LC_mature_score_cells.csv
+- Fig8J_LC_mature_score_summary.csv
+- Fig8J_immature_marker_expression_cells.csv
+- Fig8J_mature_marker_expression_cells.csv
+- Fig8J_score_cells_combined_long.csv
+- Fig8J_source_note.csv
+- Fig8_file_mapping.csv
+- Fig8_panels_data_availability.csv
+
+Notes:
+- Panels A/B/I/J: direct count/score source tables are available.
+- Panels C/D: panel-level counts are directly extracted from original summary heatmap PDFs; supporting subtype diff tables are archived (full unpublished row-binning matrix is not present in current folders).
+- Panels E/F: selected GO term bars are mapped to full GOALL enrichment tables.
+- Panel G: OA-CTRL热图.gz is used as primary raw source when available (heatmap/dotplot/violin exports); group labels are supplemented by heatmap_export(1).pdf text.
+- Panel H: if raw_support/fig8h.csv exists, it is used as direct per-cell input; OA-CTRL热图.gz is also checked for four panel-H genes and reported in Fig8H_archive_gene_presence.csv.
+
+Build script:
+- ../fig8_code/fig8_source_data.py

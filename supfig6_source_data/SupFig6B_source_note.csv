@@ -1,0 +1,2 @@
+panel,status,n_reactions_from_pdf,n_celltypes_from_pdf,n_groups_from_pdf,note
+B,partial,50,7,0,Panel B numeric flux matrix (reaction x samples) was not found in current workspace; only final heatmap exports and axis labels extracted from PDF are available.

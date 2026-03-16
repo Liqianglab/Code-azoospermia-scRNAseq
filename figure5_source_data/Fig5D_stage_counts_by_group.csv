@@ -1,0 +1,16 @@
+group,stage,count,group_total
+Ctrl,Stage_a,13,127
+Ctrl,Stage_b,1,127
+Ctrl,Stage_c,113,127
+AZFc_Del,Stage_a,258,632
+AZFc_Del,Stage_b,168,632
+AZFc_Del,Stage_c,206,632
+iNOA_B,Stage_a,269,394
+iNOA_B,Stage_b,31,394
+iNOA_B,Stage_c,94,394
+iNOA_S,Stage_a,3390,4006
+iNOA_S,Stage_b,449,4006
+iNOA_S,Stage_c,167,4006
+KS,Stage_a,3073,3095
+KS,Stage_b,1,3095
+KS,Stage_c,21,3095

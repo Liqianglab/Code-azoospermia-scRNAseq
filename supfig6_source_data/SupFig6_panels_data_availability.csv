@@ -1,0 +1,4 @@
+panel,status,note
+A,available,Numeric matrix and top30 order are available
+B,partial,Only heatmap exports and axis labels are available; raw numeric matrix not located
+C,partial,Only heatmap exports and axis labels are available; raw numeric matrix not located

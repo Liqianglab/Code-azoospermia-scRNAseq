@@ -1,0 +1,10 @@
+condition,interacting_pair,cell_pair,mean_value
+Ctrl,DHH_PTCH_GAS1_transmembrane_receptor,STs|LCs_a,0.292
+Ctrl,DHH_PTCH_CDON_transmembrane_receptor,STs|LCs_a,0.225
+Ctrl,DHH_PTCH_BOC_transmembrane_receptor,STs|LCs_a,0.3
+Ctrl,DHH_HHIP,STs|LCs_a,0.375
+Ctrl,DHH_HHIP,STs|LCs_c,0.172
+Disease,DHH_PTCH_BOC_transmembrane_receptor,STs|LCs_a,0.261
+Disease,DHH_HHIP,STs|LCs_a,0.358
+Disease,DHH_HHIP,STs|LCs_b,0.312
+Disease,DHH_HHIP,STs|LCs_c,0.279

@@ -1,0 +1,19 @@
+group,panel_celltype,n_cells
+Ctrl,SPCs,4816
+Ctrl,SPGs,557
+Ctrl,SSCs,4201
+Ctrl,Spermatids,9664
+Ctrl,Immune cells,471
+Ctrl,Myoid,458
+Ctrl,LCs,205
+Ctrl,ECs,251
+Ctrl,STs,728
+OA,SPCs,4907
+OA,SPGs,1146
+OA,SSCs,1408
+OA,Spermatids,9718
+OA,Immune cells,30
+OA,Myoid,55
+OA,LCs,78
+OA,ECs,34
+OA,STs,743

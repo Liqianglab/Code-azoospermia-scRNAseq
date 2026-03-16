@@ -1,0 +1,16 @@
+group,st_cluster,stage_label_candidate,n_cells
+Ctrl,ST1,Stage_a,39
+Ctrl,ST2,Stage_b,8
+Ctrl,ST3,Stage_c,569
+AZFc_Del,ST1,Stage_a,183
+AZFc_Del,ST2,Stage_b,642
+AZFc_Del,ST3,Stage_c,3791
+iNOA_B,ST1,Stage_a,24
+iNOA_B,ST2,Stage_b,21
+iNOA_B,ST3,Stage_c,316
+iNOA_S,ST1,Stage_a,442
+iNOA_S,ST2,Stage_b,1050
+iNOA_S,ST3,Stage_c,3375
+KS,ST1,Stage_a,1
+KS,ST2,Stage_b,18
+KS,ST3,Stage_c,287

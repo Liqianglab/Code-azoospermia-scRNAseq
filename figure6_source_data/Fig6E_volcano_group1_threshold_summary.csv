@@ -1,0 +1,6 @@
+mode,p_column,p_cutoff,lfc_abs_cutoff,up_count,down_count,target_up,target_down,distance_to_target
+fixed_cutoff,pvals,0.05,0.25,127,872,124,513,
+fixed_cutoff,pvals,0.05,0.5,123,491,124,513,
+exact_target_match,pvals,0.05,0.484637,124,513,124,513,
+best_scan_match,pvals,0.05,0.484637,124,513,124,513,0.0
+adjp_reference,pvals_adj,0.05,0.5,15,178,124,513,

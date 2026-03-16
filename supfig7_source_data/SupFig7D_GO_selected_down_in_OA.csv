@@ -1,0 +1,6 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Downregulated in OA,1,Supramolecular fiber organization,regulation of supramolecular fiber organization,contains,True,8.09011242735397e-10,9.092045443005754,25,25/281,383/18723
+Downregulated in OA,2,Actin filament organization,actin filament organization,exact,True,1.47128729636879e-08,7.832302514869421,25,25/281,442/18723
+Downregulated in OA,3,Actin cytoskeleton organization,regulation of actin cytoskeleton organization,contains,True,2.59143880422551e-08,7.586459042391101,22,22/281,358/18723
+Downregulated in OA,4,Actin filament-based process,regulation of actin filament-based process,contains,True,3.67564269419188e-08,7.434666712596815,23,23/281,397/18723
+Downregulated in OA,5,Cell-substrate adhesion,cell-substrate adhesion,exact,True,2.6527040817e-06,5.576311194364712,19,19/281,363/18723

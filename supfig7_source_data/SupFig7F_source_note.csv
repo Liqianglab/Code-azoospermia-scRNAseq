@@ -1,0 +1,2 @@
+panel,n_top_tokens_oa,n_top_tokens_ctrl,n_union,note
+F,5,5,8,Top regulon labels are extracted from OA/Ctrl RSS PDFs. Full regulon-by-RSS numeric vector is not available in current workspace.

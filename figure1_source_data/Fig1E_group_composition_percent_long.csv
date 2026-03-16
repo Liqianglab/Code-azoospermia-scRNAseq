@@ -1,0 +1,71 @@
+celltype,group,percent
+ECs,All samples,2.647%
+LCs,All samples,10.634%
+Lym,All samples,0.426%
+Myeloid,All samples,4.498%
+Myoid,All samples,9.324%
+SPCs,All samples,18.571%
+SPGs,All samples,4.106%
+SSCs,All samples,9.701%
+STs,All samples,11.992%
+Spermatids,All samples,28.103%
+ECs,Ctrl,1.176%
+LCs,Ctrl,0.960%
+Lym,Ctrl,0.112%
+Myeloid,Ctrl,2.094%
+Myoid,Ctrl,2.145%
+SPCs,Ctrl,22.556%
+SPGs,Ctrl,2.609%
+SSCs,Ctrl,19.676%
+STs,Ctrl,3.410%
+Spermatids,Ctrl,45.263%
+ECs,iNOA_B,2.717%
+LCs,iNOA_B,16.558%
+Lym,iNOA_B,0.664%
+Myeloid,iNOA_B,2.581%
+Myoid,iNOA_B,2.974%
+SPCs,iNOA_B,29.102%
+SPGs,iNOA_B,9.887%
+SSCs,iNOA_B,29.902%
+STs,iNOA_B,5.615%
+Spermatids,iNOA_B,0.000%
+ECs,iNOA_S,3.070%
+LCs,iNOA_S,30.174%
+Lym,iNOA_S,1.006%
+Myeloid,iNOA_S,14.370%
+Myoid,iNOA_S,23.680%
+SPCs,iNOA_S,0.000%
+SPGs,iNOA_S,0.000%
+SSCs,iNOA_S,0.006%
+STs,iNOA_S,27.694%
+Spermatids,iNOA_S,0.000%
+ECs,OA,0.188%
+LCs,OA,0.430%
+Lym,OA,0.039%
+Myeloid,OA,0.127%
+Myoid,OA,0.304%
+SPCs,OA,27.082%
+SPGs,OA,6.325%
+SSCs,OA,7.771%
+STs,OA,4.101%
+Spermatids,OA,53.634%
+ECs,AZFc_Del,3.972%
+LCs,AZFc_Del,4.403%
+Lym,AZFc_Del,0.341%
+Myeloid,AZFc_Del,4.964%
+Myoid,AZFc_Del,3.016%
+SPCs,AZFc_Del,22.137%
+SPGs,AZFc_Del,4.673%
+SSCs,AZFc_Del,6.504%
+STs,AZFc_Del,24.440%
+Spermatids,AZFc_Del,25.549%
+ECs,KS,4.709%
+LCs,KS,18.326%
+Lym,KS,0.622%
+Myeloid,KS,2.204%
+Myoid,KS,22.407%
+SPCs,KS,15.451%
+SPGs,KS,4.848%
+SSCs,KS,6.044%
+STs,KS,1.899%
+Spermatids,KS,23.490%

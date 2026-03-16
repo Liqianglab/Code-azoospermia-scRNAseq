@@ -1,0 +1,2 @@
+panel,note
+A,Heatmap uses donor-level scores row-wise z-scored across all donors; samples ordered by PC1_v2 ascending.

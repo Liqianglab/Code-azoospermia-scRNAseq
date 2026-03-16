@@ -1,0 +1,11 @@
+group,panel_cluster,count,percent
+Ctrl,Immune cells,245,0.1724137931034483
+Ctrl,Sertoli cells,616,0.43349753694581283
+Ctrl,Myoid cells,252,0.17733990147783252
+Ctrl,Leydig cells,130,0.09148486980999296
+Ctrl,Endothelial cells,178,0.12526389866291343
+OA,Immune cells,11,0.013563501849568433
+OA,Sertoli cells,670,0.8261405672009864
+OA,Myoid cells,38,0.0468557336621455
+OA,Leydig cells,66,0.08138101109741061
+OA,Endothelial cells,26,0.032059186189889025

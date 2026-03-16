@@ -1,0 +1,6 @@
+panel,status,note
+A,available,Direct donor-level score table and matching heatmap exports are available.
+B,available,Exact donor-level PCA coordinates are available.
+C,available,Exact rho and p-value can be recomputed from donor-level table.
+D,available,Exact rho and p-value can be recomputed from donor-level table.
+E,available,Spearman matrix and BH-FDR significance stars are directly reproducible from donor-level score table.

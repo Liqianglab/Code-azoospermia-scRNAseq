@@ -1,0 +1,6 @@
+subtype,ECs,LCs,Lym,Myoids,STs
+ECs,114,57,2,59,65
+LCs,57,403,2,84,154
+Lym,2,2,2,2,2
+Myoids,59,84,2,199,92
+STs,65,154,2,92,490

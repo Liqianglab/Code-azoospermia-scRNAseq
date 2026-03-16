@@ -1,0 +1,10 @@
+row_order,score_display,score_column
+1,ST Maturity,ST_Maturity
+2,BTB Integrity,BTB_Integrity
+3,ST Stress IEG,ST_Stress_IEG
+4,ST SASP,ST_SASP
+5,ST Lactate Export,ST_Lactate_Export
+6,ST DHH Ligand,ST_DHH_Ligand
+7,LC Mature,LC_Mature
+8,LC Immature,LC_Immature
+9,Hh Response,Hh_Response

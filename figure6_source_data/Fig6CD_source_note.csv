@@ -1,0 +1,3 @@
+panel,raw_archive,raw_dotplot,raw_heatmap,groups_used,genes,groups_raw_has_oa
+C,fig6c.gz,fig6_source_data/raw_support_fig6c/dotplot_export.csv,fig6_source_data/raw_support_fig6c/heatmap_export.csv,"Ctrl,iNOA_B,iNOA_S,AZFc_Del,KS","GAS1,CDON,BOC,HHIP,DHH",
+D,fig6d.gz,fig6_source_data/raw_support_fig6d/dotplot_export.csv,fig6_source_data/raw_support_fig6d/heatmap_export.csv,"Ctrl,iNOA_B,iNOA_S,AZFc_Del,KS","GAS1,CDON,BOC,HHIP,DHH",True

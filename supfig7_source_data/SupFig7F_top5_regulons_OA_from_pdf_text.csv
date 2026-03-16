@@ -1,0 +1,6 @@
+group,rank_in_pdf_text,token,regulon,n_target_genes
+OA,1,XBP1(46g),XBP1,46
+OA,2,SREBF2(75g),SREBF2,75
+OA,3,ZBTB11(180g),ZBTB11,180
+OA,4,ILF2(325g),ILF2,325
+OA,5,EP300(179g),EP300,179

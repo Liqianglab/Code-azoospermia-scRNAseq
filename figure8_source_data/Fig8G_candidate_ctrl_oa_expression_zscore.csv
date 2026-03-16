@@ -1,0 +1,22 @@
+gene_order,gene,Ctrl_mean,OA_mean,source_table,Ctrl_z,OA_z
+1,FLII,0.285,1.606,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0,1.0
+2,FNDC8,0.125,1.328,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0,1.0
+3,LY6K,0.112,1.639,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0,0.9999999999999999
+4,HSPA1A,0.582,0.22,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,1.0000000000000002,-1.0
+5,HMOX1,0.077,0.036,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,1.0000000000000002,-0.9999999999999998
+6,FTH1,0.683,4.1,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-0.9999999999999999,1.0
+7,CDKN3,8.717,13.996,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0,1.0
+8,ADAM7,0.707,1.602,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0000000000000002,0.9999999999999999
+9,SPA17,1.45,8.892,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-0.9999999999999999,1.0000000000000002
+10,GAPDHS,0.102,4.6,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0000000000000002,1.0
+11,LDHC,6.533,14.284,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-0.9999999999999999,1.0000000000000002
+12,ADGRG2,0.078,0.027,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,1.0000000000000002,-1.0
+13,TSSK1B,0.641,3.656,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0000000000000002,0.9999999999999999
+14,TSSK2,0.0,4.021,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0,1.0
+15,NDUFS7,0.188,2.102,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0000000000000002,0.9999999999999999
+16,NDUFB4,4.516,8.68,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0,1.0
+17,UQCR10,5.02,8.42,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0,1.0
+18,NDUFC1,3.167,6.466,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-0.9999999999999998,1.0000000000000002
+19,ATP5IF1,5.7,12.42,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-1.0000000000000002,0.9999999999999999
+20,COX6C,7.953,11.832,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-0.9999999999999998,1.0000000000000002
+21,COX20,0.077,0.836,/Users/xq/Desktop/睾丸相关/睾丸文章总/最新内容汇总/figure汇总/2025_终版_20250708/251210/source data/fig8_source_data/raw_support/OA-CTRL热图.gz::heatmap_export.csv,-0.9999999999999999,1.0

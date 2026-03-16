@@ -1,0 +1,6 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Downregulated in OA,1,Regulation of RNA splicing,regulation of RNA splicing,exact,True,4.75720911992841e-11,10.322647757212685,35,35/1268,148/18723
+Downregulated in OA,2,RNA splicing,RNA splicing,exact,True,4.59596739445386e-10,9.337623061023569,66,66/1268,434/18723
+Downregulated in OA,3,Regulation of mRNA processing,regulation of mRNA processing,exact,True,4.480312379922e-10,9.348691704719087,32,32/1268,137/18723
+Downregulated in OA,4,Regulation of cell-substrate adhesion,regulation of cell-substrate adhesion,exact,True,7.686118149314229e-11,10.1142929439413,44,44/1268,221/18723
+Downregulated in OA,5,ATP metabolic process,ATP metabolic process,exact,True,3.77022325923906e-08,7.4236329316550345,45,45/1268,277/18723

@@ -1,0 +1,9 @@
+subtype,n_up_in_OA,n_up_in_OA_unique,n_down_in_OA,n_down_in_OA_unique
+Early_primary_SPCs,761,363.0,916,303.0
+Elongated_Spermatids,1540,666.0,1366,569.0
+Late_primary_SPCs,915,230.0,499,111.0
+Round_Spermatids,1828,879.0,1497,899.0
+Sperm,627,91.0,1463,573.0
+SPGs,486,94.0,215,32.0
+SSCs,899,514.0,466,111.0
+Shared_all_7_subtypes,26,,5,

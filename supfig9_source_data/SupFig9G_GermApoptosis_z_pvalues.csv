@@ -1,0 +1,4 @@
+panel,dataset,metric,comparison,n_control,n_group,p_value,star
+G,GSE149512,GermApoptosis_z,AZFa vs Control,26219,9,0.0656099185652203,ns
+G,GSE149512,GermApoptosis_z,iNOA vs Control,26219,22,0.0301465576946905,*
+G,GSE149512,GermApoptosis_z,KS vs Control,26219,560,1.0773454151283356e-19,****

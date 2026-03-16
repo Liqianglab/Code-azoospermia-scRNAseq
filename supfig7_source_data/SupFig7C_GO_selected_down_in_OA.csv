@@ -1,0 +1,6 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Downregulated in OA,1,Protein folding,protein folding,exact,True,3.3439652242e-06,5.475738247685347,14,14/276,212/18723
+Downregulated in OA,2,Response to oxidative stress,response to oxidative stress,exact,True,1.11277903733e-05,4.9535910642324525,20,20/276,446/18723
+Downregulated in OA,3,Cellular oxidant detoxification,cellular oxidant detoxification,exact,True,1.84500560147e-05,4.734002310977106,9,9/276,101/18723
+Downregulated in OA,4,RNA splicing,RNA splicing,exact,True,2.57688333217e-05,4.588905243591805,19,19/276,434/18723
+Downregulated in OA,5,Response to interleukin-7,response to interleukin-7,exact,True,5.54872031135e-05,4.25580716567036,4,4/276,15/18723

@@ -1,0 +1,10 @@
+metric,signature_file,n_genes,genes
+BTB integrity (ST),BTB Integrity Gene Signature .csv,13,"CLDN11, CLDN3, TJP1, TJP2, TJP3, OCLN, F11R, JAM2, JAM3, CDH2, CTNNA1, CTNNB1, JUP"
+ST maturity,ST_Maturity_Score.csv,9,"HOPX, DEFB119, CITED1, FATE1, TSKU, CLDN11, GJA1, SOX9, WT1"
+ST lactate/glycolysis,ST_Lactate_Production_Export_Score.csv,11,"SLC2A1, HK1, HK2, PFKP, ALDOA, GAPDH, PGK1, ENO1, PKM, LDHA, SLC16A3"
+LC maturity (steroidogenesis),LC_Mature_Steroidogenesis_Score.csv,8,"STAR, CYP11A1, HSD3B2, CYP17A1, HSD17B3, INSL3, DHCR7, SCARB1"
+Somatic SASP/inflammation,Inflammation_SASP_Score.csv,11,"CDKN1A, RELA, CDK4, MAPK3, IL6, JUN, FOS, CEBPB, UBB, UBE2E1, FZR1"
+SPC OXPHOS,Germ_OXPHOS_Score.csv,9,"NDUFA1, NDUFA2, NDUFS2, SDHA, SDHB, UQCRC1, COX4I1, ATP5F1A, ATP5F1B"
+Germ apoptosis,Germ_Apoptosis_Score.csv,9,"BAX, BAK1, CASP3, CASP8, CASP9, FAS, TNFRSF10B, PMAIP1, BBC3"
+Cytokine signaling,immune.csv,10,"CXCL1, CXCL2, CXCL8, CCL2, IL6, IL1B, NFKBIA, JUN, FOS, S100A8"
+LC immature/progenitor,LC_Immature_Progenitor_Score.csv,4,"PDGFRB, NOTCH2, DLK1, CYP26B1"

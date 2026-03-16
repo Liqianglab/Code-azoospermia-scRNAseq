@@ -1,0 +1,68 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='724'>
+<defs><linearGradient id='grad' x1='0%' y1='100%' x2='0%' y2='0%'><stop offset='0%' stop-color='#313695'/><stop offset='50%' stop-color='#F7F7F7'/><stop offset='100%' stop-color='#A50026'/></linearGradient></defs>
+<text x='20' y='42' font-family='Arial' font-size='30' font-weight='bold'>Supplementary Figure 4B (proxy)</text>
+<text x='20' y='75' font-family='Arial' font-size='18'>Regulon activity by ST stage (row z-score, available rows from AUC matrix)</text>
+<text x='280.00' y='106' text-anchor='middle' font-family='Arial' font-size='15'>Stage_a</text>
+<text x='400.00' y='106' text-anchor='middle' font-family='Arial' font-size='15'>Stage_b</text>
+<text x='520.00' y='106' text-anchor='middle' font-family='Arial' font-size='15'>Stage_c</text>
+<text x='208' y='144.00' text-anchor='end' font-family='Arial' font-size='14'>NFE2L1 (missing)</text>
+<rect x='220.00' y='120.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='120.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='120.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='182.00' text-anchor='end' font-family='Arial' font-size='14'>JUNB (missing)</text>
+<rect x='220.00' y='158.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='158.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='158.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='220.00' text-anchor='end' font-family='Arial' font-size='14'>ATF6 (missing)</text>
+<rect x='220.00' y='196.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='196.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='196.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='258.00' text-anchor='end' font-family='Arial' font-size='14'>CEBPD (missing)</text>
+<rect x='220.00' y='234.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='234.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='234.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='296.00' text-anchor='end' font-family='Arial' font-size='14'>FOS</text>
+<rect x='220.00' y='272.00' width='120' height='38' fill='#EBD2D8' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='272.00' width='120' height='38' fill='#7275B5' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='272.00' width='120' height='38' fill='#CC768A' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='334.00' text-anchor='end' font-family='Arial' font-size='14'>FOSB</text>
+<rect x='220.00' y='310.00' width='120' height='38' fill='#E3BAC3' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='310.00' width='120' height='38' fill='#6D70B3' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='310.00' width='120' height='38' fill='#D28899' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='372.00' text-anchor='end' font-family='Arial' font-size='14'>ATF3 (missing)</text>
+<rect x='220.00' y='348.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='348.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='348.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='410.00' text-anchor='end' font-family='Arial' font-size='14'>SETDB1 (missing)</text>
+<rect x='220.00' y='386.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='386.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='386.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='448.00' text-anchor='end' font-family='Arial' font-size='14'>RFX3 (missing)</text>
+<rect x='220.00' y='424.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='424.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='424.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='486.00' text-anchor='end' font-family='Arial' font-size='14'>ELF1</text>
+<rect x='220.00' y='462.00' width='120' height='38' fill='#CD788B' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='462.00' width='120' height='38' fill='#EACFD5' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='462.00' width='120' height='38' fill='#7174B5' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='524.00' text-anchor='end' font-family='Arial' font-size='14'>ETV5 (missing)</text>
+<rect x='220.00' y='500.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='500.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='500.00' width='120' height='38' fill='#E6E6E6' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='562.00' text-anchor='end' font-family='Arial' font-size='14'>SMAD1</text>
+<rect x='220.00' y='538.00' width='120' height='38' fill='#AAACD1' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='538.00' width='120' height='38' fill='#BD4963' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='538.00' width='120' height='38' fill='#B8B9D8' stroke='#D0D0D0' stroke-width='1'/>
+<text x='208' y='600.00' text-anchor='end' font-family='Arial' font-size='14'>ELK4</text>
+<rect x='220.00' y='576.00' width='120' height='38' fill='#C96D82' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='340.00' y='576.00' width='120' height='38' fill='#EFDFE3' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='460.00' y='576.00' width='120' height='38' fill='#7579B7' stroke='#D0D0D0' stroke-width='1'/>
+<rect x='220' y='120' width='360' height='494' fill='none' stroke='#333333' stroke-width='1.2'/>
+<text x='656' y='116' font-family='Arial' font-size='14' font-weight='bold'>Matrix (z-score)</text>
+<rect x='660' y='126' width='20' height='220' fill='url(#grad)' stroke='#333333' stroke-width='0.8'/>
+<text x='688' y='132' font-family='Arial' font-size='12'>+2</text>
+<text x='688' y='240.0' font-family='Arial' font-size='12'>0</text>
+<text x='688' y='350' font-family='Arial' font-size='12'>-2</text>
+<rect x='660' y='376' width='18' height='18' fill='#E6E6E6' stroke='#BEBEBE'/>
+<text x='688' y='390' font-family='Arial' font-size='12'>missing regulon</text>
+</svg>

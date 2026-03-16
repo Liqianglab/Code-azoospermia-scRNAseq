@@ -1,0 +1,10 @@
+panel,raw_data_status,plot_code_status,note
+A,available,missing,仅找到原始Monocle轨迹数据文件
+B,available,candidate_found,找到2个热图R脚本但脚本内路径为历史目录需改
+C,available,missing,仅找到marker原始表达数据
+D,available,candidate_found,找到比例图R脚本但cluster命名疑似旧版需核对
+E,available,missing,仅找到marker原始表达数据
+F,available,missing,已找到pyscenic原始矩阵但未找到原始作图脚本
+G,available,missing,已找到BTB cell-level原始分数但未找到原始作图脚本
+H,image_source_only,missing,仅有Figure4 ai/pdf源图文件
+I,image_source_only,missing,仅有Figure4 ai/pdf源图文件

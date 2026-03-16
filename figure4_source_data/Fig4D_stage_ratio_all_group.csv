@@ -1,0 +1,4 @@
+group,st_cluster,stage_label_candidate,n_cells,ratio_in_group
+all_group,ST1,Stage_a,700,0.06132819
+all_group,ST2,Stage_b,1751,0.15340810
+all_group,ST3,Stage_c,8963,0.78526371

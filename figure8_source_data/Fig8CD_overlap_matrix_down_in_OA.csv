@@ -1,0 +1,8 @@
+subtype,Early_primary_SPCs,Elongated_Spermatids,Late_primary_SPCs,Round_Spermatids,Sperm,SPGs,SSCs
+Early_primary_SPCs,916,300,196,172,311,89,104
+Elongated_Spermatids,300,1366,241,177,460,89,160
+Late_primary_SPCs,196,241,499,106,167,89,71
+Round_Spermatids,172,177,106,1497,338,55,174
+Sperm,311,460,167,338,1463,76,194
+SPGs,89,89,89,55,76,215,63
+SSCs,104,160,71,174,194,63,466

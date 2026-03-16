@@ -1,0 +1,11 @@
+panel,status,note
+A,available,cell-level UMAP coordinates and legend counts are available
+B,available,direct input count table and plotting script are available
+C,available,Panel-level counts are directly available from summary DEG heatmap PDFs; supporting subtype diff tables are archived
+D,available,Panel-level counts are directly available from summary DEG heatmap PDFs; supporting subtype diff tables are archived
+E,available,All displayed GO terms were matched in source enrichment tables
+F,available,All displayed GO terms were matched in source enrichment tables
+G,available,direct raw exports from OA-CTRL热图.gz are available (heatmap/dotplot/violin); group labels are taken from panel PDF text
+H,available,direct per-cell input table (fig8h.csv) and raw violin PDFs are available
+I,available,direct input count table and plotting script are available
+J,available,score tables extracted from OA-CTRL.zip

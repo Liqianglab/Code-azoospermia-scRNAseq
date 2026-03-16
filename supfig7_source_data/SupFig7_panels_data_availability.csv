@@ -1,0 +1,8 @@
+panel,status,note
+A,available,Panel-level counts are directly available from original OAvsCtrl heatmap PDF; subtype diff tables are archived as support.
+B,available,Panel-level counts are directly available from original OAvsCtrl heatmap PDF; subtype diff tables are archived as support.
+C,available,All displayed GO terms were matched in source enrichment tables
+D,available,All displayed GO terms were matched in source enrichment tables
+E,available,Direct Ctrl/OA expression and percentage tables are available from compare_by_expression.tar.gz.
+F,partial,Top regulon labels are available from PDF text; full RSS numeric vectors are not located.
+G,partial,"Candidate heatmap exports are located, but exact final 8x2 numeric matrix is not available as a direct table."

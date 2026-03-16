@@ -1,0 +1,2 @@
+panel,pdf_panelA_shared,pdf_panelB_shared,derived_shared_up_from_diff,derived_shared_down_from_diff,note
+A/B,361,224,2,0,Panel A/B displayed counts are extracted directly from original OAvsCtrl summary heatmap PDFs; subtype diff tables are provided as support and may differ due to upstream binning/filter details.

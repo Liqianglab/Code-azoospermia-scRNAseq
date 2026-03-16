@@ -1,0 +1,7 @@
+metric,comparison,p_value,n_normal,n_group
+ST_lactate_export_z,AZFa vs Normal,0.3333333333333333,5,1
+ST_lactate_export_z,iNOA vs Normal,0.07142857142857142,5,3
+ST_lactate_export_z,KS vs Normal,0.03571428571428571,5,3
+Germ_lactate_uptake_oxidation_z,AZFa vs Normal,0.3333333333333333,5,1
+Germ_lactate_uptake_oxidation_z,iNOA vs Normal,0.03571428571428571,5,3
+Germ_lactate_uptake_oxidation_z,KS vs Normal,0.39285714285714285,5,3

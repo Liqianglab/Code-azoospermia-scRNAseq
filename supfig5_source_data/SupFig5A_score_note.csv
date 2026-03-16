@@ -1,0 +1,2 @@
+note,raw_score_tables,stage_mapping
+Panel A raw score tables were found and exported directly from three Gene set enrichment files.,raw_support/B3_LCs_P20073103.diff_PRO.h5ad - Gene set enrichment17_expression.csv;raw_support/B3_LCs_P20073103.diff_PRO.h5ad - Gene set enrichment10 - Gene set enrichment14_expression.csv;raw_support/B3_LCs_P20073103.diff_PRO.h5ad - Gene set enrichment7_expression.csv,LC1->LC_a;LC2->LC_b;LC3->LC_c

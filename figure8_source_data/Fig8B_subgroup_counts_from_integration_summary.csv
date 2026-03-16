@@ -1,0 +1,15 @@
+cluster,group,count
+Early_primary_SPCs,Ctrl,2789
+Late_primary_SPCs,Ctrl,1266
+Elongated_Spermatids,Ctrl,1351
+Round_Spermatids,Ctrl,97
+SPGs,Ctrl,457
+SSCs,Ctrl,4349
+Sperm,Ctrl,8929
+Early_primary_SPCs,OA,1529
+Late_primary_SPCs,OA,1906
+Elongated_Spermatids,OA,77
+Round_Spermatids,OA,6318
+SPGs,OA,1073
+SSCs,OA,1272
+Sperm,OA,5004

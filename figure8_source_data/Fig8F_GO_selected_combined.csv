@@ -1,0 +1,11 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Downregulated in OA,1,Chromosome segregation,chromosome segregation,exact,True,5.68535613189905e-22,21.245242325826847,82,82/1372,346/18723
+Downregulated in OA,2,RNA splicing,RNA splicing,exact,True,2.91609979074167e-19,18.535197618273504,89,89/1372,434/18723
+Downregulated in OA,3,Aerobic respiration,aerobic respiration,exact,True,4.12239397695197e-12,11.384850505075033,44,44/1372,189/18723
+Downregulated in OA,4,Oxidative phosphorylation,oxidative phosphorylation,exact,True,4.76967254819875e-12,11.321511435507443,37,37/1372,141/18723
+Downregulated in OA,5,ATP metabolic process,ATP metabolic process,exact,True,2.72610000811927e-11,10.56445821593434,54,54/1372,277/18723
+Upregulated in OA,1,Motile cilium,motile cilium,exact,True,4.53709638190223e-15,14.34322199488349,41,41/895,214/19550
+Upregulated in OA,2,Sperm flagellum,sperm flagellum,exact,True,2.19526062837756e-14,13.658513911528088,30,30/895,122/19550
+Upregulated in OA,3,Microtubule-based movement,microtubule-based movement,exact,True,2.2218937343167e-09,8.653276715738746,44,44/799,382/18723
+Upregulated in OA,4,Cilium movement,cilium movement,exact,True,1.14333089127212e-07,6.9418280622933715,25,25/799,175/18723
+Upregulated in OA,5,Fertilization,fertilization,exact,True,1.53891736779667e-07,6.812784698994633,26,26/799,190/18723

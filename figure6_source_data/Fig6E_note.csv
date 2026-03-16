@@ -1,0 +1,2 @@
+target_panelE,used_file,p_column,p_cutoff,lfc_column,lfc_abs_cutoff,up_count,down_count,comment
+"Sig_Up(124), Sig_Down(513)",/Users/xq/Desktop/group1_result.zip/DEGs_result_group1.tsv,pvals,0.05,logfoldchanges,0.484637,124,513,Exact target matched from group1_result DEG table.

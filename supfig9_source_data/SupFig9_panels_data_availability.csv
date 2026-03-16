@@ -1,0 +1,12 @@
+panel,status,note
+A,available,Direct cell-level pseudotime entropy table and smoothed curve are available.
+B,available,Direct GSE149512 cell-level scores and cell-level MWU p-values are available.
+C,available,Direct GSE149512 cell-level scores and cell-level MWU p-values are available.
+D,available,Direct GSE149512 cell-level scores and cell-level MWU p-values are available.
+E,available,Direct GSE149512 cell-level scores and cell-level MWU p-values are available.
+F,available,Direct GSE149512 cell-level scores and cell-level MWU p-values are available.
+G,available,Direct GSE149512 cell-level scores and cell-level MWU p-values are available.
+H,available,H donor-level table is directly available in external-validation metabolic uncoupling bundle.
+I,available,I donor-level table is directly available in external-validation metabolic uncoupling bundle.
+J,available,J donor-level table is directly available; figure annotation p-value uses Normal vs Azoospermia MWU from the same table.
+K,available,K donor-level table is directly available in external-validation metabolic uncoupling bundle.

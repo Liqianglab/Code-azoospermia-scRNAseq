@@ -1,0 +1,17 @@
+condition,network,source,target
+Ctrl,LC ligands,Leydig Cells,Immune Cells
+Ctrl,LC ligands,Leydig Cells,Endothelial Cells
+Ctrl,LC ligands,Leydig Cells,Sertoli Cells
+Ctrl,LC ligands,Leydig Cells,Myoid Cells
+Ctrl,LC receptors,Immune Cells,Leydig Cells
+Ctrl,LC receptors,Endothelial Cells,Leydig Cells
+Ctrl,LC receptors,Sertoli Cells,Leydig Cells
+Ctrl,LC receptors,Myoid Cells,Leydig Cells
+Azoospermia,LC ligands,Leydig Cells,Immune Cells
+Azoospermia,LC ligands,Leydig Cells,Endothelial Cells
+Azoospermia,LC ligands,Leydig Cells,Sertoli Cells
+Azoospermia,LC ligands,Leydig Cells,Myoid Cells
+Azoospermia,LC receptors,Immune Cells,Leydig Cells
+Azoospermia,LC receptors,Endothelial Cells,Leydig Cells
+Azoospermia,LC receptors,Sertoli Cells,Leydig Cells
+Azoospermia,LC receptors,Myoid Cells,Leydig Cells

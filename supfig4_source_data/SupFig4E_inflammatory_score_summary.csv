@@ -1,0 +1,4 @@
+stage_label,score_column,n_cells,mean_score,median_score,min_score,max_score
+Stage_a,immune.csv,702,0.15939031,0.15000000,0.00000000,0.60300000
+Stage_b,immune.csv,9625,0.16782296,0.17000000,0.00000000,0.57800000
+Stage_c,immune.csv,1757,0.02433125,0.00000000,0.00000000,0.36000000

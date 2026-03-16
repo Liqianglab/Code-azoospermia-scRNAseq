@@ -1,0 +1,8 @@
+st_cluster,stage_label_candidate,state,n_cells,ratio_in_cluster
+ST1,Stage_a,1,700,1.00000000
+ST2,Stage_b,1,10,0.00571102
+ST2,Stage_b,2,1723,0.98400914
+ST2,Stage_b,3,18,0.01027984
+ST3,Stage_c,1,216,0.06480648
+ST3,Stage_c,2,383,0.11491149
+ST3,Stage_c,3,2734,0.82028203

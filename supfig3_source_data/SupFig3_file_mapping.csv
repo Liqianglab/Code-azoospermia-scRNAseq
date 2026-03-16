@@ -1,0 +1,8 @@
+panel,cell_stage,comparison,raw_input_file
+A,Late_primary_SPCs,OA vs Ctrl,raw_support/Late_primary_SPCs_CtrlvsOA_P20073103_GSEA_enrichment.xls
+A,Late_primary_SPCs,AZFc_Del vs Ctrl,raw_support/Late_primary_SPCs_CtrlvsAZFc_Del_P20073103_GSEA_enrichment.xls
+A,Late_primary_SPCs,KS vs Ctrl,raw_support/Late_primary_SPCs_CtrlvsKS_P20073103_GSEA_enrichment.xls
+A,Late_primary_SPCs,iNOA_B vs Ctrl,raw_support/Late_primary_SPCs_CtrlvsiNOA_B_P20073103_GSEA_enrichment.xls
+B,Round_Spermatids,OA vs Ctrl,raw_support/Round_Spermatids_CtrlvsOA_P20073103_GSEA_enrichment.xls
+B,Round_Spermatids,AZFc_Del vs Ctrl,raw_support/Round_Spermatids_CtrlvsAZFc_Del_P20073103_GSEA_enrichment.xls
+B,Round_Spermatids,KS vs Ctrl,raw_support/Round_Spermatids_CtrlvsKS_P20073103_GSEA_enrichment.xls

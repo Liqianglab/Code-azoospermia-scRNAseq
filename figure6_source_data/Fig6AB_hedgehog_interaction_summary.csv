@@ -1,0 +1,7 @@
+condition,interacting_pair,n_edges,mean_strength,max_strength
+Ctrl,DHH_HHIP,2,0.27349999999999997,0.375
+Ctrl,DHH_PTCH_BOC_transmembrane_receptor,1,0.3,0.3
+Ctrl,DHH_PTCH_GAS1_transmembrane_receptor,1,0.292,0.292
+Ctrl,DHH_PTCH_CDON_transmembrane_receptor,1,0.225,0.225
+Disease,DHH_HHIP,3,0.31633333333333336,0.358
+Disease,DHH_PTCH_BOC_transmembrane_receptor,1,0.261,0.261

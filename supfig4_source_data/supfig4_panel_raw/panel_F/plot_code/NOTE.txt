@@ -1,0 +1,7 @@
+未在原始目录中定位到 panel F 的原始作图脚本。
+当前可用重建代理作图脚本：
+- source data/supfig4_code/supfig4_panelDF_bubble_proxy_plot.py
+
+说明：
+- 基于 `SupFig4F_ST3vsST1_top20.csv` 绘制 proxy 气泡图。
+- 该图反映当前可定位数据，不等同于最终排版中的多分组矩阵气泡图。

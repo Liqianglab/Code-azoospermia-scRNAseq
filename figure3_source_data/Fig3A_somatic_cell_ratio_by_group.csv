@@ -1,0 +1,25 @@
+group,somatic_celltype,ratio_in_group
+AZFc_Del,Endothelial cells,0.09656301
+AZFc_Del,Immune cells,0.20229133
+AZFc_Del,Leydig cells,0.10703764
+AZFc_Del,Sertoli cells,0.59410802
+Ctrl,Endothelial cells,0.11878845
+Ctrl,Immune cells,0.43965925
+Ctrl,Leydig cells,0.09701846
+Ctrl,Sertoli cells,0.34453384
+KS,Endothelial cells,0.09386359
+KS,Immune cells,0.50299337
+KS,Leydig cells,0.36529827
+KS,Sertoli cells,0.03784477
+OA,Endothelial cells,0.03617021
+OA,Immune cells,0.09042553
+OA,Leydig cells,0.08297872
+OA,Sertoli cells,0.79042553
+iNOA_B,Endothelial cells,0.08733624
+iNOA_B,Immune cells,0.19990296
+iNOA_B,Leydig cells,0.53226589
+iNOA_B,Sertoli cells,0.18049491
+iNOA_S,Endothelial cells,0.03069830
+iNOA_S,Immune cells,0.39058810
+iNOA_S,Leydig cells,0.30175419
+iNOA_S,Sertoli cells,0.27695941

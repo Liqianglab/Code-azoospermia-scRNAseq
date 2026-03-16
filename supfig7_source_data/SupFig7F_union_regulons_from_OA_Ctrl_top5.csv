@@ -1,0 +1,9 @@
+token,regulon,n_target_genes,in_OA_top5,in_Ctrl_top5,in_both
+XBP1(46g),XBP1,46,True,False,False
+SREBF2(75g),SREBF2,75,True,False,False
+ZBTB11(180g),ZBTB11,180,True,True,True
+ILF2(325g),ILF2,325,True,False,False
+EP300(179g),EP300,179,True,True,True
+E2F6(90g),E2F6,90,False,True,False
+TCF7L2(251g),TCF7L2,251,False,True,False
+ZNF770(335g),ZNF770,335,False,True,False

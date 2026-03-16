@@ -1,0 +1,8 @@
+panel,status,note
+A,partial,Featureplot exports available; per-cell score matrix not located in this folder
+B,available,Diagram gene log2FC table and source scripts are available
+C,available,Cell-level score table and group summaries are available
+D,available,Original ODX score table and group summaries are available
+E,available,Original cell-level inputs and plotting script are available
+F,partial,AI-linked tif names and relocated local tif paths are inventoried
+G,available,Conceptual panel (manual drawing in AI)

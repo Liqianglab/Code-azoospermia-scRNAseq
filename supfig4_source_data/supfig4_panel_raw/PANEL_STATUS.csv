@@ -1,0 +1,7 @@
+panel,raw_data_status,plot_code_status,note
+A,available,missing_original_plot_code,"已定位轨迹和diffgene原始表，未找到原始作图脚本。"
+B,available,reconstructed_plot_code_available,"已定位scenic与轨迹文件；重建作图脚本见source data/supfig4_code/supfig4_panelB_heatmap_plot.py。"
+C,available,missing_original_plot_code,"已定位cell-level glycolysis score原始表（SupFig4C_ST_Gene_set_enrichment1_expression.csv）；未找到原始作图脚本。"
+D,partial,reconstructed_proxy_plot_code_available,"已定位ST1vsST3富集xlsx和成图pdf；重建代理作图脚本见source data/supfig4_code/supfig4_panelDF_bubble_proxy_plot.py。"
+E,available,missing_original_plot_code,"已定位cell-level inflammatory/immune score原始表（SupFig4E_ST_Gene_set_enrichment7_expression.csv）；未找到原始作图脚本。"
+F,partial,reconstructed_proxy_plot_code_available,"已定位ST3vsST1富集xlsx和成图pdf；重建代理作图脚本见source data/supfig4_code/supfig4_panelDF_bubble_proxy_plot.py。"

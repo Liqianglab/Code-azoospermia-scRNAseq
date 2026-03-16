@@ -1,0 +1,2 @@
+panel,status,note,n_genes_expected,n_primary_pdfs_found,n_genes_found_in_OA_CTRL_archive_violin,direct_h_csv_found,n_rows_in_direct_h_csv,n_genes_found_in_direct_h_csv
+H,available,"Direct per-cell table fig8h.csv is available and contains all four panel-H genes (CCDC65/DNAH8/PIH1D3/CATSPER3), with group label and UMAP/TSNE coordinates.",4,4,0,True,104807,4

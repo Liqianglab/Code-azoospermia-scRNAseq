@@ -1,0 +1,6 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Upregulated in OA,1,Motile cilium,motile cilium,exact,True,4.53709638190223e-15,14.34322199488349,41,41/895,214/19550
+Upregulated in OA,2,Sperm flagellum,sperm flagellum,exact,True,2.19526062837756e-14,13.658513911528088,30,30/895,122/19550
+Upregulated in OA,3,Microtubule-based movement,microtubule-based movement,exact,True,2.2218937343167e-09,8.653276715738746,44,44/799,382/18723
+Upregulated in OA,4,Cilium movement,cilium movement,exact,True,1.14333089127212e-07,6.9418280622933715,25,25/799,175/18723
+Upregulated in OA,5,Fertilization,fertilization,exact,True,1.53891736779667e-07,6.812784698994633,26,26/799,190/18723

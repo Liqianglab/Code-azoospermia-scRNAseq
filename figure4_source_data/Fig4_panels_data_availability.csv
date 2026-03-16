@@ -1,0 +1,9 @@
+panel,availability,note
+A,full,Cell-level and trajectory line data available.
+B,full,Heatmap matrix file available in ST heatmap export bundle.
+C,full,Per-cell marker expression available from expression marker tables.
+D,full,Stage composition counts available.
+E,full,Per-cell marker expression by group available.
+F,full,Original numeric regulon AUC/Scaled matrices recovered from pyscenic outputs; OA group excluded to match Figure 4.
+G,full,Cell-level BTB integrity score table recovered from ST extraction; OA group excluded to match Figure 4.
+H-I,image_only,Representative IF image panels; numeric source data not applicable.

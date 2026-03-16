@@ -1,0 +1,7 @@
+未在原始目录中定位到 panel B 的原始作图脚本。
+当前可用重建作图脚本：
+- source data/supfig4_code/supfig4_panelB_heatmap_plot.py
+
+说明：
+- 该脚本基于 `SupFig4B_regulon_stage_matrix_target.csv` 绘制 proxy 热图。
+- 其中缺失的 regulon 会在图中标记为灰色。

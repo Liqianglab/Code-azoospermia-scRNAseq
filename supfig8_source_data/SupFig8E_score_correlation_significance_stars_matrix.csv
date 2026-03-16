@@ -1,0 +1,11 @@
+,ST Maturity,BTB Integrity,ST Stress IEG,ST SASP,ST Lactate Export,ST DHH Ligand,LC Mature,LC Immature,Germ Maturity Index,Germ Latest Stage
+ST Maturity,,**,,,*,**,**,*,,*
+BTB Integrity,**,,,,,*,**,**,,*
+ST Stress IEG,,,,**,,,,,,
+ST SASP,,,**,,*,,,,,
+ST Lactate Export,*,,,*,,*,,,,
+ST DHH Ligand,**,*,,,*,,,,*,*
+LC Mature,**,**,,,,,,*,,
+LC Immature,*,**,,,,,*,,*,*
+Germ Maturity Index,,,,,,*,,*,,**
+Germ Latest Stage,*,*,,,,*,,*,**,

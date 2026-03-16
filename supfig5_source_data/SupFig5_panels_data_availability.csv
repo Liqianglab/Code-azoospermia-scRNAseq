@@ -1,0 +1,3 @@
+panel,status,note
+A,available,Original panel A cell-level score tables were added (three Gene set enrichment CSV files); source data can now be exported directly without proxy reconstruction.
+B,available,Original GO enrichment CSV tables for Up/Down are available and top15 tables can be fully reproduced by pvalue ranking.

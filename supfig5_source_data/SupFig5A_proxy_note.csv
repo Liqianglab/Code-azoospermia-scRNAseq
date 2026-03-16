@@ -1,0 +1,2 @@
+note,raw_violin_panels,raw_expression
+Cell-level score tables for panel A were not found in this folder. Proxy scores were reconstructed as mean normalized expression of overlap genes between each gene set and SupFig5A_expression.csv marker columns.,raw_support/SupFig5A_Luteinizing_hormone_violin.pdf;raw_support/SupFig5A_steroid_metabolism_score_violin.pdf;raw_support/SupFig5A_Glucocorticoid_receptor_pathway_score_violin.pdf,raw_support/SupFig5A_expression.csv

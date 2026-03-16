@@ -1,0 +1,4 @@
+panel,dataset,metric,comparison,n_control,n_group,p_value,star
+F,GSE149512,BTB,AZFa vs Control,622,937,6.0780596701139545e-37,****
+F,GSE149512,BTB,iNOA vs Control,622,4691,0.4220181547960406,ns
+F,GSE149512,BTB,KS vs Control,622,523,6.866723067687373e-07,****

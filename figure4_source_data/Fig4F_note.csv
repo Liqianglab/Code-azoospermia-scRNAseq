@@ -1,0 +1,2 @@
+panel,status,note,raw_support_files
+Fig4F,raw,Numeric regulon matrices recovered from ST细胞提取-scenic1_regulon.tar.gz and extracted into raw_support. OA group is excluded in this submission export to match Figure 4 layout.,raw_support/Fig4F_pyscenic_regulonActivity_CellType.xls;raw_support/Fig4F_pyscenic_regulonActivity_byCellType_Scaled_top.xls;raw_support/Fig4F_pyscenic_heatmap_top_annotation.xls;raw_support/Fig4F_pyscenic_aucell.xls;raw_support/Fig4F_pyscenic_regulons.csv

@@ -1,0 +1,143 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1150' height='1380'>
+<text x='20' y='40' font-family='Arial' font-size='31' font-weight='bold'>SupFig4F (proxy)</text>
+<text x='500' y='42' font-family='Arial' font-size='22' font-weight='bold'>ST3 disease vs ctrl: top enriched pathways</text>
+<text x='20' y='70' font-family='Arial' font-size='16'>Proxy plot from source-data GSEA table</text>
+<line x1='710.00' y1='82' x2='710.00' y2='1290' stroke='#777777' stroke-width='1.2' stroke-dasharray='4,4'/>
+<rect x='500' y='90' width='420' height='1200' fill='none' stroke='#333333' stroke-width='1.2'/>
+<line x1='500.11' y1='1290' x2='500.11' y2='1296' stroke='#333333' stroke-width='1'/>
+<text x='500.11' y='1312' text-anchor='middle' font-family='Arial' font-size='12'>-5.91</text>
+<line x1='710.00' y1='1290' x2='710.00' y2='1296' stroke='#333333' stroke-width='1'/>
+<text x='710.00' y='1312' text-anchor='middle' font-family='Arial' font-size='12'>0.00</text>
+<line x1='919.89' y1='1290' x2='919.89' y2='1296' stroke='#333333' stroke-width='1'/>
+<text x='919.89' y='1312' text-anchor='middle' font-family='Arial' font-size='12'>5.91</text>
+<text x='710.00' y='1338' text-anchor='middle' font-family='Arial' font-size='13'>NES</text>
+<line x1='500' y1='120.00' x2='920' y2='120.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='109.00' text-anchor='end' font-family='Arial' font-size='12'>Mapk Signaling Pathway</text>
+<circle cx='814.50' cy='105.00' r='11.93' fill='#D4788A' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='150.00' x2='920' y2='150.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='139.00' text-anchor='end' font-family='Arial' font-size='12'>Regulation Of Actin Cytoskeleton</text>
+<circle cx='797.03' cy='135.00' r='11.93' fill='#DA8D9C' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='180.00' x2='920' y2='180.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='169.00' text-anchor='end' font-family='Arial' font-size='12'>Endocytosis</text>
+<circle cx='824.15' cy='165.00' r='11.93' fill='#D16C80' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='210.00' x2='920' y2='210.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='199.00' text-anchor='end' font-family='Arial' font-size='12'>Chemokine Signaling Pathway</text>
+<circle cx='806.40' cy='195.00' r='11.93' fill='#D78292' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='240.00' x2='920' y2='240.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='229.00' text-anchor='end' font-family='Arial' font-size='12'>Wnt Signaling Pathway</text>
+<circle cx='830.81' cy='225.00' r='11.93' fill='#CF6479' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='270.00' x2='920' y2='270.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='259.00' text-anchor='end' font-family='Arial' font-size='12'>Insulin Signaling Pathway</text>
+<circle cx='830.34' cy='255.00' r='11.93' fill='#CF6579' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='300.00' x2='920' y2='300.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='289.00' text-anchor='end' font-family='Arial' font-size='12'>Spliceosome</text>
+<circle cx='856.13' cy='285.00' r='11.93' fill='#C6455E' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='330.00' x2='920' y2='330.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='319.00' text-anchor='end' font-family='Arial' font-size='12'>Oxidative Phosphorylation</text>
+<circle cx='871.70' cy='315.00' r='11.93' fill='#C1334E' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='360.00' x2='920' y2='360.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='349.00' text-anchor='end' font-family='Arial' font-size='12'>Cell Cycle</text>
+<circle cx='827.89' cy='345.00' r='11.93' fill='#D0687C' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='390.00' x2='920' y2='390.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='379.00' text-anchor='end' font-family='Arial' font-size='12'>Apoptosis</text>
+<circle cx='801.88' cy='375.00' r='11.93' fill='#D88797' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='420.00' x2='920' y2='420.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='409.00' text-anchor='end' font-family='Arial' font-size='12'>Mapk Signaling Pathway</text>
+<circle cx='787.98' cy='405.00' r='11.69' fill='#DD98A6' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='450.00' x2='920' y2='450.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='439.00' text-anchor='end' font-family='Arial' font-size='12'>Focal Adhesion</text>
+<circle cx='794.95' cy='435.00' r='11.69' fill='#DB909E' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='480.00' x2='920' y2='480.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='469.00' text-anchor='end' font-family='Arial' font-size='12'>Endocytosis</text>
+<circle cx='798.47' cy='465.00' r='11.69' fill='#D98C9B' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='510.00' x2='920' y2='510.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='499.00' text-anchor='end' font-family='Arial' font-size='12'>Chemokine Signaling Pathway</text>
+<circle cx='818.23' cy='495.00' r='11.69' fill='#D37386' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='540.00' x2='920' y2='540.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='529.00' text-anchor='end' font-family='Arial' font-size='12'>Wnt Signaling Pathway</text>
+<circle cx='790.84' cy='525.00' r='11.69' fill='#DC95A3' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='570.00' x2='920' y2='570.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='559.00' text-anchor='end' font-family='Arial' font-size='12'>Spliceosome</text>
+<circle cx='834.17' cy='555.00' r='11.69' fill='#CD6075' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='600.00' x2='920' y2='600.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='589.00' text-anchor='end' font-family='Arial' font-size='12'>Insulin Signaling Pathway</text>
+<circle cx='816.24' cy='585.00' r='11.69' fill='#D37688' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='630.00' x2='920' y2='630.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='619.00' text-anchor='end' font-family='Arial' font-size='12'>Oxidative Phosphorylation</text>
+<circle cx='847.72' cy='615.00' r='11.69' fill='#C95067' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='660.00' x2='920' y2='660.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='649.00' text-anchor='end' font-family='Arial' font-size='12'>Cell Cycle</text>
+<circle cx='800.37' cy='645.00' r='11.69' fill='#D98999' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='690.00' x2='920' y2='690.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='679.00' text-anchor='end' font-family='Arial' font-size='12'>Cell Adhesion Molecules Cams</text>
+<circle cx='798.37' cy='675.00' r='11.69' fill='#D98C9B' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='720.00' x2='920' y2='720.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='709.00' text-anchor='end' font-family='Arial' font-size='12'>Mapk Signaling Pathway</text>
+<circle cx='816.88' cy='705.00' r='12.00' fill='#D37587' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='750.00' x2='920' y2='750.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='739.00' text-anchor='end' font-family='Arial' font-size='12'>Regulation Of Actin Cytoskeleton</text>
+<circle cx='814.50' cy='735.00' r='12.00' fill='#D4788A' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='780.00' x2='920' y2='780.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='769.00' text-anchor='end' font-family='Arial' font-size='12'>Endocytosis</text>
+<circle cx='818.06' cy='765.00' r='12.00' fill='#D37486' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='810.00' x2='920' y2='810.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='799.00' text-anchor='end' font-family='Arial' font-size='12'>Chemokine Signaling Pathway</text>
+<circle cx='815.85' cy='795.00' r='12.00' fill='#D47688' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='840.00' x2='920' y2='840.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='829.00' text-anchor='end' font-family='Arial' font-size='12'>Wnt Signaling Pathway</text>
+<circle cx='847.72' cy='825.00' r='12.00' fill='#C95067' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='870.00' x2='920' y2='870.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='859.00' text-anchor='end' font-family='Arial' font-size='12'>Spliceosome</text>
+<circle cx='865.72' cy='855.00' r='12.00' fill='#C33A54' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='900.00' x2='920' y2='900.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='889.00' text-anchor='end' font-family='Arial' font-size='12'>Insulin Signaling Pathway</text>
+<circle cx='825.15' cy='885.00' r='12.00' fill='#D06B7F' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='930.00' x2='920' y2='930.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='919.00' text-anchor='end' font-family='Arial' font-size='12'>Parkinsons Disease</text>
+<circle cx='910.00' cy='915.00' r='12.00' fill='#B40426' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='960.00' x2='920' y2='960.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='949.00' text-anchor='end' font-family='Arial' font-size='12'>Oxidative Phosphorylation</text>
+<circle cx='908.15' cy='945.00' r='12.00' fill='#B50628' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='990.00' x2='920' y2='990.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='979.00' text-anchor='end' font-family='Arial' font-size='12'>T Cell Receptor Signaling Pathway</text>
+<circle cx='800.63' cy='975.00' r='12.00' fill='#D98998' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1020.00' x2='920' y2='1020.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1009.00' text-anchor='end' font-family='Arial' font-size='12'>Endocytosis</text>
+<circle cx='810.81' cy='1005.00' r='10.89' fill='#D57D8E' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1050.00' x2='920' y2='1050.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1039.00' text-anchor='end' font-family='Arial' font-size='12'>Spliceosome</text>
+<circle cx='865.00' cy='1035.00' r='10.89' fill='#C33B55' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1080.00' x2='920' y2='1080.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1069.00' text-anchor='end' font-family='Arial' font-size='12'>Oxidative Phosphorylation</text>
+<circle cx='884.09' cy='1065.00' r='10.89' fill='#BD2341' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1110.00' x2='920' y2='1110.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1099.00' text-anchor='end' font-family='Arial' font-size='12'>Tight Junction</text>
+<circle cx='807.38' cy='1095.00' r='10.89' fill='#D68191' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1140.00' x2='920' y2='1140.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1129.00' text-anchor='end' font-family='Arial' font-size='12'>Pyrimidine Metabolism</text>
+<circle cx='810.98' cy='1125.00' r='10.89' fill='#D57C8D' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1170.00' x2='920' y2='1170.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1159.00' text-anchor='end' font-family='Arial' font-size='12'>Gap Junction</text>
+<circle cx='820.73' cy='1155.00' r='10.89' fill='#D27083' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1200.00' x2='920' y2='1200.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1189.00' text-anchor='end' font-family='Arial' font-size='12'>Rna Degradation</text>
+<circle cx='808.20' cy='1185.00' r='10.89' fill='#D68090' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1230.00' x2='920' y2='1230.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1219.00' text-anchor='end' font-family='Arial' font-size='12'>Glycolysis Gluconeogenesis</text>
+<circle cx='808.44' cy='1215.00' r='10.89' fill='#D67F90' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1260.00' x2='920' y2='1260.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1249.00' text-anchor='end' font-family='Arial' font-size='12'>Proteasome</text>
+<circle cx='825.80' cy='1245.00' r='10.89' fill='#D06A7E' fill-opacity='0.95' stroke='none'/>
+<line x1='500' y1='1290.00' x2='920' y2='1290.00' stroke='#F0F0F0' stroke-width='1'/>
+<text x='488' y='1279.00' text-anchor='end' font-family='Arial' font-size='12'>Basal Transcription Factors</text>
+<circle cx='830.86' cy='1275.00' r='10.89' fill='#CF6479' fill-opacity='0.95' stroke='none'/>
+<text x='1006' y='88' font-family='Arial' font-size='14' font-weight='bold'>-log10(FDR)</text>
+<circle cx='1020' cy='118.00' r='5.70' fill='#1A1A1A'/>
+<text x='1038' y='122.00' font-family='Arial' font-size='12'>1</text>
+<circle cx='1020' cy='152.00' r='8.40' fill='#1A1A1A'/>
+<text x='1038' y='156.00' font-family='Arial' font-size='12'>2</text>
+<circle cx='1020' cy='186.00' r='11.10' fill='#1A1A1A'/>
+<text x='1038' y='190.00' font-family='Arial' font-size='12'>3</text>
+<text x='1006' y='268' font-family='Arial' font-size='14' font-weight='bold'>Color</text>
+<text x='1006' y='286' font-family='Arial' font-size='12'>NES: blue (-) to red (+)</text>
+</svg>

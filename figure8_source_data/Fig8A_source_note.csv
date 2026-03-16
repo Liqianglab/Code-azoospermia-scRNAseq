@@ -1,0 +1,2 @@
+panel,note
+A,UMAP coordinates are from cell_annotation_from_clusters.csv; Myeloid raw clusters were split into Myoid (11/14/27/33) and Immune cells for Figure 8 legend compatibility.

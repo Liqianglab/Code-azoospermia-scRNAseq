@@ -1,0 +1,17 @@
+panel,meaning,shared_count,numbers_raw,subtype,subtype_specific_count
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf),1275.0,"1275,367,55,78,676,102,343,215",,
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf) - subtype-specific,,"1275,367,55,78,676,102,343,215",Early_primary_SPCs,367.0
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf) - subtype-specific,,"1275,367,55,78,676,102,343,215",Elongated_Spermatids,55.0
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf) - subtype-specific,,"1275,367,55,78,676,102,343,215",Late_primary_SPCs,78.0
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf) - subtype-specific,,"1275,367,55,78,676,102,343,215",Round_Spermatids,676.0
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf) - subtype-specific,,"1275,367,55,78,676,102,343,215",Sperm,102.0
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf) - subtype-specific,,"1275,367,55,78,676,102,343,215",SPGs,343.0
+C,Upregulated in OA (from CtrlvsOA_down_DEG_heatmap.pdf) - subtype-specific,,"1275,367,55,78,676,102,343,215",SSCs,215.0
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf),1088.0,"1088,63,24,290,573,67,477,219",,
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf) - subtype-specific,,"1088,63,24,290,573,67,477,219",Early_primary_SPCs,63.0
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf) - subtype-specific,,"1088,63,24,290,573,67,477,219",Elongated_Spermatids,24.0
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf) - subtype-specific,,"1088,63,24,290,573,67,477,219",Late_primary_SPCs,290.0
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf) - subtype-specific,,"1088,63,24,290,573,67,477,219",Round_Spermatids,573.0
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf) - subtype-specific,,"1088,63,24,290,573,67,477,219",Sperm,67.0
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf) - subtype-specific,,"1088,63,24,290,573,67,477,219",SPGs,477.0
+D,Downregulated in OA (from CtrlvsOA_up_DEG_heatmap.pdf) - subtype-specific,,"1088,63,24,290,573,67,477,219",SSCs,219.0

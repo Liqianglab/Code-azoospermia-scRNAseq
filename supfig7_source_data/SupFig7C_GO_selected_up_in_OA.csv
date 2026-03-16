@@ -1,0 +1,6 @@
+direction_in_OA,term_order,term_requested,Description,match_type,found,pvalue,neg_log10_pvalue,Count,GeneRatio,BgRatio
+Upregulated in OA,1,Aerobic respiration,aerobic respiration,exact,True,7.306156638696881e-15,14.13631102106573,32,32/593,189/18723
+Upregulated in OA,2,Cellular respiration,cellular respiration,exact,True,1.1318944810654401e-14,13.946194057623885,35,35/593,230/18723
+Upregulated in OA,3,Electron transport chain,electron transport chain,exact,True,3.6558007100672804e-14,13.43701748713873,30,30/593,175/18723
+Upregulated in OA,4,Respiratory electron transport chain,respiratory electron transport chain,exact,True,1.25850825681735e-13,12.900143930788284,24,24/593,114/18723
+Upregulated in OA,5,Oxidative phosphorylation,oxidative phosphorylation,exact,True,2.31509554792712e-12,11.63543108020491,25,25/593,141/18723

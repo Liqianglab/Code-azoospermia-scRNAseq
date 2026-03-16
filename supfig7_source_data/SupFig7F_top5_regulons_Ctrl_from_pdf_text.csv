@@ -1,0 +1,6 @@
+group,rank_in_pdf_text,token,regulon,n_target_genes
+Ctrl,1,E2F6(90g),E2F6,90
+Ctrl,2,EP300(179g),EP300,179
+Ctrl,3,TCF7L2(251g),TCF7L2,251
+Ctrl,4,ZNF770(335g),ZNF770,335
+Ctrl,5,ZBTB11(180g),ZBTB11,180
